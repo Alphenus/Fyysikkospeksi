@@ -92,8 +92,8 @@ $font-family-sans-serif: 'Titillium Web', "Helvetica Neue", Helvetica, Roboto, A
 // $font-family-monospace: Consolas, "Liberation Mono", Courier, monospace;
 
 // We use these to define default font weights
-// $font-weight-normal: normal;
-// $font-weight-bold: bold;
+$font-weight-normal: normal;
+$font-weight-bold: bold;
 
 // $white       : #FFFFFF;
 // $ghost       : #FAFAFA;
@@ -210,10 +210,10 @@ $secondary-color: #DE6FFE;
 // $include-html-type-classes: $include-html-classes;
 
 // We use these to control header font styles
-// $header-font-family: $body-font-family;
+$header-font-family: 'Raleway', sans-serif;
 // $header-font-weight: $font-weight-normal;
 // $header-font-style: normal;
-// $header-font-color: $jet;
+$header-font-color: #7F00A4;
 // $header-line-height: 1.4;
 // $header-top-margin: .2rem;
 // $header-bottom-margin: .5rem;
@@ -1018,12 +1018,12 @@ $magellan-padding: 10px;
 // $price-table-margin-bottom: rem-calc(20);
 
 // We use these to control the title styles
-// $price-title-bg: $oil;
+$price-title-bg: $primary-color;
 // $price-title-padding: rem-calc(15 20);
 // $price-title-align: center;
 // $price-title-color: $smoke;
-// $price-title-weight: $font-weight-normal;
-// $price-title-size: rem-calc(16);
+$price-title-weight: $font-weight-bold;
+$price-title-size: rem-calc(19);
 // $price-title-font-family: $body-font-family;
 
 // We use these to control the price styles

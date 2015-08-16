@@ -4721,11 +4721,11 @@ ul.pagination {
     line-height: 1; }
   /* line 142, ../bower_components/foundation/scss/foundation/components/_pricing-tables.scss */
   .pricing-table .title {
-    background-color: #333333;
+    background-color: #7F00A4;
     color: #EEEEEE;
     font-family: "Titillium Web", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
-    font-size: 1rem;
-    font-weight: normal;
+    font-size: 1.1875rem;
+    font-weight: bold;
     padding: 0.9375rem 1.25rem;
     text-align: center; }
   /* line 143, ../bower_components/foundation/scss/foundation/components/_pricing-tables.scss */
@@ -6537,8 +6537,8 @@ p {
 /* Default header styles */
 /* line 252, ../bower_components/foundation/scss/foundation/components/_type.scss */
 h1, h2, h3, h4, h5, h6 {
-  color: #222222;
-  font-family: "Titillium Web", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  color: #7F00A4;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: 1.4;
@@ -6547,7 +6547,7 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility; }
   /* line 262, ../bower_components/foundation/scss/foundation/components/_type.scss */
   h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
-    color: #6f6f6f;
+    color: #cc1eff;
     font-size: 60%;
     line-height: 0; }
 
@@ -6578,7 +6578,7 @@ h6 {
 /* line 276, ../bower_components/foundation/scss/foundation/components/_type.scss */
 .subheader {
   line-height: 1.4;
-  color: #6f6f6f;
+  color: #cc1eff;
   font-weight: normal;
   margin-top: 0.2rem;
   margin-bottom: 0.5rem; }
@@ -6714,20 +6714,20 @@ blockquote {
   blockquote cite {
     display: block;
     font-size: 0.8125rem;
-    color: #555555; }
+    color: #bd00f4; }
     /* line 408, ../bower_components/foundation/scss/foundation/components/_type.scss */
     blockquote cite:before {
       content: "\2014 \0020"; }
     /* line 412, ../bower_components/foundation/scss/foundation/components/_type.scss */
     blockquote cite a,
     blockquote cite a:visited {
-      color: #555555; }
+      color: #bd00f4; }
 
 /* line 418, ../bower_components/foundation/scss/foundation/components/_type.scss */
 blockquote,
 blockquote p {
   line-height: 1.6;
-  color: #6f6f6f; }
+  color: #cc1eff; }
 
 /* Microformats */
 /* line 425, ../bower_components/foundation/scss/foundation/components/_type.scss */
@@ -7838,36 +7838,52 @@ th.hide-for-touch {
 #topLogo {
   width: 100%;
   height: 600px;
-  background: black; }
+  background: black;
+  background-image: url("../img/mielenpuhaltajat.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center; }
+  /* line 40, ../scss/_style.scss */
+  #topLogo img {
+    width: 80%;
+    margin: 0 auto; }
 
-/* line 37, ../scss/_style.scss */
+/* line 46, ../scss/_style.scss */
 .high400 {
   min-height: 400px; }
 
-/* line 41, ../scss/_style.scss */
+/* line 50, ../scss/_style.scss */
 h1, h2 {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 0;
+  margin-bottom: 0;
   font-weight: 600;
   text-transform: uppercase;
   text-align: center;
   text-shadow: -3px -3px 0 #DE6FFE, -3px -2px 0 #DE6FFE, -3px -1px 0 #DE6FFE, -3px 0px 0 #DE6FFE, -3px 1px 0 #DE6FFE, -3px 2px 0 #DE6FFE, -3px 3px 0 #DE6FFE, -2px -3px 0 #DE6FFE, -2px -2px 0 #DE6FFE, -2px -1px 0 #DE6FFE, -2px 0px 0 #DE6FFE, -2px 1px 0 #DE6FFE, -2px 2px 0 #DE6FFE, -2px 3px 0 #DE6FFE, -1px -3px 0 #DE6FFE, -1px -2px 0 #DE6FFE, -1px -1px 0 #DE6FFE, -1px 0px 0 #DE6FFE, -1px 1px 0 #DE6FFE, -1px 2px 0 #DE6FFE, -1px 3px 0 #DE6FFE, 0px -3px 0 #DE6FFE, 0px -2px 0 #DE6FFE, 0px -1px 0 #DE6FFE, 0px 0px 0 #DE6FFE, 0px 1px 0 #DE6FFE, 0px 2px 0 #DE6FFE, 0px 3px 0 #DE6FFE, 1px -3px 0 #DE6FFE, 1px -2px 0 #DE6FFE, 1px -1px 0 #DE6FFE, 1px 0px 0 #DE6FFE, 1px 1px 0 #DE6FFE, 1px 2px 0 #DE6FFE, 1px 3px 0 #DE6FFE, 2px -3px 0 #DE6FFE, 2px -2px 0 #DE6FFE, 2px -1px 0 #DE6FFE, 2px 0px 0 #DE6FFE, 2px 1px 0 #DE6FFE, 2px 2px 0 #DE6FFE, 2px 3px 0 #DE6FFE, 3px -3px 0 #DE6FFE, 3px -2px 0 #DE6FFE, 3px -1px 0 #DE6FFE, 3px 0px 0 #DE6FFE, 3px 1px 0 #DE6FFE, 3px 2px 0 #DE6FFE, 3px 3px 0 #DE6FFE; }
 
-/* line 51, ../scss/_style.scss */
+/* line 61, ../scss/_style.scss */
+.titlebar {
+  width: 150px;
+  height: 3px;
+  margin: 0 auto 30px;
+  background-color: #7F00A4; }
+
+/* line 68, ../scss/_style.scss */
 [data-magellan-expedition] {
   left: auto !important; }
 
-/* line 56, ../scss/_style.scss */
+/* line 73, ../scss/_style.scss */
 .stickyMenu, .fixed {
   min-width: 0;
   width: 100%;
   max-width: 1000px;
   margin: 0 auto; }
-  /* line 62, ../scss/_style.scss */
+  /* line 79, ../scss/_style.scss */
   .stickyMenu a, .fixed a {
     font-size: 1rem; }
 
-/* line 67, ../scss/_style.scss */
+/* line 84, ../scss/_style.scss */
 .date-ball {
   display: inline-block;
   background-color: #D100A2;
@@ -7886,16 +7902,16 @@ h1, h2 {
   -ms-transition: all 0.3s ease;
   transition: all 0.3s ease; }
   @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-    /* line 67, ../scss/_style.scss */
+    /* line 84, ../scss/_style.scss */
     .date-ball {
       width: 120px;
       height: 120px; } }
   @media only screen and (max-width: 40em) {
-    /* line 67, ../scss/_style.scss */
+    /* line 84, ../scss/_style.scss */
     .date-ball {
       width: 100px;
       height: 100px; } }
-  /* line 95, ../scss/_style.scss */
+  /* line 112, ../scss/_style.scss */
   .date-ball:hover {
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -7907,27 +7923,45 @@ h1, h2 {
     -webkit-box-shadow: 0px 0px 10px 4px #de6ffe;
     -moz-box-shadow: 0px 0px 10px 4px #de6ffe;
     box-shadow: 0px 0px 10px 4px #de6ffe; }
-  /* line 106, ../scss/_style.scss */
+  /* line 123, ../scss/_style.scss */
   .date-ball .date-pvm {
     display: block;
     margin-top: 50px;
     font-size: 3rem;
     line-height: 2rem;
     font-weight: 700; }
-  /* line 114, ../scss/_style.scss */
+    @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
+      /* line 123, ../scss/_style.scss */
+      .date-ball .date-pvm {
+        font-size: 2.5rem;
+        margin-top: 35px; } }
+    @media only screen and (max-width: 40em) {
+      /* line 123, ../scss/_style.scss */
+      .date-ball .date-pvm {
+        font-size: 2rem;
+        margin-top: 25px; } }
+  /* line 141, ../scss/_style.scss */
   .date-ball .date-loc {
     display: block;
     text-transform: uppercase;
     font-size: 1.4rem;
     font-weight: 400; }
+    @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
+      /* line 141, ../scss/_style.scss */
+      .date-ball .date-loc {
+        font-size: 1.2rem; } }
+    @media only screen and (max-width: 40em) {
+      /* line 141, ../scss/_style.scss */
+      .date-ball .date-loc {
+        font-size: 1rem; } }
 
-/* line 122, ../scss/_style.scss */
-#sponsor-dia {
+/* line 157, ../scss/_style.scss */
+#sponsorit {
   width: 100%;
   padding-top: 50px;
   padding-bottom: 50px;
   background-image: url("../img/swirl-pink.png"); }
 
-/* line 130, ../scss/_style.scss */
+/* line 165, ../scss/_style.scss */
 .footer {
   background-color: beige; }

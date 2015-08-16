@@ -32,6 +32,15 @@
     width: 100%;
     height: 600px;
     background: black;
+    background-image: url('../img/mielenpuhaltajat.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    
+    img {
+        width: 80%;
+        margin: 0 auto;
+    }
 }
 
 .high400 {
@@ -40,12 +49,20 @@
 
 h1, h2 {
     padding-top: 30px;
-    padding-bottom: 30px;
+    padding-bottom: 0;
+    margin-bottom: 0;
     font-weight: 600;
     text-transform: uppercase;
     text-align: center;
     
     @include stroke(3, #DE6FFE )
+}
+
+.titlebar {
+    width: 150px;
+    height: 3px;
+    margin: 0 auto 30px;
+    background-color: #7F00A4;
 }
 
 [data-magellan-expedition] {
@@ -109,6 +126,16 @@ h1, h2 {
         font-size: 3rem;
         line-height: 2rem;
         font-weight: 700;
+        
+        @media #{$medium-only} {
+            font-size: 2.5rem;
+            margin-top: 35px;
+        }
+
+        @media #{$small-only} {
+            font-size: 2rem;
+            margin-top: 25px;
+        }
     }
     
     .date-loc {
@@ -116,10 +143,18 @@ h1, h2 {
         text-transform: uppercase;
         font-size: 1.4rem;
         font-weight: 400;
+        
+        @media #{$medium-only} {
+            font-size: 1.2rem;
+        }
+
+        @media #{$small-only} {
+            font-size: 1rem;
+        }
     }
 }
 
-#sponsor-dia {
+#sponsorit {
     width: 100%;
     padding-top: 50px;
     padding-bottom: 50px;
