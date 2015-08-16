@@ -7837,22 +7837,18 @@ th.hide-for-touch {
 /* line 31, ../scss/_style.scss */
 #topLogo {
   width: 100%;
-  height: 600px;
+  height: 90%;
   background: black;
   background-image: url("../img/mielenpuhaltajat.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center; }
-  /* line 40, ../scss/_style.scss */
-  #topLogo img {
-    width: 80%;
-    margin: 0 auto; }
 
-/* line 46, ../scss/_style.scss */
+/* line 41, ../scss/_style.scss */
 .high400 {
   min-height: 400px; }
 
-/* line 50, ../scss/_style.scss */
+/* line 45, ../scss/_style.scss */
 h1, h2 {
   padding-top: 30px;
   padding-bottom: 0;
@@ -7862,28 +7858,28 @@ h1, h2 {
   text-align: center;
   text-shadow: -3px -3px 0 #DE6FFE, -3px -2px 0 #DE6FFE, -3px -1px 0 #DE6FFE, -3px 0px 0 #DE6FFE, -3px 1px 0 #DE6FFE, -3px 2px 0 #DE6FFE, -3px 3px 0 #DE6FFE, -2px -3px 0 #DE6FFE, -2px -2px 0 #DE6FFE, -2px -1px 0 #DE6FFE, -2px 0px 0 #DE6FFE, -2px 1px 0 #DE6FFE, -2px 2px 0 #DE6FFE, -2px 3px 0 #DE6FFE, -1px -3px 0 #DE6FFE, -1px -2px 0 #DE6FFE, -1px -1px 0 #DE6FFE, -1px 0px 0 #DE6FFE, -1px 1px 0 #DE6FFE, -1px 2px 0 #DE6FFE, -1px 3px 0 #DE6FFE, 0px -3px 0 #DE6FFE, 0px -2px 0 #DE6FFE, 0px -1px 0 #DE6FFE, 0px 0px 0 #DE6FFE, 0px 1px 0 #DE6FFE, 0px 2px 0 #DE6FFE, 0px 3px 0 #DE6FFE, 1px -3px 0 #DE6FFE, 1px -2px 0 #DE6FFE, 1px -1px 0 #DE6FFE, 1px 0px 0 #DE6FFE, 1px 1px 0 #DE6FFE, 1px 2px 0 #DE6FFE, 1px 3px 0 #DE6FFE, 2px -3px 0 #DE6FFE, 2px -2px 0 #DE6FFE, 2px -1px 0 #DE6FFE, 2px 0px 0 #DE6FFE, 2px 1px 0 #DE6FFE, 2px 2px 0 #DE6FFE, 2px 3px 0 #DE6FFE, 3px -3px 0 #DE6FFE, 3px -2px 0 #DE6FFE, 3px -1px 0 #DE6FFE, 3px 0px 0 #DE6FFE, 3px 1px 0 #DE6FFE, 3px 2px 0 #DE6FFE, 3px 3px 0 #DE6FFE; }
 
-/* line 61, ../scss/_style.scss */
+/* line 56, ../scss/_style.scss */
 .titlebar {
   width: 150px;
   height: 3px;
   margin: 0 auto 30px;
   background-color: #7F00A4; }
 
-/* line 68, ../scss/_style.scss */
+/* line 63, ../scss/_style.scss */
 [data-magellan-expedition] {
   left: auto !important; }
 
-/* line 73, ../scss/_style.scss */
+/* line 68, ../scss/_style.scss */
 .stickyMenu, .fixed {
   min-width: 0;
   width: 100%;
   max-width: 1000px;
   margin: 0 auto; }
-  /* line 79, ../scss/_style.scss */
+  /* line 74, ../scss/_style.scss */
   .stickyMenu a, .fixed a {
     font-size: 1rem; }
 
-/* line 84, ../scss/_style.scss */
+/* line 79, ../scss/_style.scss */
 .date-ball {
   display: inline-block;
   background-color: #D100A2;
@@ -7902,16 +7898,16 @@ h1, h2 {
   -ms-transition: all 0.3s ease;
   transition: all 0.3s ease; }
   @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-    /* line 84, ../scss/_style.scss */
+    /* line 79, ../scss/_style.scss */
     .date-ball {
       width: 120px;
       height: 120px; } }
   @media only screen and (max-width: 40em) {
-    /* line 84, ../scss/_style.scss */
+    /* line 79, ../scss/_style.scss */
     .date-ball {
       width: 100px;
       height: 100px; } }
-  /* line 112, ../scss/_style.scss */
+  /* line 107, ../scss/_style.scss */
   .date-ball:hover {
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -7923,7 +7919,7 @@ h1, h2 {
     -webkit-box-shadow: 0px 0px 10px 4px #de6ffe;
     -moz-box-shadow: 0px 0px 10px 4px #de6ffe;
     box-shadow: 0px 0px 10px 4px #de6ffe; }
-  /* line 123, ../scss/_style.scss */
+  /* line 118, ../scss/_style.scss */
   .date-ball .date-pvm {
     display: block;
     margin-top: 50px;
@@ -7931,37 +7927,37 @@ h1, h2 {
     line-height: 2rem;
     font-weight: 700; }
     @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-      /* line 123, ../scss/_style.scss */
+      /* line 118, ../scss/_style.scss */
       .date-ball .date-pvm {
         font-size: 2.5rem;
         margin-top: 35px; } }
     @media only screen and (max-width: 40em) {
-      /* line 123, ../scss/_style.scss */
+      /* line 118, ../scss/_style.scss */
       .date-ball .date-pvm {
         font-size: 2rem;
         margin-top: 25px; } }
-  /* line 141, ../scss/_style.scss */
+  /* line 136, ../scss/_style.scss */
   .date-ball .date-loc {
     display: block;
     text-transform: uppercase;
     font-size: 1.4rem;
     font-weight: 400; }
     @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-      /* line 141, ../scss/_style.scss */
+      /* line 136, ../scss/_style.scss */
       .date-ball .date-loc {
         font-size: 1.2rem; } }
     @media only screen and (max-width: 40em) {
-      /* line 141, ../scss/_style.scss */
+      /* line 136, ../scss/_style.scss */
       .date-ball .date-loc {
         font-size: 1rem; } }
 
-/* line 157, ../scss/_style.scss */
+/* line 152, ../scss/_style.scss */
 #spons {
   width: 100%;
   padding-top: 50px;
   padding-bottom: 50px;
   background-image: url("../img/swirl-pink.png"); }
 
-/* line 165, ../scss/_style.scss */
+/* line 160, ../scss/_style.scss */
 .footer {
   background-color: beige; }
