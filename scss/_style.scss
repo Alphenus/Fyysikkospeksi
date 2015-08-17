@@ -28,10 +28,14 @@
           transition: all 0.3s ease;
 }
 
+html {
+    //background-color: #08000B;
+}
+
 #topLogo {
     width: 100%;
     height: 90%;
-    background: black;
+    background: $darklila;
     background-image: url('../img/mielenpuhaltajat.png');
     background-size: contain;
     background-repeat: no-repeat;
@@ -39,7 +43,7 @@
 }
 
 .high400 {
-    min-height: 400px;
+    //min-height: 400px;
 }
 
 h1, h2 {
@@ -50,30 +54,39 @@ h1, h2 {
     text-transform: uppercase;
     text-align: center;
     
-    @include stroke(3, #DE6FFE )
+    //@include stroke(3, #D100A2  )
 }
 
 .titlebar {
-    width: 150px;
-    height: 3px;
+    width: 100px;
+    height: 5px;
     margin: 0 auto 30px;
-    background-color: #7F00A4;
+    background-color: #D100A2;
 }
 
-[data-magellan-expedition] {
+[data-magellan-expedition], [data-magellan-expedition-clone] {
   left: auto !important;
-  
+  background-color: $darklila !important;
 }
 
 .stickyMenu, .fixed {
-    min-width:0;
-    width: 100%;
-    max-width: 1000px;
-    margin:0 auto;
+    //min-width:0;
+    //width: 100%;
+    //max-width: 1000px;
+    right: 0;
+ 
+
     
     a {
         font-size: 1rem;
     }
+}
+
+.sub-nav {
+        margin: 0 auto !important;
+    width: -webkit-fit-content;
+       width: -moz-fit-content;
+            width: fit-content;
 }
 
 .date-ball {
@@ -153,7 +166,6 @@ h1, h2 {
     width: 100%;
     padding-top: 50px;
     padding-bottom: 50px;
-    background-image: url('../img/swirl-pink.png')
 }
 
 

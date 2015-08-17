@@ -96,7 +96,7 @@ $font-weight-normal: normal;
 $font-weight-bold: bold;
 
 // $white       : #FFFFFF;
-// $ghost       : #FAFAFA;
+$ghost       : #FAFAFA;
 // $snow        : #F9F9F9;
 // $vapor       : #F6F6F6;
 // $white-smoke : #F5F5F5;
@@ -113,7 +113,9 @@ $font-weight-bold: bold;
 // $tuatara     : #444444;
 // $oil         : #333333;
 // $jet         : #222222;
-// $black       : #000000;
+$black       : #000000;
+
+$darklila: #08000B;
 
 // We use these as default colors throughout
 $primary-color: #7F00A4;
@@ -124,8 +126,8 @@ $secondary-color: #DE6FFE;
 // $info-color: #a0d3e8;
 
 // We use these to control various global styles
-// $body-bg: $white;
-// $body-font-color: $jet;
+$body-bg: $darklila ;
+$body-font-color: $ghost;
 // $body-font-family: $font-family-sans-serif;
 // $body-font-weight: $font-weight-normal;
 // $body-font-style: normal;
@@ -213,7 +215,7 @@ $secondary-color: #DE6FFE;
 $header-font-family: 'Raleway', sans-serif;
 // $header-font-weight: $font-weight-normal;
 // $header-font-style: normal;
-$header-font-color: #7F00A4;
+$header-font-color: #D100A2; //#7F00A4;
 // $header-line-height: 1.4;
 // $header-top-margin: .2rem;
 // $header-bottom-margin: .5rem;
