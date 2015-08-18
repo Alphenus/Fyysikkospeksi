@@ -9,6 +9,7 @@
     
     <link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,600,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,600,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 <!--    <script src="bower_components/modernizr/modernizr.js"></script>-->
   </head>
   <body>
@@ -16,7 +17,7 @@
    <div id="topLogo">
    </div>
     
-    <div class="row">
+    <div class="row topmenu">
     <div class="stickyMenu" data-magellan-expedition="fixed">
       <dl class="sub-nav">
         <dd data-magellan-arrival="spx15"><a href="#spx15">Fyysikkospeksi 2015</a></dd>
@@ -46,48 +47,59 @@
         
         <div class="row">
             <div class="large-10 large-offset-1 medium-10 medium-offset-1 columns">
-                <a href="#liput" class="date-ball"><span class="date-pvm">10.10.</span> <span class="date-loc">Louhisali</span></a>
-                <a href="#liput" class="date-ball"><span class="date-pvm">11.10.</span> <span class="date-loc">Louhisali</span></a>
-                <a href="#liput" class="date-ball"><span class="date-pvm">26.10.</span> <span class="date-loc">Gloria</span></a>
-                <a href="#liput" class="date-ball"><span class="date-pvm">27.10.</span> <span class="date-loc">Gloria</span></a>
+                <div class="lippupallot">
+                    <a href="https://holvi.com/shop/fyysikkospeksi/section/louhisali-i-la-1010-klo-18/"  target="_blank" class="date-ball">
+                        <span class="date-day">LA</span><span class="date-pvm">10.10.</span> 
+                        <span class="date-loc">Louhisali</span> <span class="date-tic"><i class="fa fa-2x fa-ticket"></i></span>
+                    </a>
+                    <a href="https://holvi.com/shop/fyysikkospeksi/section/louhisali-ii-su-1110-klo-16/" target="_blank" class="date-ball">
+                        <span class="date-day">SU</span><span class="date-pvm">10.10.</span> 
+                        <span class="date-loc">Louhisali</span> <span class="date-tic"><i class="fa fa-2x fa-ticket"></i></span>
+                    </a>
+                    <a href="https://holvi.com/shop/fyysikkospeksi/section/gloria-i-ma-2610-klo-19/" target="_blank" class="date-ball">
+                        <span class="date-day">MA</span><span class="date-pvm">26.10.</span> 
+                        <span class="date-loc">Gloria</span> <span class="date-tic"><i class="fa fa-2x fa-ticket"></i></span>
+                    </a>
+                    <a href="https://holvi.com/shop/fyysikkospeksi/section/gloria-ii-ti-2710-klo-19/" target="_blank" class="date-ball">
+                        <span class="date-day">TI</span><span class="date-pvm">27.10.</span> 
+                        <span class="date-loc">Gloria</span> <span class="date-tic"><i class="fa fa-2x fa-ticket"></i></span>
+                    </a>
+                </div>
             </div>
-        
         </div>
+        
     </dia>
     
     
     
     <div id="liput" >
-        <div class="row high400" data-equalizer >
+        <div class="row"  >
           <div class="large-12 columns">
             <h2 data-magellan-destination="liput">Liput</h2> <div class="titlebar"></div><a name="liput"></a>
           </div>
     
-      
-          <div class="medium-4 columns" data-equalizer-watch >
-            <ul class="pricing-table">
+        <div class="row" data-equalizer>
+          <div class="medium-4 columns"  >
+            <ul class="pricing-table" data-equalizer-watch>
               <li class="title">Opiskelija</li>
               <li class="price">12 / 14&nbsp;&euro;</li>
               <li class="description">Opiskelijatovereille</li>
-              <li class="cta-button"><a class="button" href="https://holvi.com/shop/fyysikkospeksi/">Osta</a></li>
             </ul>
           </div>
 
-          <div class="medium-4 columns" data-equalizer-watch >
-            <ul class="pricing-table">
+          <div class="medium-4 columns"  >
+            <ul class="pricing-table" data-equalizer-watch>
               <li class="title">Aikuinen</li>
               <li class="price">18&nbsp;&euro;</li>
-              <li class="description">Niille vähäosaisille, joilla ei opiskelijakorttia enää ole liibadi laabadi</li>
-              <li class="cta-button"><a class="button" href="https://holvi.com/shop/fyysikkospeksi/">Osta</a></li>
+              <li class="description"></li>
             </ul>
           </div>
 
-          <div class="medium-4 columns" data-equalizer-watch >
-            <ul class="pricing-table">
+          <div class="medium-4 columns"  >
+            <ul class="pricing-table" data-equalizer-watch>
               <li class="title">Kannatus</li>
               <li class="price">35&nbsp;&euro;</li>
               <li class="description">Haluatko tukea Fyysikkospeksiä?</li>
-              <li class="cta-button"><a class="button" href="https://holvi.com/shop/fyysikkospeksi/">Osta</a></li>
             </ul>  
           </div>
         </div>
@@ -102,15 +114,28 @@
           </div>
         </div>
 
-            <div class="row">
-                <div class="large-10 large-offset-1 medium-10 medium-offset-1 columns">
-                    <a href="#liput" class="date-ball"><span class="date-pvm">10.10.</span> <span class="date-loc">Louhisali</span></a>
-                    <a href="#liput" class="date-ball"><span class="date-pvm">11.10.</span> <span class="date-loc">Louhisali</span></a>
-                    <a href="#liput" class="date-ball"><span class="date-pvm">26.10.</span> <span class="date-loc">Gloria</span></a>
-                    <a href="#liput" class="date-ball"><span class="date-pvm">27.10.</span> <span class="date-loc">Gloria</span></a>
+        <div class="row">
+            <div class="large-10 large-offset-1 medium-10 medium-offset-1 columns">
+                <div class="lippupallot">
+                    <a href="https://holvi.com/shop/fyysikkospeksi/section/louhisali-i-la-1010-klo-18/"  target="_blank" class="date-ball">
+                        <span class="date-day">LA</span><span class="date-pvm">10.10.</span> 
+                        <span class="date-loc">Louhisali</span> <span class="date-tic"><i class="fa fa-2x fa-ticket"></i></span>
+                    </a>
+                    <a href="https://holvi.com/shop/fyysikkospeksi/section/louhisali-ii-su-1110-klo-16/" target="_blank" class="date-ball">
+                        <span class="date-day">SU</span><span class="date-pvm">10.10.</span> 
+                        <span class="date-loc">Louhisali</span> <span class="date-tic"><i class="fa fa-2x fa-ticket"></i></span>
+                    </a>
+                    <a href="https://holvi.com/shop/fyysikkospeksi/section/gloria-i-ma-2610-klo-19/" target="_blank" class="date-ball">
+                        <span class="date-day">MA</span><span class="date-pvm">26.10.</span> 
+                        <span class="date-loc">Gloria</span> <span class="date-tic"><i class="fa fa-2x fa-ticket"></i></span>
+                    </a>
+                    <a href="https://holvi.com/shop/fyysikkospeksi/section/gloria-ii-ti-2710-klo-19/" target="_blank" class="date-ball">
+                        <span class="date-day">TI</span><span class="date-pvm">27.10.</span> 
+                        <span class="date-loc">Gloria</span> <span class="date-tic"><i class="fa fa-2x fa-ticket"></i></span>
+                    </a>
                 </div>
-
             </div>
+        </div>
 
         <div class="row">  
           <div class="large-6 columns" >
@@ -128,9 +153,9 @@
 <div id="spons">
     <div class="row">
       <div class="medium-8 medium-offset-2 columns">
-        <h2 class="text-center">Pääyhteistyökumppani</h2> <div class="titlebar"></div>
+        <h2 class="text-center">Pääyhteistyö&shy;kumppani</h2> <div class="titlebar"></div>
         <p>
-            <img src="img/cybershop_logo.png" alt="Cybershop">
+            <a href="http://www.cybershop.fi/" target="_blank"><img src="img/cybershop_logo.png" alt="Cybershop"></a>
         </p>
       </div>
     </div>
@@ -171,15 +196,17 @@
 
 <div class="footer"> 
     <div class="row">
-        <div class="medium-4 columns text-center medium-push-4">Top&nbsp;</div>
-        <div class="medium-4 columns small-text-center medium-pull-4">Cntr&nbsp;</div>
-        <div class="medium-4 columns small-text-center medium-text-right">Btm&nbsp;</div>
+        <div class="medium-4 columns text-center medium-push-4"><a href="http://fyysikkokilta.fi" target="_blank"><img src="img/fii-n.png" alt="Fyysikkokilta"></a>&nbsp;</div>
+        <div class="medium-4 columns small-text-center medium-pull-4">&nbsp;</div>
+        <div class="medium-4 columns small-text-center medium-text-right">&nbsp;</div>
     </div>
 </div>       
 
 
     <script src="bower_components/jquery/dist/jquery.min.js"></script>
-    <script src="bower_components/foundation/js/foundation.min.js"></script>
+    <script src="bower_components/foundation/js/foundation.js"></script>
+    <script src="bower_components/foundation/js/foundation/foundation.equalizer.js"></script>
+    
     <script src="js/app.js"></script>
   </body>
 </html>

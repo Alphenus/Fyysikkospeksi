@@ -7834,17 +7834,20 @@ th.hide-for-touch {
   /* line 489, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
   .show-for-print {
     display: none !important; } }
+/* line 31, ../scss/_style.scss */
+body {
+  background-image: url(../img/broken_noise-l.png); }
+
 /* line 35, ../scss/_style.scss */
 #topLogo {
   width: 100%;
   height: 90%;
-  background: #08000B;
   background-image: url("../img/mielenpuhaltajat.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center; }
 
-/* line 49, ../scss/_style.scss */
+/* line 48, ../scss/_style.scss */
 h1, h2 {
   padding-top: 30px;
   padding-bottom: 0;
@@ -7853,33 +7856,55 @@ h1, h2 {
   text-transform: uppercase;
   text-align: center; }
 
-/* line 60, ../scss/_style.scss */
+/* line 59, ../scss/_style.scss */
+h3 {
+  color: #D9B816; }
+
+/* line 63, ../scss/_style.scss */
 .titlebar {
   width: 100px;
   height: 5px;
   margin: 0 auto 30px;
-  background-color: #D100A2; }
+  background-color: #D9B816; }
 
-/* line 67, ../scss/_style.scss */
+/* line 70, ../scss/_style.scss */
 [data-magellan-expedition], [data-magellan-expedition-clone] {
   left: auto !important;
   background-color: #08000B !important; }
 
-/* line 72, ../scss/_style.scss */
+/* line 76, ../scss/_style.scss */
+.topmenu:before, .topmenu:after {
+  background-color: #08000B;
+  width: 100%; }
+
+/* line 82, ../scss/_style.scss */
 .stickyMenu, .fixed {
   right: 0; }
-  /* line 80, ../scss/_style.scss */
+  /* line 90, ../scss/_style.scss */
   .stickyMenu a, .fixed a {
     font-size: 1rem; }
 
-/* line 85, ../scss/_style.scss */
+/* line 95, ../scss/_style.scss */
 .sub-nav {
   margin: 0 auto !important;
   width: -webkit-fit-content;
   width: -moz-fit-content;
   width: fit-content; }
+  /* line 101, ../scss/_style.scss */
+  .sub-nav dd {
+    margin: 0 0.5rem; }
+  /* line 106, ../scss/_style.scss */
+  .sub-nav .active a {
+    background-color: #D9B816 !important; }
 
-/* line 92, ../scss/_style.scss */
+/* line 112, ../scss/_style.scss */
+.lippupallot {
+  margin: 0 auto !important;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content; }
+
+/* line 119, ../scss/_style.scss */
 .date-ball {
   display: inline-block;
   background-color: #D100A2;
@@ -7898,16 +7923,16 @@ h1, h2 {
   -ms-transition: all 0.3s ease;
   transition: all 0.3s ease; }
   @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-    /* line 92, ../scss/_style.scss */
+    /* line 119, ../scss/_style.scss */
     .date-ball {
       width: 120px;
       height: 120px; } }
   @media only screen and (max-width: 40em) {
-    /* line 92, ../scss/_style.scss */
+    /* line 119, ../scss/_style.scss */
     .date-ball {
       width: 100px;
       height: 100px; } }
-  /* line 120, ../scss/_style.scss */
+  /* line 147, ../scss/_style.scss */
   .date-ball:hover {
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -7919,44 +7944,63 @@ h1, h2 {
     -webkit-box-shadow: 0px 0px 10px 4px #de6ffe;
     -moz-box-shadow: 0px 0px 10px 4px #de6ffe;
     box-shadow: 0px 0px 10px 4px #de6ffe; }
-  /* line 131, ../scss/_style.scss */
+  /* line 158, ../scss/_style.scss */
+  .date-ball .date-day {
+    display: block;
+    margin-top: 13px;
+    font-size: 1.3rem;
+    line-height: 2rem;
+    font-weight: 700; }
+    @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
+      /* line 158, ../scss/_style.scss */
+      .date-ball .date-day {
+        font-size: 2.5rem;
+        margin-top: 35px; } }
+    @media only screen and (max-width: 40em) {
+      /* line 158, ../scss/_style.scss */
+      .date-ball .date-day {
+        font-size: 2rem;
+        margin-top: 25px; } }
+  /* line 176, ../scss/_style.scss */
   .date-ball .date-pvm {
     display: block;
-    margin-top: 50px;
+    margin-top: 3px;
     font-size: 3rem;
     line-height: 2rem;
     font-weight: 700; }
     @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-      /* line 131, ../scss/_style.scss */
+      /* line 176, ../scss/_style.scss */
       .date-ball .date-pvm {
         font-size: 2.5rem;
         margin-top: 35px; } }
     @media only screen and (max-width: 40em) {
-      /* line 131, ../scss/_style.scss */
+      /* line 176, ../scss/_style.scss */
       .date-ball .date-pvm {
         font-size: 2rem;
         margin-top: 25px; } }
-  /* line 149, ../scss/_style.scss */
+  /* line 194, ../scss/_style.scss */
   .date-ball .date-loc {
     display: block;
     text-transform: uppercase;
     font-size: 1.4rem;
     font-weight: 400; }
     @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-      /* line 149, ../scss/_style.scss */
+      /* line 194, ../scss/_style.scss */
       .date-ball .date-loc {
         font-size: 1.2rem; } }
     @media only screen and (max-width: 40em) {
-      /* line 149, ../scss/_style.scss */
+      /* line 194, ../scss/_style.scss */
       .date-ball .date-loc {
         font-size: 1rem; } }
 
-/* line 165, ../scss/_style.scss */
+/* line 214, ../scss/_style.scss */
 #spons {
   width: 100%;
   padding-top: 50px;
   padding-bottom: 50px; }
 
-/* line 172, ../scss/_style.scss */
+/* line 221, ../scss/_style.scss */
 .footer {
-  background-color: beige; }
+  background-color: #08000B;
+  padding-top: 25px;
+  padding-bottom: 25px; }

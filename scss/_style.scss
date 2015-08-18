@@ -28,14 +28,13 @@
           transition: all 0.3s ease;
 }
 
-html {
-    //background-color: #08000B;
+body {
+    background-image: url(../img/broken_noise-l.png);
 }
 
 #topLogo {
     width: 100%;
     height: 90%;
-    background: $darklila;
     background-image: url('../img/mielenpuhaltajat.png');
     background-size: contain;
     background-repeat: no-repeat;
@@ -57,16 +56,27 @@ h1, h2 {
     //@include stroke(3, #D100A2  )
 }
 
+h3 {
+    color: $yeyellow;
+}
+
 .titlebar {
     width: 100px;
     height: 5px;
     margin: 0 auto 30px;
-    background-color: #D100A2;
+    background-color: $yeyellow;
 }
 
 [data-magellan-expedition], [data-magellan-expedition-clone] {
   left: auto !important;
   background-color: $darklila !important;
+}
+
+.topmenu {
+    &:before, &:after {
+        background-color: $darklila;
+        width: 100%;
+    }
 }
 
 .stickyMenu, .fixed {
@@ -84,6 +94,23 @@ h1, h2 {
 
 .sub-nav {
         margin: 0 auto !important;
+    width: -webkit-fit-content;
+       width: -moz-fit-content;
+            width: fit-content;
+    
+    dd {
+        margin: 0 0.5rem;
+        
+        
+    }
+    .active a {
+        background-color: $yeyellow !important;
+    }
+    
+}
+
+.lippupallot {
+    margin: 0 auto !important;
     width: -webkit-fit-content;
        width: -moz-fit-content;
             width: fit-content;
@@ -127,10 +154,28 @@ h1, h2 {
         
         
     }
+
+    .date-day {
+        display: block;
+        margin-top: 13px;
+        font-size: 1.3rem;
+        line-height: 2rem;
+        font-weight: 700;
+        
+        @media #{$medium-only} {
+            font-size: 2.5rem;
+            margin-top: 35px;
+        }
+
+        @media #{$small-only} {
+            font-size: 2rem;
+            margin-top: 25px;
+        }
+    }
     
     .date-pvm {
         display: block;
-        margin-top: 50px;
+        margin-top: 3px;
         font-size: 3rem;
         line-height: 2rem;
         font-weight: 700;
@@ -162,6 +207,10 @@ h1, h2 {
     }
 }
 
+#liput {
+    
+}
+
 #spons {
     width: 100%;
     padding-top: 50px;
@@ -170,5 +219,7 @@ h1, h2 {
 
 
 .footer {
-    background-color: beige;    
+    background-color: $darklila;
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
