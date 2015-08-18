@@ -7999,7 +7999,26 @@ h3 {
   padding-top: 50px;
   padding-bottom: 50px; }
 
-/* line 221, ../scss/_style.scss */
+/* line 222, ../scss/_style.scss */
+.tekijalista li {
+  color: #eee;
+  font-size: 0.95rem; }
+
+/* line 228, ../scss/_style.scss */
+.lititle {
+  margin: 7px 10px;
+  font-size: 1.2rem; }
+
+/* line 233, ../scss/_style.scss */
+.libreak {
+  margin: 4px; }
+
+/* line 236, ../scss/_style.scss */
+.liinfo {
+  font-size: 0.8rem;
+  color: #bbb; }
+
+/* line 241, ../scss/_style.scss */
 .footer {
   background-color: #08000B;
   padding-top: 25px;

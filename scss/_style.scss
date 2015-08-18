@@ -217,6 +217,26 @@ h3 {
     padding-bottom: 50px;
 }
 
+.tekijalista {
+    
+    li {
+        color: #eee;
+        font-size: 0.95rem;
+    }
+}
+
+.lititle {
+    margin: 7px 10px;
+    font-size: 1.2rem;
+}
+
+.libreak {
+    margin: 4px;
+}
+.liinfo {
+        font-size: 0.8rem;
+        color: #bbb;
+}
 
 .footer {
     background-color: $darklila;
