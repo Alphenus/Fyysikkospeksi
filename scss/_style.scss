@@ -39,6 +39,14 @@ body {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
+    
+    @media #{$medium-only} {
+        height: 80%;
+        }
+
+    @media #{$small-only} {
+        height: 70%;
+        }
 }
 
 .high400 {
@@ -232,7 +240,7 @@ h3 {
         }
 
         @media #{$small-only} {
-            width: 100%;
+            width: 90%;
             height: 200px;
         }
     

@@ -6553,11 +6553,11 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 269, ../bower_components/foundation/scss/foundation/components/_type.scss */
 h1 {
-  font-size: 2.5rem; }
+  font-size: 1.875rem; }
 
 /* line 270, ../bower_components/foundation/scss/foundation/components/_type.scss */
 h2 {
-  font-size: 2rem; }
+  font-size: 1.375rem; }
 
 /* line 271, ../bower_components/foundation/scss/foundation/components/_type.scss */
 h3 {
@@ -7846,8 +7846,16 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center; }
+  @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
+    /* line 35, ../scss/_style.scss */
+    #topLogo {
+      height: 80%; } }
+  @media only screen and (max-width: 40em) {
+    /* line 35, ../scss/_style.scss */
+    #topLogo {
+      height: 70%; } }
 
-/* line 48, ../scss/_style.scss */
+/* line 56, ../scss/_style.scss */
 h1, h2 {
   padding-top: 30px;
   padding-bottom: 0;
@@ -7856,64 +7864,64 @@ h1, h2 {
   text-transform: uppercase;
   text-align: center; }
 
-/* line 59, ../scss/_style.scss */
+/* line 67, ../scss/_style.scss */
 h3 {
   color: #D9B816; }
 
-/* line 63, ../scss/_style.scss */
+/* line 71, ../scss/_style.scss */
 .titlebar {
   width: 100px;
   height: 5px;
   margin: 0 auto 30px;
   background-color: #D9B816; }
 
-/* line 70, ../scss/_style.scss */
+/* line 78, ../scss/_style.scss */
 #topmenu {
   background-color: #08000B; }
 
-/* line 74, ../scss/_style.scss */
+/* line 82, ../scss/_style.scss */
 [data-magellan-expedition], [data-magellan-expedition-clone] {
   left: auto !important;
   background-color: #08000B !important; }
 
-/* line 80, ../scss/_style.scss */
+/* line 88, ../scss/_style.scss */
 .topmenu:before, .topmenu:after {
   background-color: #08000B;
   width: 100%; }
 
-/* line 86, ../scss/_style.scss */
+/* line 94, ../scss/_style.scss */
 .stickyMenu, .fixed {
   right: 0; }
-  /* line 94, ../scss/_style.scss */
+  /* line 102, ../scss/_style.scss */
   .stickyMenu a, .fixed a {
     font-size: 1rem; }
 
-/* line 99, ../scss/_style.scss */
+/* line 107, ../scss/_style.scss */
 .sub-nav {
   margin: 0 auto !important;
   width: -webkit-fit-content;
   width: -moz-fit-content;
   width: fit-content; }
-  /* line 105, ../scss/_style.scss */
+  /* line 113, ../scss/_style.scss */
   .sub-nav dd {
     margin: 0 0.5rem; }
-  /* line 110, ../scss/_style.scss */
+  /* line 118, ../scss/_style.scss */
   .sub-nav .active a {
     background-color: #D9B816 !important; }
 
-/* line 116, ../scss/_style.scss */
+/* line 124, ../scss/_style.scss */
 .lippupallot {
   margin: 0 auto !important;
   width: -webkit-fit-content;
   width: -moz-fit-content;
   width: fit-content; }
   @media only screen and (max-width: 40em) {
-    /* line 116, ../scss/_style.scss */
+    /* line 124, ../scss/_style.scss */
     .lippupallot {
       max-width: 285px;
       width: 100%; } }
 
-/* line 128, ../scss/_style.scss */
+/* line 136, ../scss/_style.scss */
 .date-ball {
   display: inline-block;
   background-color: #D100A2;
@@ -7932,16 +7940,16 @@ h3 {
   -ms-transition: all 0.3s ease;
   transition: all 0.3s ease; }
   @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-    /* line 128, ../scss/_style.scss */
+    /* line 136, ../scss/_style.scss */
     .date-ball {
       width: 120px;
       height: 120px; } }
   @media only screen and (max-width: 40em) {
-    /* line 128, ../scss/_style.scss */
+    /* line 136, ../scss/_style.scss */
     .date-ball {
       width: 100px;
       height: 100px; } }
-  /* line 156, ../scss/_style.scss */
+  /* line 164, ../scss/_style.scss */
   .date-ball:hover {
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -7953,7 +7961,7 @@ h3 {
     -webkit-box-shadow: 0px 0px 10px 4px #de6ffe;
     -moz-box-shadow: 0px 0px 10px 4px #de6ffe;
     box-shadow: 0px 0px 10px 4px #de6ffe; }
-  /* line 167, ../scss/_style.scss */
+  /* line 175, ../scss/_style.scss */
   .date-ball .date-day {
     display: block;
     margin-top: 13px;
@@ -7961,16 +7969,16 @@ h3 {
     line-height: 2rem;
     font-weight: 600; }
     @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-      /* line 167, ../scss/_style.scss */
+      /* line 175, ../scss/_style.scss */
       .date-ball .date-day {
         font-size: 1.1rem;
         margin-top: 9px; } }
     @media only screen and (max-width: 40em) {
-      /* line 167, ../scss/_style.scss */
+      /* line 175, ../scss/_style.scss */
       .date-ball .date-day {
         font-size: 1rem;
         margin-top: 2px; } }
-  /* line 185, ../scss/_style.scss */
+  /* line 193, ../scss/_style.scss */
   .date-ball .date-pvm {
     display: block;
     margin-top: 3px;
@@ -7978,129 +7986,129 @@ h3 {
     line-height: 2rem;
     font-weight: 700; }
     @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-      /* line 185, ../scss/_style.scss */
+      /* line 193, ../scss/_style.scss */
       .date-ball .date-pvm {
         font-size: 2.5rem;
         margin-top: -2px; } }
     @media only screen and (max-width: 40em) {
-      /* line 185, ../scss/_style.scss */
+      /* line 193, ../scss/_style.scss */
       .date-ball .date-pvm {
         font-size: 2rem;
         margin-top: -4px; } }
-  /* line 203, ../scss/_style.scss */
+  /* line 211, ../scss/_style.scss */
   .date-ball .date-loc {
     display: block;
     text-transform: uppercase;
     font-size: 1.4rem;
     font-weight: 400; }
     @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-      /* line 203, ../scss/_style.scss */
+      /* line 211, ../scss/_style.scss */
       .date-ball .date-loc {
         font-size: 1.2rem; } }
     @media only screen and (max-width: 40em) {
-      /* line 203, ../scss/_style.scss */
+      /* line 211, ../scss/_style.scss */
       .date-ball .date-loc {
         font-size: 1rem; } }
 
-/* line 223, ../scss/_style.scss */
+/* line 231, ../scss/_style.scss */
 .lippu-ball {
   margin: 10px auto 50px;
   background-color: #D9B816;
   width: 600px;
   height: 250px; }
   @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-    /* line 223, ../scss/_style.scss */
+    /* line 231, ../scss/_style.scss */
     .lippu-ball {
       width: 80%;
       height: 220px; } }
   @media only screen and (max-width: 40em) {
-    /* line 223, ../scss/_style.scss */
+    /* line 231, ../scss/_style.scss */
     .lippu-ball {
-      width: 100%;
+      width: 90%;
       height: 200px; } }
-  /* line 239, ../scss/_style.scss */
+  /* line 247, ../scss/_style.scss */
   .lippu-ball .lippu-tiedot {
     margin: 0 auto;
     width: 460px;
     padding-top: 85px;
     display: block; }
     @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-      /* line 239, ../scss/_style.scss */
+      /* line 247, ../scss/_style.scss */
       .lippu-ball .lippu-tiedot {
         width: 400px;
         padding-top: 70px; } }
     @media only screen and (max-width: 40em) {
-      /* line 239, ../scss/_style.scss */
+      /* line 247, ../scss/_style.scss */
       .lippu-ball .lippu-tiedot {
         width: 340px;
         padding-top: 50px; } }
-    /* line 255, ../scss/_style.scss */
+    /* line 263, ../scss/_style.scss */
     .lippu-ball .lippu-tiedot .lippu-item {
       display: inline-block;
       width: 120px;
       text-align: center;
       margin: 0 15px; }
       @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-        /* line 255, ../scss/_style.scss */
+        /* line 263, ../scss/_style.scss */
         .lippu-ball .lippu-tiedot .lippu-item {
           width: 100px; } }
       @media only screen and (max-width: 40em) {
-        /* line 255, ../scss/_style.scss */
+        /* line 263, ../scss/_style.scss */
         .lippu-ball .lippu-tiedot .lippu-item {
           width: 80px; } }
-      /* line 269, ../scss/_style.scss */
+      /* line 277, ../scss/_style.scss */
       .lippu-ball .lippu-tiedot .lippu-item .lippu-cat {
         display: block;
         font-size: 1.6rem; }
         @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-          /* line 269, ../scss/_style.scss */
+          /* line 277, ../scss/_style.scss */
           .lippu-ball .lippu-tiedot .lippu-item .lippu-cat {
             font-size: 1.4rem; } }
         @media only screen and (max-width: 40em) {
-          /* line 269, ../scss/_style.scss */
+          /* line 277, ../scss/_style.scss */
           .lippu-ball .lippu-tiedot .lippu-item .lippu-cat {
             font-size: 1.2rem; } }
-      /* line 282, ../scss/_style.scss */
+      /* line 290, ../scss/_style.scss */
       .lippu-ball .lippu-tiedot .lippu-item .lippu-price {
         display: block;
         font-size: 2rem;
         font-weight: bold; }
         @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-          /* line 282, ../scss/_style.scss */
+          /* line 290, ../scss/_style.scss */
           .lippu-ball .lippu-tiedot .lippu-item .lippu-price {
             font-size: 1.8rem; } }
         @media only screen and (max-width: 40em) {
-          /* line 282, ../scss/_style.scss */
+          /* line 290, ../scss/_style.scss */
           .lippu-ball .lippu-tiedot .lippu-item .lippu-price {
             font-size: 1.5rem; } }
 
-/* line 299, ../scss/_style.scss */
+/* line 307, ../scss/_style.scss */
 #spons {
   width: 100%;
   padding-top: 50px;
   padding-bottom: 50px; }
 
-/* line 307, ../scss/_style.scss */
+/* line 315, ../scss/_style.scss */
 .tekijalista li {
   margin-left: 10px;
   color: #eee;
   font-size: 0.95rem; }
-  /* line 312, ../scss/_style.scss */
+  /* line 320, ../scss/_style.scss */
   .tekijalista li.lititle {
     margin: 7px 0;
     left: -15px;
     font-size: 1.2rem !important; }
 
-/* line 322, ../scss/_style.scss */
+/* line 330, ../scss/_style.scss */
 .libreak {
   margin: 4px; }
 
-/* line 325, ../scss/_style.scss */
+/* line 333, ../scss/_style.scss */
 .liinfo {
   font-size: 0.8rem;
   color: #bbb; }
 
-/* line 330, ../scss/_style.scss */
+/* line 338, ../scss/_style.scss */
 .footer {
   background-color: #08000B;
   padding-top: 25px;
