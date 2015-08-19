@@ -272,6 +272,7 @@ h3 {
 
                 @media #{$small-only} {
                     width: 80px;
+                    margin: 0 10px;
                 }
             
             .lippu-cat {
@@ -279,11 +280,11 @@ h3 {
                 font-size: 1.6rem;
                 
                 @media #{$medium-only} {
-                    font-size: 1.4rem;
+                    font-size: 1.3rem;
                 }
 
                 @media #{$small-only} {
-                    font-size: 1.2rem;
+                    font-size: 1.1rem;
                 }
             }
             
