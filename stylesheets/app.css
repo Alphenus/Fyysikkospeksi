@@ -2004,92 +2004,92 @@ button, .button {
   border-width: 0;
   cursor: pointer;
   font-family: "Titillium Web", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
-  font-weight: normal;
+  font-weight: bold;
   line-height: normal;
   margin: 0 0 1.25rem;
   position: relative;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  padding: 1rem 2rem 1.0625rem 2rem;
-  font-size: 1rem;
-  background-color: #7F00A4;
-  border-color: #660083;
+  padding: 1.125rem 2.25rem 1.1875rem 2.25rem;
+  font-size: 1.125rem;
+  background-color: #D9B816;
+  border-color: #ebcd3a;
   color: #FFFFFF;
   transition: background-color 300ms ease-out; }
   /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
   button:hover, button:focus, .button:hover, .button:focus {
-    background-color: #660083; }
+    background-color: #ebcd3a; }
   /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
   button:hover, button:focus, .button:hover, .button:focus {
     color: #FFFFFF; }
   /* line 220, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
   button.secondary, .button.secondary {
     background-color: #DE6FFE;
-    border-color: #cd27fd;
+    border-color: #e58cfe;
     color: #333333; }
     /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
     button.secondary:hover, button.secondary:focus, .button.secondary:hover, .button.secondary:focus {
-      background-color: #cd27fd; }
+      background-color: #e58cfe; }
     /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
     button.secondary:hover, button.secondary:focus, .button.secondary:hover, .button.secondary:focus {
-      color: #FFFFFF; }
+      color: #333333; }
   /* line 221, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
   button.success, .button.success {
     background-color: #43AC6A;
-    border-color: #368a55;
+    border-color: #63c286;
     color: #FFFFFF; }
     /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
     button.success:hover, button.success:focus, .button.success:hover, .button.success:focus {
-      background-color: #368a55; }
+      background-color: #63c286; }
     /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
     button.success:hover, button.success:focus, .button.success:hover, .button.success:focus {
       color: #FFFFFF; }
   /* line 222, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
   button.alert, .button.alert {
     background-color: #f04124;
-    border-color: #cf2a0e;
+    border-color: #f36750;
     color: #FFFFFF; }
     /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
     button.alert:hover, button.alert:focus, .button.alert:hover, .button.alert:focus {
-      background-color: #cf2a0e; }
+      background-color: #f36750; }
     /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
     button.alert:hover, button.alert:focus, .button.alert:hover, .button.alert:focus {
       color: #FFFFFF; }
   /* line 223, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
   button.warning, .button.warning {
     background-color: #f08a24;
-    border-color: #cf6e0e;
+    border-color: #f3a150;
     color: #FFFFFF; }
     /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
     button.warning:hover, button.warning:focus, .button.warning:hover, .button.warning:focus {
-      background-color: #cf6e0e; }
+      background-color: #f3a150; }
     /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
     button.warning:hover, button.warning:focus, .button.warning:hover, .button.warning:focus {
       color: #FFFFFF; }
   /* line 224, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
   button.info, .button.info {
     background-color: #a0d3e8;
-    border-color: #61b6d9;
+    border-color: #b3dced;
     color: #333333; }
     /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
     button.info:hover, button.info:focus, .button.info:hover, .button.info:focus {
-      background-color: #61b6d9; }
+      background-color: #b3dced; }
     /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
     button.info:hover, button.info:focus, .button.info:hover, .button.info:focus {
-      color: #FFFFFF; }
+      color: #333333; }
   /* line 226, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
   button.large, .button.large {
-    padding: 1.125rem 2.25rem 1.1875rem 2.25rem;
-    font-size: 1.25rem; }
+    padding: 1.25rem 2.5rem 1.3125rem 2.5rem;
+    font-size: 1.375rem; }
   /* line 227, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
   button.small, .button.small {
-    padding: 0.875rem 1.75rem 0.9375rem 1.75rem;
-    font-size: 0.8125rem; }
+    padding: 1rem 2rem 1.0625rem 2rem;
+    font-size: 0.9375rem; }
   /* line 228, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
   button.tiny, .button.tiny {
-    padding: 0.625rem 1.25rem 0.6875rem 1.25rem;
-    font-size: 0.6875rem; }
+    padding: 0.75rem 1.5rem 0.8125rem 1.5rem;
+    font-size: 0.8125rem; }
   /* line 229, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
   button.expand, .button.expand {
     padding-left: 0;
@@ -2111,49 +2111,49 @@ button, .button {
     border-radius: 1000px; }
   /* line 237, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
   button.disabled, button[disabled], .button.disabled, .button[disabled] {
-    background-color: #7F00A4;
-    border-color: #660083;
+    background-color: #D9B816;
+    border-color: #ebcd3a;
     color: #FFFFFF;
     box-shadow: none;
     cursor: default;
     opacity: 0.7; }
     /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
     button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
-      background-color: #660083; }
+      background-color: #ebcd3a; }
     /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
     button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
       color: #FFFFFF; }
     /* line 175, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
     button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
-      background-color: #7F00A4; }
+      background-color: #D9B816; }
     /* line 238, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
     button.disabled.secondary, button[disabled].secondary, .button.disabled.secondary, .button[disabled].secondary {
       background-color: #DE6FFE;
-      border-color: #cd27fd;
+      border-color: #e58cfe;
       color: #333333;
       box-shadow: none;
       cursor: default;
       opacity: 0.7; }
       /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
       button.disabled.secondary:hover, button.disabled.secondary:focus, button[disabled].secondary:hover, button[disabled].secondary:focus, .button.disabled.secondary:hover, .button.disabled.secondary:focus, .button[disabled].secondary:hover, .button[disabled].secondary:focus {
-        background-color: #cd27fd; }
+        background-color: #e58cfe; }
       /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
       button.disabled.secondary:hover, button.disabled.secondary:focus, button[disabled].secondary:hover, button[disabled].secondary:focus, .button.disabled.secondary:hover, .button.disabled.secondary:focus, .button[disabled].secondary:hover, .button[disabled].secondary:focus {
-        color: #FFFFFF; }
+        color: #333333; }
       /* line 175, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
       button.disabled.secondary:hover, button.disabled.secondary:focus, button[disabled].secondary:hover, button[disabled].secondary:focus, .button.disabled.secondary:hover, .button.disabled.secondary:focus, .button[disabled].secondary:hover, .button[disabled].secondary:focus {
         background-color: #DE6FFE; }
     /* line 239, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
     button.disabled.success, button[disabled].success, .button.disabled.success, .button[disabled].success {
       background-color: #43AC6A;
-      border-color: #368a55;
+      border-color: #63c286;
       color: #FFFFFF;
       box-shadow: none;
       cursor: default;
       opacity: 0.7; }
       /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
       button.disabled.success:hover, button.disabled.success:focus, button[disabled].success:hover, button[disabled].success:focus, .button.disabled.success:hover, .button.disabled.success:focus, .button[disabled].success:hover, .button[disabled].success:focus {
-        background-color: #368a55; }
+        background-color: #63c286; }
       /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
       button.disabled.success:hover, button.disabled.success:focus, button[disabled].success:hover, button[disabled].success:focus, .button.disabled.success:hover, .button.disabled.success:focus, .button[disabled].success:hover, .button[disabled].success:focus {
         color: #FFFFFF; }
@@ -2163,14 +2163,14 @@ button, .button {
     /* line 240, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
     button.disabled.alert, button[disabled].alert, .button.disabled.alert, .button[disabled].alert {
       background-color: #f04124;
-      border-color: #cf2a0e;
+      border-color: #f36750;
       color: #FFFFFF;
       box-shadow: none;
       cursor: default;
       opacity: 0.7; }
       /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
       button.disabled.alert:hover, button.disabled.alert:focus, button[disabled].alert:hover, button[disabled].alert:focus, .button.disabled.alert:hover, .button.disabled.alert:focus, .button[disabled].alert:hover, .button[disabled].alert:focus {
-        background-color: #cf2a0e; }
+        background-color: #f36750; }
       /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
       button.disabled.alert:hover, button.disabled.alert:focus, button[disabled].alert:hover, button[disabled].alert:focus, .button.disabled.alert:hover, .button.disabled.alert:focus, .button[disabled].alert:hover, .button[disabled].alert:focus {
         color: #FFFFFF; }
@@ -2180,14 +2180,14 @@ button, .button {
     /* line 241, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
     button.disabled.warning, button[disabled].warning, .button.disabled.warning, .button[disabled].warning {
       background-color: #f08a24;
-      border-color: #cf6e0e;
+      border-color: #f3a150;
       color: #FFFFFF;
       box-shadow: none;
       cursor: default;
       opacity: 0.7; }
       /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
       button.disabled.warning:hover, button.disabled.warning:focus, button[disabled].warning:hover, button[disabled].warning:focus, .button.disabled.warning:hover, .button.disabled.warning:focus, .button[disabled].warning:hover, .button[disabled].warning:focus {
-        background-color: #cf6e0e; }
+        background-color: #f3a150; }
       /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
       button.disabled.warning:hover, button.disabled.warning:focus, button[disabled].warning:hover, button[disabled].warning:focus, .button.disabled.warning:hover, .button.disabled.warning:focus, .button[disabled].warning:hover, .button[disabled].warning:focus {
         color: #FFFFFF; }
@@ -2197,17 +2197,17 @@ button, .button {
     /* line 242, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
     button.disabled.info, button[disabled].info, .button.disabled.info, .button[disabled].info {
       background-color: #a0d3e8;
-      border-color: #61b6d9;
+      border-color: #b3dced;
       color: #333333;
       box-shadow: none;
       cursor: default;
       opacity: 0.7; }
       /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
       button.disabled.info:hover, button.disabled.info:focus, button[disabled].info:hover, button[disabled].info:focus, .button.disabled.info:hover, .button.disabled.info:focus, .button[disabled].info:hover, .button[disabled].info:focus {
-        background-color: #61b6d9; }
+        background-color: #b3dced; }
       /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
       button.disabled.info:hover, button.disabled.info:focus, button[disabled].info:hover, button[disabled].info:focus, .button.disabled.info:hover, .button.disabled.info:focus, .button[disabled].info:hover, .button[disabled].info:focus {
-        color: #FFFFFF; }
+        color: #333333; }
       /* line 175, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
       button.disabled.info:hover, button.disabled.info:focus, button[disabled].info:hover, button[disabled].info:focus, .button.disabled.info:hover, .button.disabled.info:focus, .button[disabled].info:hover, .button[disabled].info:focus {
         background-color: #a0d3e8; }
@@ -2615,16 +2615,16 @@ button::-moz-focus-inner {
       border-radius: 0; }
     /* line 125, ../bower_components/foundation/scss/foundation/components/_button-groups.scss */
     .button-group.round.stack > *:first-child, .button-group.round.stack > *:first-child > a, .button-group.round.stack > *:first-child > button, .button-group.round.stack > *:first-child > .button {
-      -webkit-top-left-radius: 1rem;
-      -webkit-top-right-radius: 1rem;
-      border-top-left-radius: 1rem;
-      border-top-right-radius: 1rem; }
+      -webkit-top-left-radius: 1.125rem;
+      -webkit-top-right-radius: 1.125rem;
+      border-top-left-radius: 1.125rem;
+      border-top-right-radius: 1.125rem; }
     /* line 136, ../bower_components/foundation/scss/foundation/components/_button-groups.scss */
     .button-group.round.stack > *:last-child, .button-group.round.stack > *:last-child > a, .button-group.round.stack > *:last-child > button, .button-group.round.stack > *:last-child > .button {
-      -webkit-bottom-left-radius: 1rem;
-      -webkit-bottom-right-radius: 1rem;
-      border-bottom-left-radius: 1rem;
-      border-bottom-right-radius: 1rem; }
+      -webkit-bottom-left-radius: 1.125rem;
+      -webkit-bottom-right-radius: 1.125rem;
+      border-bottom-left-radius: 1.125rem;
+      border-bottom-right-radius: 1.125rem; }
   @media only screen and (min-width: 40.0625em) {
     /* line 192, ../bower_components/foundation/scss/foundation/components/_button-groups.scss */
     .button-group.round.stack-for-small > * {
@@ -2688,16 +2688,16 @@ button::-moz-focus-inner {
         border-radius: 0; }
       /* line 125, ../bower_components/foundation/scss/foundation/components/_button-groups.scss */
       .button-group.round.stack-for-small > *:first-child, .button-group.round.stack-for-small > *:first-child > a, .button-group.round.stack-for-small > *:first-child > button, .button-group.round.stack-for-small > *:first-child > .button {
-        -webkit-top-left-radius: 1rem;
-        -webkit-top-right-radius: 1rem;
-        border-top-left-radius: 1rem;
-        border-top-right-radius: 1rem; }
+        -webkit-top-left-radius: 1.125rem;
+        -webkit-top-right-radius: 1.125rem;
+        border-top-left-radius: 1.125rem;
+        border-top-right-radius: 1.125rem; }
       /* line 136, ../bower_components/foundation/scss/foundation/components/_button-groups.scss */
       .button-group.round.stack-for-small > *:last-child, .button-group.round.stack-for-small > *:last-child > a, .button-group.round.stack-for-small > *:last-child > button, .button-group.round.stack-for-small > *:last-child > .button {
-        -webkit-bottom-left-radius: 1rem;
-        -webkit-bottom-right-radius: 1rem;
-        border-bottom-left-radius: 1rem;
-        border-bottom-right-radius: 1rem; } }
+        -webkit-bottom-left-radius: 1.125rem;
+        -webkit-bottom-right-radius: 1.125rem;
+        border-bottom-left-radius: 1.125rem;
+        border-bottom-right-radius: 1.125rem; } }
 
 /* line 172, ../bower_components/foundation/scss/foundation/components/_global.scss */
 .button-bar:before, .button-bar:after {
@@ -5846,138 +5846,138 @@ meta.foundation-mq-topbar {
         padding-left: 0.9375rem;
         padding-right: 0.9375rem;
         background-color: #7F00A4;
-        border-color: #660083;
+        border-color: #b500e9;
         color: #FFFFFF; }
         /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
         .top-bar-section ul li > a.button:hover, .top-bar-section ul li > a.button:focus {
-          background-color: #660083; }
+          background-color: #b500e9; }
         /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
         .top-bar-section ul li > a.button:hover, .top-bar-section ul li > a.button:focus {
           color: #FFFFFF; }
       /* line 352, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
       .top-bar-section ul li > a.button.secondary {
         background-color: #DE6FFE;
-        border-color: #cd27fd;
+        border-color: #e58cfe;
         color: #333333; }
         /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
         .top-bar-section ul li > a.button.secondary:hover, .top-bar-section ul li > a.button.secondary:focus {
-          background-color: #cd27fd; }
+          background-color: #e58cfe; }
         /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
         .top-bar-section ul li > a.button.secondary:hover, .top-bar-section ul li > a.button.secondary:focus {
-          color: #FFFFFF; }
+          color: #333333; }
       /* line 353, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
       .top-bar-section ul li > a.button.success {
         background-color: #43AC6A;
-        border-color: #368a55;
+        border-color: #63c286;
         color: #FFFFFF; }
         /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
         .top-bar-section ul li > a.button.success:hover, .top-bar-section ul li > a.button.success:focus {
-          background-color: #368a55; }
+          background-color: #63c286; }
         /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
         .top-bar-section ul li > a.button.success:hover, .top-bar-section ul li > a.button.success:focus {
           color: #FFFFFF; }
       /* line 354, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
       .top-bar-section ul li > a.button.alert {
         background-color: #f04124;
-        border-color: #cf2a0e;
+        border-color: #f36750;
         color: #FFFFFF; }
         /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
         .top-bar-section ul li > a.button.alert:hover, .top-bar-section ul li > a.button.alert:focus {
-          background-color: #cf2a0e; }
+          background-color: #f36750; }
         /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
         .top-bar-section ul li > a.button.alert:hover, .top-bar-section ul li > a.button.alert:focus {
           color: #FFFFFF; }
       /* line 355, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
       .top-bar-section ul li > a.button.warning {
         background-color: #f08a24;
-        border-color: #cf6e0e;
+        border-color: #f3a150;
         color: #FFFFFF; }
         /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
         .top-bar-section ul li > a.button.warning:hover, .top-bar-section ul li > a.button.warning:focus {
-          background-color: #cf6e0e; }
+          background-color: #f3a150; }
         /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
         .top-bar-section ul li > a.button.warning:hover, .top-bar-section ul li > a.button.warning:focus {
           color: #FFFFFF; }
       /* line 356, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
       .top-bar-section ul li > a.button.info {
         background-color: #a0d3e8;
-        border-color: #61b6d9;
+        border-color: #b3dced;
         color: #333333; }
         /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
         .top-bar-section ul li > a.button.info:hover, .top-bar-section ul li > a.button.info:focus {
-          background-color: #61b6d9; }
+          background-color: #b3dced; }
         /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
         .top-bar-section ul li > a.button.info:hover, .top-bar-section ul li > a.button.info:focus {
-          color: #FFFFFF; }
+          color: #333333; }
     /* line 359, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
     .top-bar-section ul li > button {
       font-size: 0.8125rem;
       padding-left: 0.9375rem;
       padding-right: 0.9375rem;
       background-color: #7F00A4;
-      border-color: #660083;
+      border-color: #b500e9;
       color: #FFFFFF; }
       /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
       .top-bar-section ul li > button:hover, .top-bar-section ul li > button:focus {
-        background-color: #660083; }
+        background-color: #b500e9; }
       /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
       .top-bar-section ul li > button:hover, .top-bar-section ul li > button:focus {
         color: #FFFFFF; }
       /* line 365, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
       .top-bar-section ul li > button.secondary {
         background-color: #DE6FFE;
-        border-color: #cd27fd;
+        border-color: #e58cfe;
         color: #333333; }
         /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
         .top-bar-section ul li > button.secondary:hover, .top-bar-section ul li > button.secondary:focus {
-          background-color: #cd27fd; }
+          background-color: #e58cfe; }
         /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
         .top-bar-section ul li > button.secondary:hover, .top-bar-section ul li > button.secondary:focus {
-          color: #FFFFFF; }
+          color: #333333; }
       /* line 366, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
       .top-bar-section ul li > button.success {
         background-color: #43AC6A;
-        border-color: #368a55;
+        border-color: #63c286;
         color: #FFFFFF; }
         /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
         .top-bar-section ul li > button.success:hover, .top-bar-section ul li > button.success:focus {
-          background-color: #368a55; }
+          background-color: #63c286; }
         /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
         .top-bar-section ul li > button.success:hover, .top-bar-section ul li > button.success:focus {
           color: #FFFFFF; }
       /* line 367, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
       .top-bar-section ul li > button.alert {
         background-color: #f04124;
-        border-color: #cf2a0e;
+        border-color: #f36750;
         color: #FFFFFF; }
         /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
         .top-bar-section ul li > button.alert:hover, .top-bar-section ul li > button.alert:focus {
-          background-color: #cf2a0e; }
+          background-color: #f36750; }
         /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
         .top-bar-section ul li > button.alert:hover, .top-bar-section ul li > button.alert:focus {
           color: #FFFFFF; }
       /* line 368, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
       .top-bar-section ul li > button.warning {
         background-color: #f08a24;
-        border-color: #cf6e0e;
+        border-color: #f3a150;
         color: #FFFFFF; }
         /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
         .top-bar-section ul li > button.warning:hover, .top-bar-section ul li > button.warning:focus {
-          background-color: #cf6e0e; }
+          background-color: #f3a150; }
         /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
         .top-bar-section ul li > button.warning:hover, .top-bar-section ul li > button.warning:focus {
           color: #FFFFFF; }
       /* line 369, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
       .top-bar-section ul li > button.info {
         background-color: #a0d3e8;
-        border-color: #61b6d9;
+        border-color: #b3dced;
         color: #333333; }
         /* line 158, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
         .top-bar-section ul li > button.info:hover, .top-bar-section ul li > button.info:focus {
-          background-color: #61b6d9; }
+          background-color: #b3dced; }
         /* line 164, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
         .top-bar-section ul li > button.info:hover, .top-bar-section ul li > button.info:focus {
-          color: #FFFFFF; }
+          color: #333333; }
     /* line 373, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
     .top-bar-section ul li:hover:not(.has-form) > a {
       background-color: #555555;
@@ -6553,11 +6553,11 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 269, ../bower_components/foundation/scss/foundation/components/_type.scss */
 h1 {
-  font-size: 2.8125rem; }
+  font-size: 2.5rem; }
 
 /* line 270, ../bower_components/foundation/scss/foundation/components/_type.scss */
 h2 {
-  font-size: 2.3125rem; }
+  font-size: 2rem; }
 
 /* line 271, ../bower_components/foundation/scss/foundation/components/_type.scss */
 h3 {
@@ -7842,7 +7842,7 @@ body {
 #topLogo {
   width: 100%;
   height: 90%;
-  background-image: url("../img/mielenpuhaltajat-nb.png");
+  background-image: url("../img/mielenpuhaltajat-nb2.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center; }
@@ -8003,31 +8003,104 @@ h3 {
         font-size: 1rem; } }
 
 /* line 223, ../scss/_style.scss */
+.lippu-ball {
+  margin: 10px auto 50px;
+  background-color: #D9B816;
+  width: 600px;
+  height: 250px; }
+  @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
+    /* line 223, ../scss/_style.scss */
+    .lippu-ball {
+      width: 80%;
+      height: 220px; } }
+  @media only screen and (max-width: 40em) {
+    /* line 223, ../scss/_style.scss */
+    .lippu-ball {
+      width: 100%;
+      height: 200px; } }
+  /* line 239, ../scss/_style.scss */
+  .lippu-ball .lippu-tiedot {
+    margin: 0 auto;
+    width: 460px;
+    padding-top: 85px;
+    display: block; }
+    @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
+      /* line 239, ../scss/_style.scss */
+      .lippu-ball .lippu-tiedot {
+        width: 400px;
+        padding-top: 70px; } }
+    @media only screen and (max-width: 40em) {
+      /* line 239, ../scss/_style.scss */
+      .lippu-ball .lippu-tiedot {
+        width: 340px;
+        padding-top: 50px; } }
+    /* line 255, ../scss/_style.scss */
+    .lippu-ball .lippu-tiedot .lippu-item {
+      display: inline-block;
+      width: 120px;
+      text-align: center;
+      margin: 0 15px; }
+      @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
+        /* line 255, ../scss/_style.scss */
+        .lippu-ball .lippu-tiedot .lippu-item {
+          width: 100px; } }
+      @media only screen and (max-width: 40em) {
+        /* line 255, ../scss/_style.scss */
+        .lippu-ball .lippu-tiedot .lippu-item {
+          width: 80px; } }
+      /* line 269, ../scss/_style.scss */
+      .lippu-ball .lippu-tiedot .lippu-item .lippu-cat {
+        display: block;
+        font-size: 1.6rem; }
+        @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
+          /* line 269, ../scss/_style.scss */
+          .lippu-ball .lippu-tiedot .lippu-item .lippu-cat {
+            font-size: 1.4rem; } }
+        @media only screen and (max-width: 40em) {
+          /* line 269, ../scss/_style.scss */
+          .lippu-ball .lippu-tiedot .lippu-item .lippu-cat {
+            font-size: 1.2rem; } }
+      /* line 282, ../scss/_style.scss */
+      .lippu-ball .lippu-tiedot .lippu-item .lippu-price {
+        display: block;
+        font-size: 2rem;
+        font-weight: bold; }
+        @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
+          /* line 282, ../scss/_style.scss */
+          .lippu-ball .lippu-tiedot .lippu-item .lippu-price {
+            font-size: 1.8rem; } }
+        @media only screen and (max-width: 40em) {
+          /* line 282, ../scss/_style.scss */
+          .lippu-ball .lippu-tiedot .lippu-item .lippu-price {
+            font-size: 1.5rem; } }
+
+/* line 299, ../scss/_style.scss */
 #spons {
   width: 100%;
   padding-top: 50px;
   padding-bottom: 50px; }
 
-/* line 231, ../scss/_style.scss */
+/* line 307, ../scss/_style.scss */
 .tekijalista li {
+  margin-left: 10px;
   color: #eee;
   font-size: 0.95rem; }
+  /* line 312, ../scss/_style.scss */
+  .tekijalista li.lititle {
+    margin: 7px 0;
+    left: -15px;
+    font-size: 1.2rem !important; }
 
-/* line 237, ../scss/_style.scss */
-.lititle {
-  margin: 7px 10px;
-  font-size: 1.2rem; }
-
-/* line 242, ../scss/_style.scss */
+/* line 322, ../scss/_style.scss */
 .libreak {
   margin: 4px; }
 
-/* line 245, ../scss/_style.scss */
+/* line 325, ../scss/_style.scss */
 .liinfo {
   font-size: 0.8rem;
   color: #bbb; }
 
-/* line 250, ../scss/_style.scss */
+/* line 330, ../scss/_style.scss */
 .footer {
   background-color: #08000B;
   padding-top: 25px;

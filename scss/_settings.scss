@@ -231,8 +231,8 @@ $header-font-color: #D100A2; //#7F00A4;
 // $h6-font-size: 1rem;
 
 // We use these to control header size reduction on small screens
-// $h1-font-reduction: rem-calc(10);
-// $h2-font-reduction: rem-calc(10);
+ $h1-font-reduction: rem-calc(15);
+ $h2-font-reduction: rem-calc(15);
 // $h3-font-reduction: rem-calc(5);
 // $h4-font-reduction: rem-calc(5);
 // $h5-font-reduction: 0;
@@ -441,10 +441,10 @@ $header-font-color: #D100A2; //#7F00A4;
 // $include-html-button-classes: $include-html-classes;
 
 // We use these to build padding for buttons.
-// $button-tny: rem-calc(10);
-// $button-sml: rem-calc(14);
-// $button-med: rem-calc(16);
-// $button-lrg: rem-calc(18);
+ $button-tny: rem-calc(12);
+ $button-sml: rem-calc(16);
+ $button-med: rem-calc(18);
+ $button-lrg: rem-calc(20);
 
 // We use this to control the display property.
 // $button-display: inline-block;
@@ -454,20 +454,20 @@ $header-font-color: #D100A2; //#7F00A4;
 // $button-font-family: $body-font-family;
 // $button-font-color: $white;
 // $button-font-color-alt: $oil;
-// $button-font-tny: rem-calc(11);
-// $button-font-sml: rem-calc(13);
-// $button-font-med: rem-calc(16);
-// $button-font-lrg: rem-calc(20);
-// $button-font-weight: $font-weight-normal;
+ $button-font-tny: rem-calc(13);
+ $button-font-sml: rem-calc(15);
+ $button-font-med: rem-calc(18);
+ $button-font-lrg: rem-calc(22);
+ $button-font-weight: bold;
 // $button-font-align: center;
 
 // We use these to control various hover effects.
-// $button-function-factor: -20%;
+ $button-function-factor: 20%;
 
 // We use these to control button border styles.
 // $button-border-width: 0;
 // $button-border-style: solid;
-// $button-bg-color: $primary-color;
+$button-bg-color: $yeyellow;
 // $button-bg-hover: scale-color($button-bg-color, $lightness: $button-function-factor);
 // $button-border-color: $button-bg-hover;
 // $secondary-button-bg-hover: scale-color($secondary-color, $lightness: $button-function-factor);

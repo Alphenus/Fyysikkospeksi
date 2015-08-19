@@ -35,7 +35,7 @@ body {
 #topLogo {
     width: 100%;
     height: 90%;
-    background-image: url('../img/mielenpuhaltajat-nb.png');
+    background-image: url('../img/mielenpuhaltajat-nb2.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
@@ -220,6 +220,82 @@ h3 {
     
 }
 
+.lippu-ball {
+    margin: 10px auto 50px;
+    background-color: $yeyellow;
+    width: 600px;
+    height: 250px;
+    
+        @media #{$medium-only} {
+            width: 80%;
+            height: 220px;
+        }
+
+        @media #{$small-only} {
+            width: 100%;
+            height: 200px;
+        }
+    
+    .lippu-tiedot {
+        margin: 0 auto;
+        width: 460px;
+        padding-top: 85px;
+        display: block;
+        
+        @media #{$medium-only} {
+            width: 400px;
+            padding-top: 70px;
+        }
+
+        @media #{$small-only} {
+            width: 340px;
+            padding-top: 50px;
+        }
+        
+        .lippu-item {
+            display: inline-block;
+            width: 120px;
+            text-align: center;
+            margin: 0 15px;
+            
+                @media #{$medium-only} {
+                    width: 100px;
+                }
+
+                @media #{$small-only} {
+                    width: 80px;
+                }
+            
+            .lippu-cat {
+                display: block;
+                font-size: 1.6rem;
+                
+                @media #{$medium-only} {
+                    font-size: 1.4rem;
+                }
+
+                @media #{$small-only} {
+                    font-size: 1.2rem;
+                }
+            }
+            
+            .lippu-price {
+                display: block;
+                font-size: 2rem;
+                font-weight: bold;
+                
+                @media #{$medium-only} {
+                    font-size: 1.8rem;
+                }
+
+                @media #{$small-only} {
+                    font-size: 1.5rem;
+                }
+            }
+        }
+    }
+}
+
 #spons {
     width: 100%;
     padding-top: 50px;
@@ -229,15 +305,19 @@ h3 {
 .tekijalista {
     
     li {
+        margin-left: 10px;
         color: #eee;
         font-size: 0.95rem;
+        
+        &.lititle {
+            margin: 7px 0;
+            left: -15px;
+            font-size: 1.2rem !important;
+        }
     }
 }
 
-.lititle {
-    margin: 7px 10px;
-    font-size: 1.2rem;
-}
+
 
 .libreak {
     margin: 4px;
