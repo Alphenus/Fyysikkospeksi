@@ -7842,7 +7842,7 @@ body {
 #topLogo {
   width: 100%;
   height: 90%;
-  background-image: url("../img/mielenpuhaltajat.png");
+  background-image: url("../img/mielenpuhaltajat-nb.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center; }
@@ -7868,43 +7868,52 @@ h3 {
   background-color: #D9B816; }
 
 /* line 70, ../scss/_style.scss */
+#topmenu {
+  background-color: #08000B; }
+
+/* line 74, ../scss/_style.scss */
 [data-magellan-expedition], [data-magellan-expedition-clone] {
   left: auto !important;
   background-color: #08000B !important; }
 
-/* line 76, ../scss/_style.scss */
+/* line 80, ../scss/_style.scss */
 .topmenu:before, .topmenu:after {
   background-color: #08000B;
   width: 100%; }
 
-/* line 82, ../scss/_style.scss */
+/* line 86, ../scss/_style.scss */
 .stickyMenu, .fixed {
   right: 0; }
-  /* line 90, ../scss/_style.scss */
+  /* line 94, ../scss/_style.scss */
   .stickyMenu a, .fixed a {
     font-size: 1rem; }
 
-/* line 95, ../scss/_style.scss */
+/* line 99, ../scss/_style.scss */
 .sub-nav {
   margin: 0 auto !important;
   width: -webkit-fit-content;
   width: -moz-fit-content;
   width: fit-content; }
-  /* line 101, ../scss/_style.scss */
+  /* line 105, ../scss/_style.scss */
   .sub-nav dd {
     margin: 0 0.5rem; }
-  /* line 106, ../scss/_style.scss */
+  /* line 110, ../scss/_style.scss */
   .sub-nav .active a {
     background-color: #D9B816 !important; }
 
-/* line 112, ../scss/_style.scss */
+/* line 116, ../scss/_style.scss */
 .lippupallot {
   margin: 0 auto !important;
   width: -webkit-fit-content;
   width: -moz-fit-content;
   width: fit-content; }
+  @media only screen and (max-width: 40em) {
+    /* line 116, ../scss/_style.scss */
+    .lippupallot {
+      max-width: 285px;
+      width: 100%; } }
 
-/* line 119, ../scss/_style.scss */
+/* line 128, ../scss/_style.scss */
 .date-ball {
   display: inline-block;
   background-color: #D100A2;
@@ -7923,16 +7932,16 @@ h3 {
   -ms-transition: all 0.3s ease;
   transition: all 0.3s ease; }
   @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-    /* line 119, ../scss/_style.scss */
+    /* line 128, ../scss/_style.scss */
     .date-ball {
       width: 120px;
       height: 120px; } }
   @media only screen and (max-width: 40em) {
-    /* line 119, ../scss/_style.scss */
+    /* line 128, ../scss/_style.scss */
     .date-ball {
       width: 100px;
       height: 100px; } }
-  /* line 147, ../scss/_style.scss */
+  /* line 156, ../scss/_style.scss */
   .date-ball:hover {
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -7944,24 +7953,24 @@ h3 {
     -webkit-box-shadow: 0px 0px 10px 4px #de6ffe;
     -moz-box-shadow: 0px 0px 10px 4px #de6ffe;
     box-shadow: 0px 0px 10px 4px #de6ffe; }
-  /* line 158, ../scss/_style.scss */
+  /* line 167, ../scss/_style.scss */
   .date-ball .date-day {
     display: block;
     margin-top: 13px;
     font-size: 1.3rem;
     line-height: 2rem;
-    font-weight: 700; }
+    font-weight: 600; }
     @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-      /* line 158, ../scss/_style.scss */
+      /* line 167, ../scss/_style.scss */
       .date-ball .date-day {
-        font-size: 2.5rem;
-        margin-top: 35px; } }
+        font-size: 1.1rem;
+        margin-top: 9px; } }
     @media only screen and (max-width: 40em) {
-      /* line 158, ../scss/_style.scss */
+      /* line 167, ../scss/_style.scss */
       .date-ball .date-day {
-        font-size: 2rem;
-        margin-top: 25px; } }
-  /* line 176, ../scss/_style.scss */
+        font-size: 1rem;
+        margin-top: 2px; } }
+  /* line 185, ../scss/_style.scss */
   .date-ball .date-pvm {
     display: block;
     margin-top: 3px;
@@ -7969,56 +7978,56 @@ h3 {
     line-height: 2rem;
     font-weight: 700; }
     @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-      /* line 176, ../scss/_style.scss */
+      /* line 185, ../scss/_style.scss */
       .date-ball .date-pvm {
         font-size: 2.5rem;
-        margin-top: 35px; } }
+        margin-top: -2px; } }
     @media only screen and (max-width: 40em) {
-      /* line 176, ../scss/_style.scss */
+      /* line 185, ../scss/_style.scss */
       .date-ball .date-pvm {
         font-size: 2rem;
-        margin-top: 25px; } }
-  /* line 194, ../scss/_style.scss */
+        margin-top: -4px; } }
+  /* line 203, ../scss/_style.scss */
   .date-ball .date-loc {
     display: block;
     text-transform: uppercase;
     font-size: 1.4rem;
     font-weight: 400; }
     @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-      /* line 194, ../scss/_style.scss */
+      /* line 203, ../scss/_style.scss */
       .date-ball .date-loc {
         font-size: 1.2rem; } }
     @media only screen and (max-width: 40em) {
-      /* line 194, ../scss/_style.scss */
+      /* line 203, ../scss/_style.scss */
       .date-ball .date-loc {
         font-size: 1rem; } }
 
-/* line 214, ../scss/_style.scss */
+/* line 223, ../scss/_style.scss */
 #spons {
   width: 100%;
   padding-top: 50px;
   padding-bottom: 50px; }
 
-/* line 222, ../scss/_style.scss */
+/* line 231, ../scss/_style.scss */
 .tekijalista li {
   color: #eee;
   font-size: 0.95rem; }
 
-/* line 228, ../scss/_style.scss */
+/* line 237, ../scss/_style.scss */
 .lititle {
   margin: 7px 10px;
   font-size: 1.2rem; }
 
-/* line 233, ../scss/_style.scss */
+/* line 242, ../scss/_style.scss */
 .libreak {
   margin: 4px; }
 
-/* line 236, ../scss/_style.scss */
+/* line 245, ../scss/_style.scss */
 .liinfo {
   font-size: 0.8rem;
   color: #bbb; }
 
-/* line 241, ../scss/_style.scss */
+/* line 250, ../scss/_style.scss */
 .footer {
   background-color: #08000B;
   padding-top: 25px;
