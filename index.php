@@ -5,6 +5,18 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Fyysikkospeksi 2015</title>
+    <meta property="og:title" content="Fyysikkospeksi 2015">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://fyysikkospeksi.fi">
+    <meta property="og:image" content="http://fyysikkospeksi.fi/img/mielenpuhaltajat.png">
+    <meta property="og:site_name" content="Fyysikkospeksi">
+    <meta property="og:description" content="Mitä Ruotsin mafia aikoo? Onnistuuko uhkarohkea ryöstösuunnitelma? Onko nuoriso lopullisesti pilalla? Voiko musiikki todella muuttaa maailmaa? Näihin ja aivan kaikkeen muuhunkin antaa vastaukset Fyysikkospeksi.">
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Fyysikkospeksi 2015">
+    <meta name="twitter:description" content="Mitä Ruotsin mafia aikoo? Onnistuuko uhkarohkea ryöstösuunnitelma? Onko nuoriso lopullisesti pilalla? Voiko musiikki todella muuttaa maailmaa?">
+    <meta name="twitter:image:src" content="http://fyysikkospeksi.fi/img/mielenpuhaltajat.png">
+    
     <link rel="stylesheet" href="stylesheets/app.css" />
     <link rel="stylesheet" href="foundation-icons/foundation-icons.css">
     
