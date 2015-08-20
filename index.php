@@ -7,7 +7,7 @@
     <title>Fyysikkospeksi 2015</title>
     <meta property="og:title" content="Fyysikkospeksi 2015">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="http://fyysikkospeksi.fi">
+    <meta property="og:url" content="http://www.fyysikkokilta.fi/speksi2015">
     <meta property="og:image" content="http://www.fyysikkokilta.fi/speksi2015/img/mielenpuhaltajat.png">
     <meta property="og:site_name" content="Fyysikkospeksi">
     <meta property="og:description" content="Mitä Ruotsin mafia aikoo? Onnistuuko uhkarohkea ryöstösuunnitelma? Onko nuoriso lopullisesti pilalla? Voiko musiikki todella muuttaa maailmaa? Näihin ja aivan kaikkeen muuhunkin antaa vastaukset Fyysikkospeksi.">
