@@ -293,8 +293,7 @@
           </div>
           <div class="medium-4 columns">
             <ul class="no-bullet tekijalista">
-                <li class="lititle">Rekvisiitta</li>
-                <li>Viivi Halla-aho</li>
+                
 
                 <li class="lititle">Käsikirjoitus</li>
                 <li>Aino Laine</li>
@@ -376,6 +375,9 @@
                 <li>Saila Rappumäki</li>
                 <li>Mikko Leino</li>
                 <li>Minea Jokivuolle</li>
+                
+                <li class="lititle">Rekvisiitta</li>
+                <li>Viivi Halla-aho</li>
 
                 <li class="lititle">Lavastus</li>
                 <li>Aapo Hanski <span class="liinfo">&ndash; Vastaava</span></li>
