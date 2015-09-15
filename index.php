@@ -332,6 +332,7 @@
                 <li class="lititle">Tekniikka</li>
                 <li>Elias Axelsson <span class="liinfo">&ndash; Valaistusvastaava</span></li>
                 <li>Alpi Rimppi <span class="liinfo">&ndash; Valaistus, esityksen videointi</span></li>
+                <li>Ossi Miikkulainen <span class="liinfo">&ndash; Miksaus</span><</li>
                 <li>Marci Gunyhó <span class="liinfo">&ndash; Ääniefektivastaava</span></li>
                 <li>Tero Mäkinen <span class="liinfo">&ndash; Ääniefektit</span></li>
                 <li>Santeri Wiik <span class="liinfo">&ndash; Valaistus</span></li>
