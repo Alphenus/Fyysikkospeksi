@@ -187,6 +187,15 @@
         </p>
       </div>
     </div>
+    
+    <div class="row">
+      <div class="medium-8 medium-offset-2 columns">
+        <h2 class="text-center">&nbsp;</h2> <div class="titlebar"></div>
+        <p>
+            <a href="http://fyysikkoalumni.fi/" target="_blank"><img src="img/alumnilogo.png" alt="Fyysikkoalumnit"></a>
+        </p>
+      </div>
+    </div>
 </div>
     
     
@@ -251,14 +260,15 @@
                 <li>Koos Zevenhoven</li>
 
                 <li class="lititle">Bändi ja sovitus</li>
-                <li>Markus Mattila <span class="liinfo">&ndash; Vastaava, kitara, huuliharppu, sovitus</span></li>
+                <li>Markus Mattila <span class="liinfo">&ndash; Vastaava, kitara, huuliharppu, sävellys, sovitus</span></li>
                 <li>Toni Mäkelä <span class="liinfo">&ndash; Vastaava, kitara, sävellys, sovitus</span></li>
                 <li>Aaro Väkeväinen <span class="liinfo">&ndash; Rummut</span></li>
                 <li>Anna Pohto <span class="liinfo">&ndash; Trumpetti, sovitus</span></li>
                 <li>Eero Lehtonen <span class="liinfo">&ndash; Sovitus</span></li>
                 <li>Eeva-Sofia Haukipuro <span class="liinfo">&ndash; Pasuuna, huilu</span></li>
-                <li>Helinä Hakala <span class="liinfo">&ndash; Taustalaulu</span></li>
+                <li>Helinä Hakala <span class="liinfo">&ndash; Huilu, taustalaulu</span></li>
                 <li>Hilla Paananen <span class="liinfo">&ndash; Basso</span></li>
+                <li>sekä // Olli Hasu <span class="liinfo">&ndash; Basso</span> </li>
                 <li>Joona Kontula <span class="liinfo">&ndash; Sovitus</span></li>
                 <li>Juhani Mutikainen <span class="liinfo">&ndash; Taustalaulu</span></li>
                 <li>Mikko Murhu <span class="liinfo">&ndash; Koskettimet</span></li>
@@ -327,14 +337,16 @@
                 <li>Tiina Kangasniemi</li>
                 <li>Elsa Mannila</li>
                 <li>Lauri Seppäläinen</li>
+                <li>Olli Heikkinen</li>
 
                 <li class="lititle">Tekniikka</li>
                 <li>Elias Axelsson <span class="liinfo">&ndash; Valaistusvastaava</span></li>
-                <li>Alpi Rimppi <span class="liinfo">&ndash; Valaistus, esityksen videointi</span></li>
+                <li>Alpi Rimppi <span class="liinfo">&ndash; Valaistus, videotehosteet, videointi</span></li>
                 <li>Ossi Miikkulainen <span class="liinfo">&ndash; Miksaus</span><</li>
                 <li>Marci Gunyhó <span class="liinfo">&ndash; Ääniefektivastaava</span></li>
                 <li>Tero Mäkinen <span class="liinfo">&ndash; Ääniefektit</span></li>
                 <li>Santeri Wiik <span class="liinfo">&ndash; Valaistus</span></li>
+                <li>Miika Leinon <span class="liinfo">&ndash; Valaistus</span></li>
 
                 <li class="lititle">Maskeeraus</li>
                 <li>Pauliina Hirvi <span class="liinfo">&ndash; Vastaava</span></li>
