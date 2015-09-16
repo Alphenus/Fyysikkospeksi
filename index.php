@@ -268,7 +268,6 @@
                 <li>Eeva-Sofia Haukipuro <span class="liinfo">&ndash; Pasuuna, huilu</span></li>
                 <li>Helinä Hakala <span class="liinfo">&ndash; Huilu, taustalaulu</span></li>
                 <li>Hilla Paananen <span class="liinfo">&ndash; Basso</span></li>
-                <li>sekä // Olli Hasu <span class="liinfo">&ndash; Basso</span> </li>
                 <li>Joona Kontula <span class="liinfo">&ndash; Sovitus</span></li>
                 <li>Juhani Mutikainen <span class="liinfo">&ndash; Taustalaulu</span></li>
                 <li>Mikko Murhu <span class="liinfo">&ndash; Koskettimet</span></li>
@@ -276,6 +275,8 @@
                 <li>Outi Pönni <span class="liinfo">&ndash; Sovitus</span></li>
                 <li>Patrik Laiho <span class="liinfo">&ndash; Sovitus</span></li>
                 <li>Sannamari Pilpola <span class="liinfo">&ndash; Sello</span></li>
+                <li class="libreak">sekä</li>
+                <li>Olli Hasu <span class="liinfo">&ndash; Basso</span> </li>
 
                 <li class="lititle">Tanssijat ja koreografit </li>
                 <li>Saila Nojonen <span class="liinfo">&ndash; Vastaava</span></li>
