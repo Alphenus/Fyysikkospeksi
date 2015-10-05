@@ -309,6 +309,15 @@
                 <li>Riina Juurmaa</li>
                 <li>Saila Rappumäki</li>
                 
+                
+
+                
+            </ul>
+              
+          </div>
+          <div class="medium-4 columns">
+            <ul class="no-bullet tekijalista">
+
                 <li class="lititle">Puvustus</li>
                 <li>Konsta Kantola <span class="liinfo">&ndash; Vastaava</span></li>
                 <li>Armi Tiihonen</li>
@@ -319,14 +328,7 @@
                 <li>Saila Rappumäki</li>
                 <li class="libreak">sekä</li>
                 <li>Lari Koponen</li>
-
                 
-            </ul>
-              
-          </div>
-          <div class="medium-4 columns">
-            <ul class="no-bullet tekijalista">
-
                 <li class="lititle">Käsikirjoitus</li>
                 <li>Aino Laine</li>
                 <li>Aleksi Lahti</li>
@@ -393,6 +395,14 @@
                 <li>Elias Axelsson</li>
                 <li>Mariia Keitaanniemi</li>
 
+                
+
+                
+            </ul>
+          </div>
+          <div class="medium-3 columns">
+                <ul class="no-bullet tekijalista">
+                
                 <li class="lititle">Tekniikka</li>
                 <li>Elias Axelsson <span class="liinfo">&ndash; Valaistusvastaava, projisoinnit</span></li>
                 <li>Alpi Rimppi <span class="liinfo">&ndash; Projisointivastaava, valaistus, videointi</span></li>
@@ -403,12 +413,6 @@
                 <li>Santeri Wiik <span class="liinfo">&ndash; Valaistus</span></li>
                 <li>Miika Leinonen <span class="liinfo">&ndash; Valaistus</span></li>
                 <li>Miio Taarna <span class="liinfo">&ndash; Projisoinnit</span></li>
-
-                
-            </ul>
-          </div>
-          <div class="medium-3 columns">
-                <ul class="no-bullet tekijalista">
                 
                 <li class="lititle">Näyttämö</li>
                 <li>Lilli Konttinen <span class="liinfo">&ndash; Vastaava</span></li>
