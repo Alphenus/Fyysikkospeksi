@@ -418,9 +418,6 @@
                 <li>Markus Aapro</li>
                 <li>Sami Joutjärvi</li>
                 
-                <li class="lititle">Rekvisiitta</li>
-                <li>Viivi Halla-aho</li>
-
                 <li class="lititle">Rekvisiitta ja lavastus</li>
                 <li>Koos Zevenhoven <span class="liinfo">&ndash; Vastaava</span></li>
                 <li>Viivi Halla-aho <span class="liinfo">&ndash; Vastaava</span></li>
