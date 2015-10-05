@@ -299,7 +299,26 @@
                 <li>Olli Niskanen <span class="liinfo">&ndash; Tanssija</span></li>
                 <li>Pauliina Mäkkeli <span class="liinfo">&ndash; Tanssija ja koreografi</span></li>
 
+                <li class="lititle">Maskeeraus</li>
+                <li>Pauliina Hirvi <span class="liinfo">&ndash; Vastaava</span></li>
+                <li>Antti Mäkinen</li>
+                <li>Helinä Hakala</li>
+                <li>Kati Harjula</li>
+                <li>Matleena Kukkonen</li>
+                <li>Pilvi Paakkarinen</li>
+                <li>Riina Juurmaa</li>
+                <li>Saila Rappumäki</li></div>
                 
+                <li class="lititle">Puvustus</li>
+                <li>Konsta Kantola <span class="liinfo">&ndash; Vastaava</span></li>
+                <li>Armi Tiihonen</li>
+                <li>Joonas Kivi</li>
+                <li>Katri Ailus</li>
+                <li>Kati Harjula</li>
+                <li>Pauliina Hirvi</li>
+                <li>Saila Rappumäki</li>
+                <li class="libreak">sekä</li>
+                <li>Lari Koponen</li>
 
                 
             </ul>
@@ -327,6 +346,30 @@
                 <li>Tuukka Hiltunen</li>
                 <li>Saila Nojonen</li>
                 <li>Viivi Halla-aho</li>
+                
+                <li class="lititle">Sanoitus</li>
+                <li>Olli Heikkinen <span class="liinfo">&ndash; Vastaava</span></li>
+                <li>Markus Aapro</li>
+                <li>Viivi Halla-aho</li>
+                <li>Olli Halminen</li>
+                <li>Leevi Kähkönen</li>
+                <li>Aleksi Lahti</li>
+                <li>Heikki Nurmi</li>
+                <li>Joonas Ulmanen</li>
+                <li>Anna-Maija Valtavirta</li>
+                <li>Ville Valtavirta</li>
+                <li>Ari Viitala</li>
+                <li class="libreak">sekä</li>
+                <li>Tuukka Hiltunen</li>
+                <li>Koos Zevenhoven</li>
+                
+                <li class="lititle">Käännös</li>
+                <li>Konsta Kantola <span class="liinfo">&ndash; Vastaava</span></li>
+                <li>Petteri Heliste</li>
+                <li>Arne Kiaupa</li>
+                <li>Antti Rantala</li>
+                <li>Hannu Pantsar</li>
+                <li>Heikki Nurmi</li>
 
                 <li class="lititle">PR</li>
                 <li>Eetu Ahonen <span class="liinfo">&ndash; Vastaava</span></li>
@@ -344,6 +387,12 @@
                 <li>Olli Heikkinen</li>
                 <li>Toni Mäkelä <span class="liinfo">&ndash; Valokuvat</span></li>
                 <li>Tommi Kantala <span class="liinfo">&ndash; Valokuvat</span></li>
+                
+                <li class="lititle">Yrityssuhteet</li>
+                <li>Tapio Hautamäki <span class="liinfo">&ndash; Vastaava</span></li>
+                <li>Markus Aapro</li>
+                <li>Elias Axelsson</li>
+                <li>Mariia Keitaanniemi</li>
 
                 <li class="lititle">Tekniikka</li>
                 <li>Elias Axelsson <span class="liinfo">&ndash; Valaistusvastaava, projisoinnit</span></li>
@@ -356,59 +405,14 @@
                 <li>Miika Leinonen <span class="liinfo">&ndash; Valaistus</span></li>
                 <li>Miio Taarna <span class="liinfo">&ndash; Projisoinnit</span></li>
 
-                <li class="lititle">Maskeeraus</li>
-                <li>Pauliina Hirvi <span class="liinfo">&ndash; Vastaava</span></li>
-                <li>Antti Mäkinen</li>
-                <li>Helinä Hakala</li>
-                <li>Kati Harjula</li>
-                <li>Matleena Kukkonen</li>
-                <li>Pilvi Paakkarinen</li>
-                <li>Riina Juurmaa</li>
-                <li>Saila Rappumäki</li></div>
+                
             </ul>
             
           <div class="medium-3 columns">
                 <ul class="no-bullet tekijalista">
-                <li class="lititle">Sanoitus</li>
-                <li>Olli Heikkinen <span class="liinfo">&ndash; Vastaava</span></li>
-                <li>Markus Aapro</li>
-                <li>Viivi Halla-aho</li>
-                <li>Olli Halminen</li>
-                <li>Leevi Kähkönen</li>
-                <li>Aleksi Lahti</li>
-                <li>Heikki Nurmi</li>
-                <li>Joonas Ulmanen</li>
-                <li>Anna-Maija Valtavirta</li>
-                <li>Ville Valtavirta</li>
-                <li>Ari Viitala</li>
-                <li class="libreak">sekä</li>
-                <li>Tuukka Hiltunen</li>
-                <li>Koos Zevenhoven</li>
-
-                <li class="lititle">Yrityssuhteet</li>
-                <li>Tapio Hautamäki <span class="liinfo">&ndash; Vastaava</span></li>
-                <li>Markus Aapro</li>
-                <li>Elias Axelsson</li>
-                <li>Mariia Keitaanniemi</li>
-
-                <li class="lititle">Puvustus</li>
-                <li>Konsta Kantola <span class="liinfo">&ndash; Vastaava</span></li>
-                <li>Armi Tiihonen</li>
-                <li>Joonas Kivi</li>
-                <li>Katri Ailus</li>
-                <li>Kati Harjula</li>
-                <li>Pauliina Hirvi</li>
-                <li>Saila Rappumäki</li>
-                <li class="libreak">sekä</li>
-                <li>Lari Koponen</li>
                 
-                <li class="lititle">Käännös</li>
-                <li>Konsta Kantola <span class="liinfo">&ndash; Vastaava</span></li>
-                <li>Petteri Heliste</li>
-                <li>Arne Kiaupa</li>
-                <li>Antti Rantala</li>
-                <li>Hannu Pantsar</li>
-                <li>Heikki Nurmi</li>
+
+
                 
                 <li class="lititle">Näyttämö</li>
                 <li>Lilli Konttinen <span class="liinfo">&ndash; Vastaava</span></li>
