@@ -389,11 +389,7 @@
                 <li>Toni Mäkelä <span class="liinfo">&ndash; Valokuvat</span></li>
                 <li>Tommi Kantala <span class="liinfo">&ndash; Valokuvat</span></li>
                 
-                <li class="lititle">Yrityssuhteet</li>
-                <li>Tapio Hautamäki <span class="liinfo">&ndash; Vastaava</span></li>
-                <li>Markus Aapro</li>
-                <li>Elias Axelsson</li>
-                <li>Mariia Keitaanniemi</li>
+                
 
                 
 
@@ -402,6 +398,12 @@
           </div>
           <div class="medium-3 columns">
                 <ul class="no-bullet tekijalista">
+                
+                <li class="lititle">Yrityssuhteet</li>
+                <li>Tapio Hautamäki <span class="liinfo">&ndash; Vastaava</span></li>
+                <li>Markus Aapro</li>
+                <li>Elias Axelsson</li>
+                <li>Mariia Keitaanniemi</li>
                 
                 <li class="lititle">Tekniikka</li>
                 <li>Elias Axelsson <span class="liinfo">&ndash; Valaistusvastaava, projisoinnit</span></li>
