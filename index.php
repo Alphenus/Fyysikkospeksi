@@ -326,7 +326,6 @@
           </div>
           <div class="medium-4 columns">
             <ul class="no-bullet tekijalista">
-                
 
                 <li class="lititle">Käsikirjoitus</li>
                 <li>Aino Laine</li>
@@ -407,12 +406,9 @@
 
                 
             </ul>
-            
+          </div>
           <div class="medium-3 columns">
                 <ul class="no-bullet tekijalista">
-                
-
-
                 
                 <li class="lititle">Näyttämö</li>
                 <li>Lilli Konttinen <span class="liinfo">&ndash; Vastaava</span></li>
@@ -466,7 +462,7 @@
 
                 
                 </ul>
-                </div>
+          </div>
           
       </div>
     </div>
