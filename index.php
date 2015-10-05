@@ -307,7 +307,7 @@
                 <li>Matleena Kukkonen</li>
                 <li>Pilvi Paakkarinen</li>
                 <li>Riina Juurmaa</li>
-                <li>Saila Rappumäki</li></div>
+                <li>Saila Rappumäki</li>
                 
                 <li class="lititle">Puvustus</li>
                 <li>Konsta Kantola <span class="liinfo">&ndash; Vastaava</span></li>
