@@ -55,22 +55,7 @@
     </div>   
     
     <dia id="fspex">
-        <div class="row high400">
-          <div class="medium-8 medium-offset-2 columns text-justify">
-            <h1 data-magellan-destination="spx15" class="text-center" >Fyysikko&shy;speksi 2015</h1> <div class="titlebar"></div> <a name="spx15"></a>
-            
-            <p>Harva tietää, että maailman kaikki esiintyjät maksavat aina leijonanosan palkkioistaan enigmaattiselle <b>Ruotsin mafia</b>lle. Viihdemafian lopullisen ylivallan sinetöi nyt uusin sensaatio, koko maailman pop-idoli, Antero Alanko eli <b>Antares A</b>.</p>
-
-<p>Suomalainen illusionistiryhmä <b>The Mindblowers</b> valmistautuu vuosisadan keikkaan. Tällä kertaa panoksena on kuitenkin paljon enemmän kuin yleisön taputukset. He aikovat taistella epäreilua viihdetyranniaa vastaan Robin Hoodin opein, viemällä rikkailta ja antamalla köyhille, eli itselleen.</p>
-
-<p>Mitä Ruotsin mafia aikoo? Onnistuuko uhkarohkea ryöstösuunnitelma? Onko nuoriso lopullisesti pilalla? Voiko musiikki todella muuttaa maailmaa? Näihin ja aivan kaikkeen muuhunkin antaa vastaukset Fyysikkospeksi. Se puhaltaa mielenne, se vangitsee ajatuksenne, Antares A:n sanoin: <b>“se bouncaa, flexaa ja krebaa teidän äässit off!”</b>
-</p>
-
-            
-          </div>
-        </div>
-        
-        <div class="row">
+         <div class="row">
             <div class="large-10 large-offset-1 medium-12 columns">
                 <div class="lippupallot">
                     <a href="https://holvi.com/shop/fyysikkospeksi/section/louhisali-i-la-1010-klo-18/"  target="_blank" class="date-ball">
@@ -92,6 +77,23 @@
                 </div>
             </div>
         </div>
+        
+        <div class="row high400">
+          <div class="medium-8 medium-offset-2 columns text-justify">
+            <h1 data-magellan-destination="spx15" class="text-center" >Fyysikko&shy;speksi 2015</h1> <div class="titlebar"></div> <a name="spx15"></a>
+            
+            <p>Harva tietää, että maailman kaikki esiintyjät maksavat aina leijonanosan palkkioistaan enigmaattiselle <b>Ruotsin mafia</b>lle. Viihdemafian lopullisen ylivallan sinetöi nyt uusin sensaatio, koko maailman pop-idoli, Antero Alanko eli <b>Antares A</b>.</p>
+
+<p>Suomalainen illusionistiryhmä <b>The Mindblowers</b> valmistautuu vuosisadan keikkaan. Tällä kertaa panoksena on kuitenkin paljon enemmän kuin yleisön taputukset. He aikovat taistella epäreilua viihdetyranniaa vastaan Robin Hoodin opein, viemällä rikkailta ja antamalla köyhille, eli itselleen.</p>
+
+<p>Mitä Ruotsin mafia aikoo? Onnistuuko uhkarohkea ryöstösuunnitelma? Onko nuoriso lopullisesti pilalla? Voiko musiikki todella muuttaa maailmaa? Näihin ja aivan kaikkeen muuhunkin antaa vastaukset Fyysikkospeksi. Se puhaltaa mielenne, se vangitsee ajatuksenne, Antares A:n sanoin: <b>“se bouncaa, flexaa ja krebaa teidän äässit off!”</b>
+</p>
+
+            
+          </div>
+        </div>
+        
+       
         
     </dia>
     
@@ -142,28 +144,6 @@
           </div>
         </div>
 
-        <div class="row">
-            <div class="large-10 large-offset-1 medium-12 columns">
-                <div class="lippupallot">
-                    <a href="https://holvi.com/shop/fyysikkospeksi/section/louhisali-i-la-1010-klo-18/"  target="_blank" class="date-ball">
-                        <span class="date-day">LA</span><span class="date-pvm">10.10.</span> 
-                        <span class="date-loc">Louhisali</span> <span class="date-tic"> </span>
-                    </a>
-                    <a href="https://holvi.com/shop/fyysikkospeksi/section/louhisali-ii-su-1110-klo-16/" target="_blank" class="date-ball">
-                        <span class="date-day">SU</span><span class="date-pvm">11.10.</span> 
-                        <span class="date-loc">Louhisali</span> <span class="date-tic"> </span>
-                    </a>
-                    <a href="https://holvi.com/shop/fyysikkospeksi/section/gloria-i-ma-2610-klo-19/" target="_blank" class="date-ball">
-                        <span class="date-day">MA</span><span class="date-pvm">26.10.</span> 
-                        <span class="date-loc">Gloria</span> <span class="date-tic"> </span>
-                    </a>
-                    <a href="https://holvi.com/shop/fyysikkospeksi/section/gloria-ii-ti-2710-klo-19/" target="_blank" class="date-ball">
-                        <span class="date-day">TI</span><span class="date-pvm">27.10.</span> 
-                        <span class="date-loc">Gloria</span> <span class="date-tic"> </span>
-                    </a>
-                </div>
-            </div>
-        </div>
 
         <div class="row">  
           <div class="large-6 columns" >
