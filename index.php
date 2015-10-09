@@ -74,19 +74,19 @@
             <div class="large-10 large-offset-1 medium-12 columns">
                 <div class="lippupallot">
                     <a href="https://holvi.com/shop/fyysikkospeksi/section/louhisali-i-la-1010-klo-18/"  target="_blank" class="date-ball">
-                        <span class="date-day">LA</span><span class="date-pvm">10.10.</span> 
+                        <span class="date-day">LA 10.10.</span><span class="date-pvm">18:00</span> 
                         <span class="date-loc">Louhisali</span> <span class="date-tic"> </span>
                     </a>
                     <a href="https://holvi.com/shop/fyysikkospeksi/section/louhisali-ii-su-1110-klo-16/" target="_blank" class="date-ball">
-                        <span class="date-day">SU</span><span class="date-pvm">11.10.</span> 
+                        <span class="date-day">SU 11.10.</span><span class="date-pvm">16:00</span> 
                         <span class="date-loc">Louhisali</span> <span class="date-tic"> </span>
                     </a>
                     <a href="https://holvi.com/shop/fyysikkospeksi/section/gloria-i-ma-2610-klo-19/" target="_blank" class="date-ball">
-                        <span class="date-day">MA</span><span class="date-pvm">26.10.</span> 
+                        <span class="date-day">MA 26.10.</span><span class="date-pvm">19:00</span> 
                         <span class="date-loc">Gloria</span> <span class="date-tic"> </span>
                     </a>
                     <a href="https://holvi.com/shop/fyysikkospeksi/section/gloria-ii-ti-2710-klo-19/" target="_blank" class="date-ball">
-                        <span class="date-day">TI</span><span class="date-pvm">27.10.</span> 
+                        <span class="date-day">TI 27.10.</span><span class="date-pvm">19:00</span> 
                         <span class="date-loc">Gloria</span> <span class="date-tic"> </span>
                     </a>
                 </div>
