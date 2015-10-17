@@ -171,7 +171,7 @@
                 </div>    
                 
                 <div class="row">
-                    <div class="medium-4 columns"><img src="img/visa.jpg" alt="Visa Spiraali"></div>
+                    <div class="medium-4 columns"><img class="right" src="img/visa.jpg" alt="Visa Spiraali"></div>
                     <div class="medium-8 columns">
                     <h4>Visa Spiraali</h4>
                     <p>Hypnoosin herttua Visa Spiraali vangitsee The Mindblowersin esityksissä yleisön mielet intensiivisellä katseellaan ja rauhoittavalla äänellään. Eksentrisyydestään huolimatta Visaan voi aina luottaa vaikeassakin tilanteessa. Hän myös toimii toisinaan eräänlaisena järjen äänenä hilliten Anastaasian kaikkein impulsiivisimpia päähänpistoja.</p>
