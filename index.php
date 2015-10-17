@@ -158,25 +158,107 @@
         </div>
     </div>
     
-<div id="spons">
-    <div class="row">
-      <div class="medium-8 medium-offset-2 columns">
-        <h2 class="text-center">Pääyhteistyö&shy;kumppani</h2> <div class="titlebar"></div>
-        <p>
-            <a href="http://www.cybershop.fi/" target="_blank"><img src="img/cybershop_logo.png" alt="Cybershop"></a>
-        </p>
-      </div>
+    <div id="galleria">
+        <div class="row">
+            <div class="large-12 columns">
+            
+                <div class="row">
+                    <div class="medium-8 columns">
+                        <h4>Anastaasia Pölli</h4>
+                        <p>Magian mestari Anastaasia Pölli on todellinen mielenpuhaltaja! Hän kääntää pääsi, silmäsi ja taloudellisen ahdingon koittaessa ehkä myös rahasi. Anastaasia tekee kaiken aina showmieselkein, kuten illusionistiryhmä The Mindblowersin tyyliin kuuluu.</p>
+                    </div>
+                    <div class="medium-4 columns"></div>
+                </div>    
+                
+                <div class="row">
+                    <div class="medium-4 columns"></div>
+                    <div class="medium-8 columns">
+                    <h4>Visa Spiraali</h4>
+                    <p>Hypnoosin herttua Visa Spiraali vangitsee The Mindblowersin esityksissä yleisön mielet intensiivisellä katseellaan ja rauhoittavalla äänellään. Eksentrisyydestään huolimatta Visaan voi aina luottaa vaikeassakin tilanteessa. Hän myös toimii toisinaan eräänlaisena järjen äänenä hilliten Anastaasian kaikkein impulsiivisimpia päähänpistoja.</p>
+                    </div>
+                </div>  
+                
+                <div class="row">
+                    <div class="medium-8 columns">
+                    <h4>Satu Turtana</h4>
+                    
+                    <p>The Mindblowersin femme fatale, fakiiri Satu Turtana on illusionistiryhmän kovanaama. Hänellä on yksi merkittävä etu työssään tulisten hiilien ja terävien piikkien parissa: Satu ei nimittäin tunne lainkaan kipua. Hän ylpeileekin usein sillä, että häntä ei ole koskaan sattunut -- ei edes silloin lapsena, kun hän astui Lego-palikan päälle.</p>
+                    </div>
+                    <div class="medium-4 columns"></div>
+                </div>    
+                
+                <div class="row">
+                    <div class="medium-4 columns"></div>
+                    <div class="medium-8 columns">
+                    <h4>Seppo “Lukko-Seppo” Lukko</h4>
+                    <p>
+                        Neljäs ässä The Mindblowersin hihassa on klaustrofobinen kahlekuningas Seppo “Lukko-Seppo” Lukko, jolle yksikään loukku ei säily pitkään ahtaana. Sepon huolettoman charmin valloittavuudesta hyvä osoitus on, että hän on onnistunut pehmentämään jopa Sadun kovan ulkokuoren. Työpaikkaromanssi on edennyt vakavaksi, elämänmittaiseksi sielunkumppanuudeksi.
+                    </p>
+                    </div>
+                </div>  
+                <div class="row">
+                    <div class="medium-8 columns">
+                    <h4>Aukusti Magnif-Ikonen</h4>
+                    <p>
+                        Aukusti Magnif-Ikonen on The Mindblowersin jo edesmennyt perustaja ja oppi-isä, jonka henki näkyy yhä vahvana illusionistiryhmän filosofiassa ja esityksissä. Toisinaan jopa tuntuu, että Aukusti on vieläkin läsnä ikään kuin tarkkailemassa oppipoikiaan ja -tyttöjään, perintönsä jatkajia.
+                    </p>
+                    </div>
+                    <div class="medium-4 columns"></div>
+                </div>    
+                
+                <div class="row">
+                    <div class="medium-4 columns"></div>
+                    <div class="medium-8 columns">
+                    <h4>Mauritz Kårleon</h4>
+                    <p>
+                        Koko viihdemaailmaa rautaisessa otteessaan pitävän salaperäisen Ruotsin mafian päämies Mauritz Kårleon ymmärtää, että nykypäivänä viihde on ennen kaikkea laskelmoitua taistelua kuluttajamassojen rahoista. Miksi jättää mitään luovuuden ja inspiraation varaan, kun jokaisen yksityiskohdan voi optimoida tuottamaan maksimaalisen määrän voittoa?
+                    </p>
+                    </div>
+                </div>  
+                <div class="row">
+                    <div class="medium-8 columns">
+                    <h4>Hennes Alkapån</h4>
+                    <p>
+                        Ruotsin mafian Suomen-osastoa johtaa Hennes Alkapån. Hän on päässyt asemaansa järkähtämättömällä määrätietoisuudellaan, joka tosin järkähtää heti, jos Mauritz niin käskee. Juuri Henneksen ansiota on uuden maailmantähden, suomalaisen Antares A:n, rekrytointi mafian artistiarsenaalin pop-johtotähdeksi.
+                    </p>
+                    </div>
+                    <div class="medium-4 columns"></div>
+                </div>    
+                
+                <div class="row">
+                    <div class="medium-4 columns"></div>
+                    <div class="medium-8 columns">
+                    <h4>Antero Alanko</h4>
+                    <p>
+                        Antero Alanko -- taiteilijanimeltään Antares A -- on noussut lyhyessä ajassa koko maailmanhistorian suosituimmaksi artistiksi. Antareksen menestyksen taustalla on vahva ruotsalainen koneisto, johon on palkattu armeijoittain tuottajia, stylistejä ja kuvausryhmiä, niin että Antero itse voi keskittyä elämään unelmaansa “niinku every day”!
+                    </p>
+                    </div>
+                </div>  
+                <div class="row">
+                    <div class="medium-8 columns">
+                    <h4>Lauri Yö</h4>
+                    <p>
+                        Tämä talkshow-isäntä on kaikille tuttu. Hän on Suomen kenties seitsemänneksitoista komein mies, hän on lopullinen ratkaisu TV-juontajakysymykseen, hän on kansallinen instituutio. Hän on Lauri Yö, ja jokaisen suomalaisen illan kruunaa Late Night Show!
+                    </p>
+                    </div>
+                    <div class="medium-4 columns"></div>
+                </div>    
+                
+                <div class="row">
+                    <div class="medium-4 columns"></div>
+                    <div class="medium-8 columns">
+                    <h4>Henniina, Max, Petra-Alina ja Janissa</h4>
+                    <p>
+                        “Antares A:ta fanaattisella hurmoksella palvova fanijoukko on voima, joka kannattaa ottaa vakavasti. Tutkijoiden mukaan nämä enimmäkseen älypuhelimien avulla toisilleen viestivät teinit muodostavat eräänlaisen hivemind-älyn, kollektiivisesti käyttäytyvän organismin, jossa kokonaisuus on enemmän kuin osiensa summa.” -- HS 16. elokuuta.
+
+                    </p>
+                    </div>
+                </div>  
+            </div>
+        </div>
     </div>
     
-    <div class="row">
-      <div class="medium-8 medium-offset-2 columns">
-        <h2 class="text-center">&nbsp;</h2> <div class="titlebar"></div>
-        <p>
-            <a href="http://fyysikkoalumni.fi/" target="_blank"><img src="img/alumnilogo.png" alt="Fyysikkoalumnit"></a>
-        </p>
-      </div>
-    </div>    
-</div>
+
     
     
 <div id="yhteys">
@@ -201,6 +283,26 @@
             <p><b>Eetu Ahonen</b> <br> eetu.ahonen<i class="fa fa-at"></i>gmail.com <br> 050 537 9255</p>
         </div>
     </div>
+</div>
+   
+<div id="spons">
+    <div class="row">
+      <div class="medium-8 medium-offset-2 columns">
+        <h2 class="text-center">Pääyhteistyö&shy;kumppani</h2> <div class="titlebar"></div>
+        <p>
+            <a href="http://www.cybershop.fi/" target="_blank"><img src="img/cybershop_logo.png" alt="Cybershop"></a>
+        </p>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="medium-8 medium-offset-2 columns">
+        <h2 class="text-center">&nbsp;</h2> <div class="titlebar"></div>
+        <p>
+            <a href="http://fyysikkoalumni.fi/" target="_blank"><img src="img/alumnilogo.png" alt="Fyysikkoalumnit"></a>
+        </p>
+      </div>
+    </div>    
 </div>
    
 <div id="tekijat"> 
