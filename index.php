@@ -167,11 +167,11 @@
                         <h4>Anastaasia Pölli</h4>
                         <p>Magian mestari Anastaasia Pölli on todellinen mielenpuhaltaja! Hän kääntää pääsi, silmäsi ja taloudellisen ahdingon koittaessa ehkä myös rahasi. Anastaasia tekee kaiken aina showmieselkein, kuten illusionistiryhmä The Mindblowersin tyyliin kuuluu.</p>
                     </div>
-                    <div class="medium-4 columns"></div>
+                    <div class="medium-4 columns"><img src="img/anastaasia.jpg" alt="Anastaasia Pölli"></div>
                 </div>    
                 
                 <div class="row">
-                    <div class="medium-4 columns"></div>
+                    <div class="medium-4 columns"><img src="img/visa.jpg" alt="Visa Spiraali"></div>
                     <div class="medium-8 columns">
                     <h4>Visa Spiraali</h4>
                     <p>Hypnoosin herttua Visa Spiraali vangitsee The Mindblowersin esityksissä yleisön mielet intensiivisellä katseellaan ja rauhoittavalla äänellään. Eksentrisyydestään huolimatta Visaan voi aina luottaa vaikeassakin tilanteessa. Hän myös toimii toisinaan eräänlaisena järjen äänenä hilliten Anastaasian kaikkein impulsiivisimpia päähänpistoja.</p>
@@ -184,11 +184,11 @@
                     
                     <p>The Mindblowersin femme fatale, fakiiri Satu Turtana on illusionistiryhmän kovanaama. Hänellä on yksi merkittävä etu työssään tulisten hiilien ja terävien piikkien parissa: Satu ei nimittäin tunne lainkaan kipua. Hän ylpeileekin usein sillä, että häntä ei ole koskaan sattunut -- ei edes silloin lapsena, kun hän astui Lego-palikan päälle.</p>
                     </div>
-                    <div class="medium-4 columns"></div>
+                    <div class="medium-4 columns"><img src="img/satu.jpg" alt="Satu Turtana"></div>
                 </div>    
                 
                 <div class="row">
-                    <div class="medium-4 columns"></div>
+                    <div class="medium-4 columns"><img src="img/seppo.jpg" alt="Seppo Lukko"></div>
                     <div class="medium-8 columns">
                     <h4>Seppo “Lukko-Seppo” Lukko</h4>
                     <p>
@@ -209,7 +209,7 @@
                 </div>    
                 
                 <div class="row">
-                    <div class="medium-4 columns"></div>
+                    <div class="medium-4 columns"><img src="img/mauriz.jpg" alt="Mauriz Kårleone"></div>
                     <div class="medium-8 columns">
                     <h4>Mauritz Kårleon</h4>
                     <p>
@@ -224,11 +224,11 @@
                         Ruotsin mafian Suomen-osastoa johtaa Hennes Alkapån. Hän on päässyt asemaansa järkähtämättömällä määrätietoisuudellaan, joka tosin järkähtää heti, jos Mauritz niin käskee. Juuri Henneksen ansiota on uuden maailmantähden, suomalaisen Antares A:n, rekrytointi mafian artistiarsenaalin pop-johtotähdeksi.
                     </p>
                     </div>
-                    <div class="medium-4 columns"></div>
+                    <div class="medium-4 columns"><img src="img/hennes.jpg" alt="Hennes Alkapån"></div>
                 </div>    
                 
                 <div class="row">
-                    <div class="medium-4 columns"></div>
+                    <div class="medium-4 columns"><img src="img/antares.jpg" alt="Antero Alanko"></div>
                     <div class="medium-8 columns">
                     <h4>Antero Alanko</h4>
                     <p>
@@ -243,7 +243,7 @@
                         Tämä talkshow-isäntä on kaikille tuttu. Hän on Suomen kenties seitsemänneksitoista komein mies, hän on lopullinen ratkaisu TV-juontajakysymykseen, hän on kansallinen instituutio. Hän on Lauri Yö, ja jokaisen suomalaisen illan kruunaa Late Night Show!
                     </p>
                     </div>
-                    <div class="medium-4 columns"></div>
+                    <div class="medium-4 columns"><img src="img/late.jpg" alt="Lauri Yö"></div>
                 </div>    
                 
                 <div class="row">
