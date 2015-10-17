@@ -160,7 +160,7 @@
     
     <div id="galleria">
         <div class="row">
-            <div class="small-10 small-offset-1 columns">
+            <div class="small-10 small-offset-1 columns text-justify ">
             
                 <div class="row">
                     <div class="medium-8 columns text-right">
