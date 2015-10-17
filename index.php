@@ -188,7 +188,7 @@
                 </div>    
                 
                 <div class="row">
-                    <div class="medium-4 columns"><img src="img/seppo.jpg" alt="Seppo Lukko"></div>
+                    <div class="medium-4 columns"><img class="right" src="img/seppo.jpg" alt="Seppo Lukko"></div>
                     <div class="medium-8 columns">
                     <h4>Seppo “Lukko-Seppo” Lukko</h4>
                     <p>
@@ -209,7 +209,7 @@
                 </div>    
                 
                 <div class="row">
-                    <div class="medium-4 columns"><img src="img/mauriz.jpg" alt="Mauriz Kårleone"></div>
+                    <div class="medium-4 columns"><img class="right" src="img/mauriz.jpg" alt="Mauriz Kårleone"></div>
                     <div class="medium-8 columns">
                     <h4>Mauritz Kårleon</h4>
                     <p>
@@ -228,7 +228,7 @@
                 </div>    
                 
                 <div class="row">
-                    <div class="medium-4 columns"><img src="img/antares.jpg" alt="Antero Alanko"></div>
+                    <div class="medium-4 columns"><img class="right" src="img/antares.jpg" alt="Antero Alanko"></div>
                     <div class="medium-8 columns">
                     <h4>Antero Alanko</h4>
                     <p>
