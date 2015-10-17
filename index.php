@@ -165,7 +165,7 @@
                 <div class="row">
                     <div class="medium-8 columns ">
                         <h4>Anastaasia Pölli</h4>
-                        <p>Magian mestari Anastaasia Pölli on todellinen mielenpuhaltaja! Hän kääntää pääsi, silmäsi ja taloudellisen ahdingon koittaessa ehkä myös rahasi. Anastaasia tekee kaiken aina showmieselkein, kuten illusionistiryhmä The Mindblowersin tyyliin kuuluu.</p>
+                        <p>Magian mestari Anastaasia Pölli on todellinen mielen&shy;puhaltaja! Hän kääntää pääsi, silmäsi ja taloudellisen ahdingon koittaessa ehkä myös rahasi. Anastaasia tekee kaiken aina showmieselkein, kuten illusionistiryhmä The Mindblowersin tyyliin kuuluu.</p>
                     </div>
                     <div class="medium-4 columns"><img src="img/anastaasia.jpg" alt="Anastaasia Pölli"></div>
                 </div>    
@@ -192,7 +192,7 @@
                     <div class="medium-8 columns">
                     <h4>Seppo “Lukko-Seppo” Lukko</h4>
                     <p>
-                        Neljäs ässä The Mindblowersin hihassa on klaustrofobinen kahlekuningas Seppo “Lukko-Seppo” Lukko, jolle yksikään loukku ei säily pitkään ahtaana. Sepon huolettoman charmin valloittavuudesta hyvä osoitus on, että hän on onnistunut pehmentämään jopa Sadun kovan ulkokuoren. Työpaikkaromanssi on edennyt vakavaksi, elämänmittaiseksi sielunkumppanuudeksi.
+                        Neljäs ässä The Mindblowersin hihassa on klaustrofobinen kahlekuningas Seppo “Lukko-Seppo” Lukko, jolle yksikään loukku ei säily pitkään ahtaana. Sepon huolettoman charmin valloittavuudesta hyvä osoitus on, että hän on onnistunut pehmentämään jopa Sadun kovan ulkokuoren. Työpaikka&shy;romanssi on edennyt vakavaksi, elämän&shy;mittaiseksi sielun&shy;kumppanuudeksi.
                     </p>
                     </div>
                 </div>  
@@ -221,7 +221,7 @@
                     <div class="medium-8 columns ">
                     <h4>Hennes Alkapån</h4>
                     <p>
-                        Ruotsin mafian Suomen-osastoa johtaa Hennes Alkapån. Hän on päässyt asemaansa järkähtämättömällä määrätietoisuudellaan, joka tosin järkähtää heti, jos Mauritz niin käskee. Juuri Henneksen ansiota on uuden maailmantähden, suomalaisen Antares A:n, rekrytointi mafian artistiarsenaalin pop-johtotähdeksi.
+                        Ruotsin mafian Suomen-osastoa johtaa Hennes Alkapån. Hän on päässyt asemaansa järkähtämät&shy;tömällä määrä&shy;tietoi&shy;suudellaan, joka tosin järkähtää heti, jos Mauritz niin käskee. Juuri Henneksen ansiota on uuden maailmantähden, suomalaisen Antares A:n, rekrytointi mafian artistiarsenaalin pop-johtotähdeksi.
                     </p>
                     </div>
                     <div class="medium-4 columns"><img src="img/hennes.jpg" alt="Hennes Alkapån"></div>
