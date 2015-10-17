@@ -203,7 +203,9 @@
                         Aukusti Magnif-Ikonen on The Mindblowersin jo edesmennyt perustaja ja oppi-isä, jonka henki näkyy yhä vahvana illusionistiryhmän filosofiassa ja esityksissä. Toisinaan jopa tuntuu, että Aukusti on vieläkin läsnä ikään kuin tarkkailemassa oppipoikiaan ja -tyttöjään, perintönsä jatkajia.
                     </p>
                     </div>
-                    <div class="medium-4 columns"></div>
+                    <div class="medium-4 columns">
+                        <img src="img/aukusti.jpg" alt="Aukusti Magnif-Ikonen">
+                    </div>
                 </div>    
                 
                 <div class="row">
