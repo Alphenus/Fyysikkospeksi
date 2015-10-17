@@ -163,7 +163,7 @@
             <div class="large-12 columns">
             
                 <div class="row">
-                    <div class="medium-8 columns">
+                    <div class="medium-8 columns text-center">
                         <h4>Anastaasia Pölli</h4>
                         <p>Magian mestari Anastaasia Pölli on todellinen mielenpuhaltaja! Hän kääntää pääsi, silmäsi ja taloudellisen ahdingon koittaessa ehkä myös rahasi. Anastaasia tekee kaiken aina showmieselkein, kuten illusionistiryhmä The Mindblowersin tyyliin kuuluu.</p>
                     </div>
@@ -179,7 +179,7 @@
                 </div>  
                 
                 <div class="row">
-                    <div class="medium-8 columns">
+                    <div class="medium-8 columns text-center">
                     <h4>Satu Turtana</h4>
                     
                     <p>The Mindblowersin femme fatale, fakiiri Satu Turtana on illusionistiryhmän kovanaama. Hänellä on yksi merkittävä etu työssään tulisten hiilien ja terävien piikkien parissa: Satu ei nimittäin tunne lainkaan kipua. Hän ylpeileekin usein sillä, että häntä ei ole koskaan sattunut -- ei edes silloin lapsena, kun hän astui Lego-palikan päälle.</p>
@@ -197,7 +197,7 @@
                     </div>
                 </div>  
                 <div class="row">
-                    <div class="medium-8 columns">
+                    <div class="medium-8 columns text-center">
                     <h4>Aukusti Magnif-Ikonen</h4>
                     <p>
                         Aukusti Magnif-Ikonen on The Mindblowersin jo edesmennyt perustaja ja oppi-isä, jonka henki näkyy yhä vahvana illusionistiryhmän filosofiassa ja esityksissä. Toisinaan jopa tuntuu, että Aukusti on vieläkin läsnä ikään kuin tarkkailemassa oppipoikiaan ja -tyttöjään, perintönsä jatkajia.
@@ -250,7 +250,6 @@
                     <h4>Henniina, Max, Petra-Alina ja Janissa</h4>
                     <p>
                         “Antares A:ta fanaattisella hurmoksella palvova fanijoukko on voima, joka kannattaa ottaa vakavasti. Tutkijoiden mukaan nämä enimmäkseen älypuhelimien avulla toisilleen viestivät teinit muodostavat eräänlaisen hivemind-älyn, kollektiivisesti käyttäytyvän organismin, jossa kokonaisuus on enemmän kuin osiensa summa.” -- HS 16. elokuuta.
-
                     </p>
                     </div>
                 </div>  
