@@ -169,7 +169,7 @@
                     <div class="medium-8 columns ">
                     <h4>Satu Turtana</h4>
                     
-                    <p>The Mindblowersin femme fatale, fakiiri Satu Turtana on illusionistiryhmän kovanaama. Hänellä on yksi merkittävä etu työssään tulisten hiilien ja terävien piikkien parissa: Satu ei nimittäin tunne lainkaan kipua. Hän ylpeileekin usein sillä, että häntä ei ole koskaan sattunut -- ei edes silloin lapsena, kun hän astui Lego-palikan päälle.</p>
+                    <p>The Mindblowersin femme fatale, fakiiri Satu Turtana on illusionistiryhmän kovanaama. Hänellä on yksi merkittävä etu työssään tulisten hiilien ja terävien piikkien parissa: Satu ei nimittäin tunne lainkaan kipua. Hän ylpeileekin usein sillä, että häntä ei ole koskaan sattunut &ndash; ei edes silloin lapsena, kun hän astui Lego-palikan päälle.</p>
                     </div>
                     <div class="medium-4 columns"><img src="img/satu.jpg" alt="Satu Turtana"></div>
                 </div>    
@@ -219,7 +219,7 @@
                     <div class="medium-8 columns">
                     <h4>Antero Alanko</h4>
                     <p>
-                        Antero Alanko -- taiteilijanimeltään Antares A -- on noussut lyhyessä ajassa koko maailmanhistorian suosituimmaksi artistiksi. Antareksen menestyksen taustalla on vahva ruotsalainen koneisto, johon on palkattu armeijoittain tuottajia, stylistejä ja kuvaus&shy;ryhmiä, niin että Antero itse voi keskittyä elämään unelmaansa “niinku every day”!
+                        Antero Alanko &ndash; taiteilijanimeltään Antares A &ndash; on noussut lyhyessä ajassa koko maailmanhistorian suosituimmaksi artistiksi. Antareksen menestyksen taustalla on vahva ruotsalainen koneisto, johon on palkattu armeijoittain tuottajia, stylistejä ja kuvaus&shy;ryhmiä, niin että Antero itse voi keskittyä elämään unelmaansa “niinku every day”!
                     </p>
                     </div>
                 </div>  
@@ -238,7 +238,7 @@
                     <div class="medium-8 columns">
                     <h4>Henniina, Max, Petra-Alina ja Janissa</h4>
                     <p>
-                        “Antares A:ta fanaattisella hurmoksella palvova fanijoukko on voima, joka kannattaa ottaa vakavasti. Tutkijoiden mukaan nämä enimmäkseen älypuhelimien avulla toisilleen viestivät teinit muodostavat eräänlaisen hivemind-älyn, kollektiivisesti käyttäytyvän organismin, jossa kokonaisuus on enemmän kuin osiensa summa.” -- HS 16. elokuuta.
+                        “Antares A:ta fanaattisella hurmoksella palvova fanijoukko on voima, joka kannattaa ottaa vakavasti. Tutkijoiden mukaan nämä enimmäkseen älypuhelimien avulla toisilleen viestivät teinit muodostavat eräänlaisen hivemind-älyn, kollektiivisesti käyttäytyvän organismin, jossa kokonaisuus on enemmän kuin osiensa summa.” &ndash; HS 16. elokuuta.
                     </p>
                     </div>
                 </div>  
