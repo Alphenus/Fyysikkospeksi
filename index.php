@@ -46,6 +46,7 @@
               <dl class="sub-nav">
                 <dd data-magellan-arrival="spx15"><a href="#spx15">Fyysikko&shy;speksi 2015</a></dd>
                 <dd data-magellan-arrival="liput"><a href="#liput">Liput</a></dd>
+                <dd data-magellan-arrival="hahmot"><a href="#hahmot">Hahmogalleria</a></dd>
                 <dd data-magellan-arrival="sijainti"><a href="#sijainti">Sijainti</a></dd>
                 <dd data-magellan-arrival="yhteys"><a href="#yhteys">Yhteystiedot</a></dd>
                 <dd data-magellan-arrival="team"><a href="#team">Tekijät</a></dd>
@@ -135,30 +136,16 @@
 
     </div>
     
-    <div id="paikka">
-        <div class="row">
-          <div class="large-12 columns">
-            <h2 data-magellan-destination="sijainti">Sijainti</h2> <div class="titlebar"></div> <a name="sijainti"></a>
-            <p></p>
-
-          </div>
-        </div>
-
-
-        <div class="row">  
-          <div class="large-6 columns" >
-              <h3 class="text-center">Louhisali</h3>
-              <p class="text-center"><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 95%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1984.1619202135762!2d24.804618400000017!3d60.1780521!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x468df597ea23bc7f%3A0x2a5bbd916f2f38ee!2sEspoon+Kulttuurikeskus!5e0!3m2!1sfi!2sfi!4v1438422447586' width='400' height='300' frameborder='0' style='border:0' allowfullscreen></iframe></div></p>
-          </div>
-
-          <div class="large-6 columns" >
-              <h3 class="text-center">Gloria</h3>
-              <p class="text-center"><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 95%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1985.0100730652382!2d24.9452826!3d60.16401210000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46920bc9982dc67d%3A0xc0016fe0a6a17583!2sGloria!5e0!3m2!1sfi!2sfi!4v1438422517698' width='400' height='300' frameborder='0' style='border:0' allowfullscreen></iframe></div></p>
-          </div>
-        </div>
-    </div>
+  
     
     <div id="galleria">
+        
+         <div class="row"  >
+          <div class="large-12 columns">
+            <h2 data-magellan-destination="hahmot">Hahmogalleria</h2> <div class="titlebar"></div><a name="hahmot"></a>
+          </div>
+        </div>
+        
         <div class="row">
             <div class="small-12 medium-8 medium-offset-2 columns text-justify ">
             
@@ -232,7 +219,7 @@
                     <div class="medium-8 columns">
                     <h4>Antero Alanko</h4>
                     <p>
-                        Antero Alanko -- taiteilijanimeltään Antares A -- on noussut lyhyessä ajassa koko maailmanhistorian suosituimmaksi artistiksi. Antareksen menestyksen taustalla on vahva ruotsalainen koneisto, johon on palkattu armeijoittain tuottajia, stylistejä ja kuvausryhmiä, niin että Antero itse voi keskittyä elämään unelmaansa “niinku every day”!
+                        Antero Alanko -- taiteilijanimeltään Antares A -- on noussut lyhyessä ajassa koko maailmanhistorian suosituimmaksi artistiksi. Antareksen menestyksen taustalla on vahva ruotsalainen koneisto, johon on palkattu armeijoittain tuottajia, stylistejä ja kuvaus&shy;ryhmiä, niin että Antero itse voi keskittyä elämään unelmaansa “niinku every day”!
                     </p>
                     </div>
                 </div>  
@@ -259,7 +246,28 @@
         </div>
     </div>
     
+  <div id="paikka">
+        <div class="row">
+          <div class="large-12 columns">
+            <h2 data-magellan-destination="sijainti">Sijainti</h2> <div class="titlebar"></div> <a name="sijainti"></a>
+            <p></p>
 
+          </div>
+        </div>
+
+
+        <div class="row">  
+          <div class="large-6 columns" >
+              <h3 class="text-center">Louhisali</h3>
+              <p class="text-center"><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 95%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1984.1619202135762!2d24.804618400000017!3d60.1780521!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x468df597ea23bc7f%3A0x2a5bbd916f2f38ee!2sEspoon+Kulttuurikeskus!5e0!3m2!1sfi!2sfi!4v1438422447586' width='400' height='300' frameborder='0' style='border:0' allowfullscreen></iframe></div></p>
+          </div>
+
+          <div class="large-6 columns" >
+              <h3 class="text-center">Gloria</h3>
+              <p class="text-center"><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 95%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1985.0100730652382!2d24.9452826!3d60.16401210000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46920bc9982dc67d%3A0xc0016fe0a6a17583!2sGloria!5e0!3m2!1sfi!2sfi!4v1438422517698' width='400' height='300' frameborder='0' style='border:0' allowfullscreen></iframe></div></p>
+          </div>
+        </div>
+    </div>
     
     
 <div id="yhteys">
