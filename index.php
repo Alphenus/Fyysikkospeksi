@@ -234,7 +234,7 @@
                 </div>    
                 
                 <div class="row">
-                    <div class="medium-4 columns"></div>
+                    <div class="medium-4 columns"><img src="img/teinit.jpg" alt="Henniina, Max, Petra-Alina ja Janissa"></div>
                     <div class="medium-8 columns">
                     <h4>Henniina, Max, Petra-Alina ja Janissa</h4>
                     <p>
