@@ -134,86 +134,86 @@
             <div class="small-12 medium-8 medium-offset-2 columns text-justify ">
             
                 <div class="row">
-                    <div class="medium-8 columns ">
+                    <div class="small-8 columns ">
                         <h4>Anastaasia Pölli</h4>
                         <p>Anastaasia Pölli, a master of magic, can surely blow everyone’s mind. She’s always stealing the show, and in a sudden strike of poverty she may also steal your money. Anastaasia does everything in style, just like The Mindblowers tend to do.</p>
                     </div>
-                    <div class="medium-4 columns"><img src="img/anastaasia.jpg" alt="Anastaasia Pölli"></div>
+                    <div class="small-4 columns"><img src="img/anastaasia.jpg" alt="Anastaasia Pölli"></div>
                 </div>    
                 
                 <div class="row">
-                    <div class="medium-4 columns"><img class="right" src="img/visa.jpg" alt="Visa Spiraali"></div>
-                    <div class="medium-8 columns">
+                    <div class="small-4 columns"><img class="right" src="img/visa.jpg" alt="Visa Spiraali"></div>
+                    <div class="small-8 columns">
                     <h4>Visa Spiraali</h4>
                     <p>Visa Spiraali, a hypertalented hypnotist, mesmerizes the audience with his intensive gaze and sedative voice. Despite his eccentricity, Visa is a person to turn to even during hard times. In a way, he is the voice of reason in The Mindblowers, preventing Anastaasia’s most impulsive whims from coming into reality.</p>
                     </div>
                 </div>  
                 
                 <div class="row">
-                    <div class="medium-8 columns ">
+                    <div class="small-8 columns ">
                     <h4>Satu Turtana</h4>
                     
                     <p>Satu Turtana is a fabulous fakir and the roughest and toughest of The Mindblowers. She has one remarkable advantage in her work with sharp spikes and hot coal – she can’t feel pain at all. Satu often boasts how nothing has ever hurt her, not even the piece of Lego which she stepped on as kid.</p>
                     </div>
-                    <div class="medium-4 columns"><img src="img/satu.jpg" alt="Satu Turtana"></div>
+                    <div class="small-4 columns"><img src="img/satu.jpg" alt="Satu Turtana"></div>
                 </div>    
                 
                 <div class="row">
-                    <div class="medium-4 columns"><img class="right" src="img/seppo.jpg" alt="Seppo Lukko"></div>
-                    <div class="medium-8 columns">
+                    <div class="small-4 columns"><img class="right" src="img/seppo.jpg" alt="Seppo Lukko"></div>
+                    <div class="small-8 columns">
                     <h4>Seppo “Lukko-Seppo” Lukko</h4>
                     <p>Seppo Lukko, being a talented escape artist, is able to find his way out of any cramped box or chest in no time. Being also claustrophobic, he will too. The charming gentleman has also found his way through Satu’s hard surface, and the little office affair of these two has developed into a lifelong love story.
                     </p>
                     </div>
                 </div>  
                 <div class="row">
-                    <div class="medium-8 columns ">
+                    <div class="small-8 columns ">
                     <h4>Aukusti Magnif-Ikonen</h4>
                     <p>Aukusti Magnif-Ikonen is the late founder of The Mindblowers. He used to be the mentor for the remaining group, and his spirit is still strongly visible in their philosophy and performances. Sometimes you can almost feel as if he were still around, overseeing the work of his apprentices.
                     </p>
                     </div>
-                    <div class="medium-4 columns">
+                    <div class="small-4 columns">
                         <img src="img/aukusti.jpg" alt="Aukusti Magnif-Ikonen">
                     </div>
                 </div>    
                 
                 <div class="row">
-                    <div class="medium-4 columns"><img class="right" src="img/mauriz.jpg" alt="Mauriz Kårleone"></div>
-                    <div class="medium-8 columns">
+                    <div class="small-4 columns"><img class="right" src="img/mauriz.jpg" alt="Mauriz Kårleone"></div>
+                    <div class="small-8 columns">
                     <h4>Mauritz Kårleon</h4>
                     <p>The Swedish Mafia, holding a tight grip on all entertainment industry, is led by Mauritz Kårleon. He has understood that entertainment is really nothing more than cold calculations and competition over people’s money. Artistic inspirations and creativity don’t concern him – optimization for maximal income does.
                     </p>
                     </div>
                 </div>  
                 <div class="row">
-                    <div class="medium-8 columns ">
+                    <div class="small-8 columns ">
                     <h4>Hennes Alkapån</h4>
                     <p>Hennes Alkapån works for the Swedish mafia serving as the head of its Finland office. He has risen to the position with his unshakeable determination which will shake whenever Mauritz commands so. Thanks to Hennes, the mafia has found Antares A from Finland and recruited him to become the leading pop star in the world.
                     </p>
                     </div>
-                    <div class="medium-4 columns"><img src="img/hennes.jpg" alt="Hennes Alkapån"></div>
+                    <div class="small-4 columns"><img src="img/hennes.jpg" alt="Hennes Alkapån"></div>
                 </div>    
                 
                 <div class="row">
-                    <div class="medium-4 columns"><img class="right" src="img/antares.jpg" alt="Antero Alanko"></div>
-                    <div class="medium-8 columns">
+                    <div class="small-4 columns"><img class="right" src="img/antares.jpg" alt="Antero Alanko"></div>
+                    <div class="small-8 columns">
                     <h4>Antero Alanko</h4>
                     <p>Antero Alanko, known by his stage name Antares A, has quickly risen to be the shiniest star in the sky of pop music &ndash; ever. To back his success, the Swedish mafia has employed a multitude of producers, stylists and film crews. The star himself can concentrate on living the dream, like every day.
                     </p>
                     </div>
                 </div>  
                 <div class="row">
-                    <div class="medium-8 columns ">
+                    <div class="small-8 columns ">
                     <h4>Lauri Yö</h4>
                     <p>Everybody knows this talk show host. He is possibly the seventeenth sexiest man in Finland, he is the final solution to the TV presenter question, and he is a national institution. He is Lauri Yö, and you are watching Late Night Show.
                     </p>
                     </div>
-                    <div class="medium-4 columns"><img src="img/late.jpg" alt="Lauri Yö"></div>
+                    <div class="small-4 columns"><img src="img/late.jpg" alt="Lauri Yö"></div>
                 </div>    
                 
                 <div class="row">
-                    <div class="medium-4 columns"><img src="img/teinit.jpg" alt="Henniina, Max, Petra-Alina ja Janissa"></div>
-                    <div class="medium-8 columns">
+                    <div class="small-4 columns"><img src="img/teinit.jpg" alt="Henniina, Max, Petra-Alina ja Janissa"></div>
+                    <div class="small-8 columns">
                     <h4>Henniina, Max, Petra-Alina ja Janissa</h4>
                     <p>“The fanatic crowd adoring and worshipping Antares A is a force to be taken seriously. According to researchers, these teenagers communicating with their mobile devices form a collective organism, a kind of hive mind, where the whole is greater than the sum of its parts” &ndash; Helsingin Sanomat, August the 16th
 
