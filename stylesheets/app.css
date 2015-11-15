@@ -7925,8 +7925,8 @@ h3 {
 .date-ball {
   display: inline-block;
   background-color: #D100A2;
-  width: 150px;
-  height: 150px;
+  width: 170px;
+  height: 170px;
   border-radius: 50%;
   margin: 20px;
   text-align: center;
@@ -7939,17 +7939,7 @@ h3 {
   -o-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
   transition: all 0.3s ease; }
-  @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-    /* line 136, ../scss/_style.scss */
-    .date-ball {
-      width: 120px;
-      height: 120px; } }
-  @media only screen and (max-width: 40em) {
-    /* line 136, ../scss/_style.scss */
-    .date-ball {
-      width: 100px;
-      height: 100px; } }
-  /* line 164, ../scss/_style.scss */
+  /* line 154, ../scss/_style.scss */
   .date-ball:hover {
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -7961,157 +7951,129 @@ h3 {
     -webkit-box-shadow: 0px 0px 10px 4px #de6ffe;
     -moz-box-shadow: 0px 0px 10px 4px #de6ffe;
     box-shadow: 0px 0px 10px 4px #de6ffe; }
-  /* line 175, ../scss/_style.scss */
+  /* line 165, ../scss/_style.scss */
   .date-ball .date-day {
     display: block;
-    margin-top: 13px;
+    margin-top: 25px;
     font-size: 1.3rem;
     line-height: 2rem;
     font-weight: 600; }
-    @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-      /* line 175, ../scss/_style.scss */
-      .date-ball .date-day {
-        font-size: 1.1rem;
-        margin-top: 9px; } }
-    @media only screen and (max-width: 40em) {
-      /* line 175, ../scss/_style.scss */
-      .date-ball .date-day {
-        font-size: 1rem;
-        margin-top: 2px; } }
-  /* line 193, ../scss/_style.scss */
+  /* line 174, ../scss/_style.scss */
   .date-ball .date-pvm {
     display: block;
     margin-top: 3px;
     font-size: 3rem;
     line-height: 2rem;
     font-weight: 700; }
-    @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-      /* line 193, ../scss/_style.scss */
-      .date-ball .date-pvm {
-        font-size: 2.5rem;
-        margin-top: -2px; } }
-    @media only screen and (max-width: 40em) {
-      /* line 193, ../scss/_style.scss */
-      .date-ball .date-pvm {
-        font-size: 2rem;
-        margin-top: -4px; } }
-  /* line 211, ../scss/_style.scss */
+  /* line 183, ../scss/_style.scss */
   .date-ball .date-loc {
     display: block;
     text-transform: uppercase;
     font-size: 1.4rem;
     font-weight: 400; }
-    @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-      /* line 211, ../scss/_style.scss */
-      .date-ball .date-loc {
-        font-size: 1.2rem; } }
-    @media only screen and (max-width: 40em) {
-      /* line 211, ../scss/_style.scss */
-      .date-ball .date-loc {
-        font-size: 1rem; } }
 
-/* line 231, ../scss/_style.scss */
+/* line 196, ../scss/_style.scss */
 .lippu-ball {
   margin: 10px auto 50px;
   background-color: #D9B816;
   width: 600px;
   height: 250px; }
   @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-    /* line 231, ../scss/_style.scss */
+    /* line 196, ../scss/_style.scss */
     .lippu-ball {
       width: 80%;
       height: 220px; } }
   @media only screen and (max-width: 40em) {
-    /* line 231, ../scss/_style.scss */
+    /* line 196, ../scss/_style.scss */
     .lippu-ball {
       width: 90%;
       height: auto; } }
-  /* line 247, ../scss/_style.scss */
+  /* line 212, ../scss/_style.scss */
   .lippu-ball .lippu-tiedot {
     margin: 0 auto;
     width: 460px;
     padding-top: 85px;
     display: block; }
     @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-      /* line 247, ../scss/_style.scss */
+      /* line 212, ../scss/_style.scss */
       .lippu-ball .lippu-tiedot {
         width: 400px;
         padding-top: 70px; } }
     @media only screen and (max-width: 40em) {
-      /* line 247, ../scss/_style.scss */
+      /* line 212, ../scss/_style.scss */
       .lippu-ball .lippu-tiedot {
         width: 90%;
         height: auto;
         padding-top: 50px;
         padding-bottom: 50px; } }
-    /* line 265, ../scss/_style.scss */
+    /* line 230, ../scss/_style.scss */
     .lippu-ball .lippu-tiedot .lippu-item {
       display: inline-block;
       width: 120px;
       text-align: center;
       margin: 0 15px; }
       @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-        /* line 265, ../scss/_style.scss */
+        /* line 230, ../scss/_style.scss */
         .lippu-ball .lippu-tiedot .lippu-item {
           width: 100px; } }
       @media only screen and (max-width: 40em) {
-        /* line 265, ../scss/_style.scss */
+        /* line 230, ../scss/_style.scss */
         .lippu-ball .lippu-tiedot .lippu-item {
           width: 90%;
           margin: 10px; } }
-      /* line 280, ../scss/_style.scss */
+      /* line 245, ../scss/_style.scss */
       .lippu-ball .lippu-tiedot .lippu-item .lippu-cat {
         display: block;
         font-size: 1.6rem; }
         @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-          /* line 280, ../scss/_style.scss */
+          /* line 245, ../scss/_style.scss */
           .lippu-ball .lippu-tiedot .lippu-item .lippu-cat {
             font-size: 1.3rem; } }
         @media only screen and (max-width: 40em) {
-          /* line 280, ../scss/_style.scss */
+          /* line 245, ../scss/_style.scss */
           .lippu-ball .lippu-tiedot .lippu-item .lippu-cat {
             font-size: 1.1rem; } }
-      /* line 293, ../scss/_style.scss */
+      /* line 258, ../scss/_style.scss */
       .lippu-ball .lippu-tiedot .lippu-item .lippu-price {
         display: block;
         font-size: 2rem;
         font-weight: bold; }
         @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-          /* line 293, ../scss/_style.scss */
+          /* line 258, ../scss/_style.scss */
           .lippu-ball .lippu-tiedot .lippu-item .lippu-price {
             font-size: 1.8rem; } }
         @media only screen and (max-width: 40em) {
-          /* line 293, ../scss/_style.scss */
+          /* line 258, ../scss/_style.scss */
           .lippu-ball .lippu-tiedot .lippu-item .lippu-price {
             font-size: 1.5rem; } }
 
-/* line 310, ../scss/_style.scss */
+/* line 275, ../scss/_style.scss */
 #spons {
   width: 100%;
   padding-top: 50px;
   padding-bottom: 50px; }
 
-/* line 318, ../scss/_style.scss */
+/* line 283, ../scss/_style.scss */
 .tekijalista li {
   margin-left: 10px;
   color: #eee;
   font-size: 0.95rem; }
-  /* line 323, ../scss/_style.scss */
+  /* line 288, ../scss/_style.scss */
   .tekijalista li.lititle {
     margin: 7px 0;
     left: -15px;
     font-size: 1.2rem !important; }
 
-/* line 333, ../scss/_style.scss */
+/* line 298, ../scss/_style.scss */
 .libreak {
   margin: 4px; }
 
-/* line 336, ../scss/_style.scss */
+/* line 301, ../scss/_style.scss */
 .liinfo {
   font-size: 0.8rem;
   color: #bbb; }
 
-/* line 341, ../scss/_style.scss */
+/* line 306, ../scss/_style.scss */
 .footer {
   background-color: #08000B;
   padding-top: 25px;
