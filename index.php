@@ -75,7 +75,7 @@
 
 <p>A small band of illusionists, the Mindblowers, is in a sticky situation: The Swedish Mafia, who control the entertainment industry with an iron fist, intend to collect their last pennies and earthly possessions. Will they succeed in the heist of the century and escape from the dreary and dangerous North for good? Or will the Swedes ruin our youth with their pop music? </p>
 
-<p>An English show of Mindblowers by Fyysikkospeksi is coming in 3rd of December at 19.00. Stay tuned, like Fyysikkospeksi on Facebook: https://www.facebook.com/Fyysikkospeksi</p>
+<p>An English show of Mindblowers by Fyysikkospeksi is coming in 3rd of December at 19.00. Stay tuned, like Fyysikkospeksi on <a href="https://www.facebook.com/Fyysikkospeksi">Facebook</a>. </p>
 
 <p>Fyysikospeksi is produced by The Guild of Physics. The production involves a broad range of polytechnicians. Fyysikkospeksi is known for a vibrant atmosphere, overachieving and self-reflective irony. Fyysikkospeksi allows anyone to be anything. We are certain that together we can create an unforgettable show.</p>
 
