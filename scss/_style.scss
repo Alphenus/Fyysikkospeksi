@@ -128,8 +128,7 @@ h3 {
             width: fit-content;
     
     @media #{$small-only} {
-        max-width: 285px;
-        width: 100%;
+        width: 200px;
     }
 }
 
@@ -196,22 +195,13 @@ h3 {
 .lippu-ball {
     margin: 10px auto 50px;
     background-color: $yeyellow;
-    width: 600px;
+    width: 250pxpx;
     height: 250px;
-    
-        @media #{$medium-only} {
-            width: 80%;
-            height: 220px;
-        }
 
-        @media #{$small-only} {
-            width: 90%;
-            height: auto;
-        }
     
     .lippu-tiedot {
         margin: 0 auto;
-        width: 460px;
+        width: 200px;
         padding-top: 85px;
         display: block;
         
@@ -229,7 +219,6 @@ h3 {
         
         .lippu-item {
             display: inline-block;
-            width: 120px;
             text-align: center;
             margin: 0 15px;
             
