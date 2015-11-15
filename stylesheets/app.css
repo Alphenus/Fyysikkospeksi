@@ -7983,85 +7983,65 @@ h3 {
     width: 200px;
     padding-top: 85px;
     display: block; }
-    @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-      /* line 202, ../scss/_style.scss */
-      .lippu-ball .lippu-tiedot {
-        width: 400px;
-        padding-top: 70px; } }
-    @media only screen and (max-width: 40em) {
-      /* line 202, ../scss/_style.scss */
-      .lippu-ball .lippu-tiedot {
-        width: 90%;
-        height: auto;
-        padding-top: 50px;
-        padding-bottom: 50px; } }
-    /* line 220, ../scss/_style.scss */
+    /* line 210, ../scss/_style.scss */
     .lippu-ball .lippu-tiedot .lippu-item {
+      width: 100%;
       display: inline-block;
       text-align: center;
       margin: 0 15px; }
-      @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-        /* line 220, ../scss/_style.scss */
-        .lippu-ball .lippu-tiedot .lippu-item {
-          width: 100px; } }
-      @media only screen and (max-width: 40em) {
-        /* line 220, ../scss/_style.scss */
-        .lippu-ball .lippu-tiedot .lippu-item {
-          width: 90%;
-          margin: 10px; } }
-      /* line 234, ../scss/_style.scss */
+      /* line 218, ../scss/_style.scss */
       .lippu-ball .lippu-tiedot .lippu-item .lippu-cat {
         display: block;
         font-size: 1.6rem; }
         @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-          /* line 234, ../scss/_style.scss */
+          /* line 218, ../scss/_style.scss */
           .lippu-ball .lippu-tiedot .lippu-item .lippu-cat {
             font-size: 1.3rem; } }
         @media only screen and (max-width: 40em) {
-          /* line 234, ../scss/_style.scss */
+          /* line 218, ../scss/_style.scss */
           .lippu-ball .lippu-tiedot .lippu-item .lippu-cat {
             font-size: 1.1rem; } }
-      /* line 247, ../scss/_style.scss */
+      /* line 231, ../scss/_style.scss */
       .lippu-ball .lippu-tiedot .lippu-item .lippu-price {
         display: block;
         font-size: 2rem;
         font-weight: bold; }
         @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
-          /* line 247, ../scss/_style.scss */
+          /* line 231, ../scss/_style.scss */
           .lippu-ball .lippu-tiedot .lippu-item .lippu-price {
             font-size: 1.8rem; } }
         @media only screen and (max-width: 40em) {
-          /* line 247, ../scss/_style.scss */
+          /* line 231, ../scss/_style.scss */
           .lippu-ball .lippu-tiedot .lippu-item .lippu-price {
             font-size: 1.5rem; } }
 
-/* line 264, ../scss/_style.scss */
+/* line 248, ../scss/_style.scss */
 #spons {
   width: 100%;
   padding-top: 50px;
   padding-bottom: 50px; }
 
-/* line 272, ../scss/_style.scss */
+/* line 256, ../scss/_style.scss */
 .tekijalista li {
   margin-left: 10px;
   color: #eee;
   font-size: 0.95rem; }
-  /* line 277, ../scss/_style.scss */
+  /* line 261, ../scss/_style.scss */
   .tekijalista li.lititle {
     margin: 7px 0;
     left: -15px;
     font-size: 1.2rem !important; }
 
-/* line 287, ../scss/_style.scss */
+/* line 271, ../scss/_style.scss */
 .libreak {
   margin: 4px; }
 
-/* line 290, ../scss/_style.scss */
+/* line 274, ../scss/_style.scss */
 .liinfo {
   font-size: 0.8rem;
   color: #bbb; }
 
-/* line 295, ../scss/_style.scss */
+/* line 279, ../scss/_style.scss */
 .footer {
   background-color: #08000B;
   padding-top: 25px;
