@@ -10,11 +10,11 @@
     <meta property="og:url" content="http://www.fyysikkokilta.fi/speksi2015">
     <meta property="og:image" content="http://www.fyysikkokilta.fi/speksi2015/img/mielenpuhaltajat.png">
     <meta property="og:site_name" content="Fyysikkospeksi">
-    <meta property="og:description" content="A small band of illusionists, the Mindblowers, is in a sticky situation: The Swedish Mafia, who control the entertainment industry with an iron fist, intend to collect their last pennies and earthly possessions. Will they succeed in the heist of the century and escape from the dreary and dangerous North for good? Or will the Swedes ruin our youth with their pop music?">
+    <meta property="og:description" content="Mitä Ruotsin mafia aikoo? Onnistuuko uhkarohkea ryöstösuunnitelma? Onko nuoriso lopullisesti pilalla? Voiko musiikki todella muuttaa maailmaa? Näihin ja aivan kaikkeen muuhunkin antaa vastaukset Fyysikkospeksi.">
     
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Fyysikkospeksi 2015">
-    <meta name="twitter:description" content="A small band of illusionists, the Mindblowers, is in a sticky situation: The Swedish Mafia, who control the entertainment industry with an iron fist, intend to collect their last pennies and earthly possessions. Will they succeed in the heist of the century and escape from the dreary and dangerous North for good? Or will the Swedes ruin our youth with their pop music?">
+    <meta name="twitter:description" content="Mitä Ruotsin mafia aikoo? Onnistuuko uhkarohkea ryöstösuunnitelma? Onko nuoriso lopullisesti pilalla? Voiko musiikki todella muuttaa maailmaa?">
     <meta name="twitter:image:src" content="http://fyysikkospeksi.fi/img/mielenpuhaltajat.png">
     
     <link rel="stylesheet" href="stylesheets/app.css" />
@@ -45,11 +45,11 @@
             <div class="stickyMenu" data-magellan-expedition="fixed">
               <dl class="sub-nav">
                 <dd data-magellan-arrival="spx15"><a href="#spx15">Fyysikko&shy;speksi 2015</a></dd>
-                <dd data-magellan-arrival="liput"><a href="#liput">Tickets</a></dd>
-                <dd data-magellan-arrival="hahmot"><a href="#hahmot">Characters</a></dd>
-                <dd data-magellan-arrival="sijainti"><a href="#sijainti">Location</a></dd>
-                <dd data-magellan-arrival="yhteys"><a href="#yhteys">Contacts</a></dd>
-                <dd data-magellan-arrival="team"><a href="#team">The Team</a></dd>
+                <dd data-magellan-arrival="liput"><a href="#liput">Liput</a></dd>
+                <dd data-magellan-arrival="hahmot"><a href="#hahmot">Hahmogalleria</a></dd>
+                <dd data-magellan-arrival="sijainti"><a href="#sijainti">Sijainti</a></dd>
+                <dd data-magellan-arrival="yhteys"><a href="#yhteys">Yhteystiedot</a></dd>
+                <dd data-magellan-arrival="team"><a href="#team">Tekijät</a></dd>
               </dl>
             </div>
         </div> 
@@ -60,8 +60,20 @@
             <div class="large-10 large-offset-1 medium-12 columns">
                 <div class="lippupallot">
                     <a href="https://holvi.com/shop/fyysikkospeksi/section/louhisali-i-la-1010-klo-18/"  target="_blank" class="date-ball">
-                        <span class="date-day">3.12.</span><span class="date-pvm">18:00</span> 
-                        <span class="date-loc">Servin Mökki</span> <span class="date-tic"> </span>
+                        <span class="date-day">LA 10.10.</span><span class="date-pvm">18:00</span> 
+                        <span class="date-loc">Louhisali</span> <span class="date-tic"> </span>
+                    </a>
+                    <a href="https://holvi.com/shop/fyysikkospeksi/section/louhisali-ii-su-1110-klo-16/" target="_blank" class="date-ball">
+                        <span class="date-day">SU 11.10.</span><span class="date-pvm">16:00</span> 
+                        <span class="date-loc">Louhisali</span> <span class="date-tic"> </span>
+                    </a>
+                    <a href="https://holvi.com/shop/fyysikkospeksi/section/gloria-i-ma-2610-klo-19/" target="_blank" class="date-ball">
+                        <span class="date-day">MA 26.10.</span><span class="date-pvm">19:00</span> 
+                        <span class="date-loc">Gloria</span> <span class="date-tic"> </span>
+                    </a>
+                    <a href="https://holvi.com/shop/fyysikkospeksi/section/gloria-ii-ti-2710-klo-19/" target="_blank" class="date-ball">
+                        <span class="date-day">TI 27.10.</span><span class="date-pvm">19:00</span> 
+                        <span class="date-loc">Gloria</span> <span class="date-tic"> </span>
                     </a>
                 </div>
             </div>
@@ -69,26 +81,21 @@
         
         <div class="row high400">
           <div class="medium-8 medium-offset-2 columns text-justify">
-            <h1 data-magellan-destination="spx15" class="text-center" >Fyysikkospeksi 2015</h1> <div class="titlebar"></div> <a name="spx15"></a>
+            <h1 data-magellan-destination="spx15" class="text-center" >Fyysikko&shy;speksi 2015</h1> <div class="titlebar"></div> <a name="spx15"></a>
             
-            <p>Time for an interactive musical! Fyysikkospeksi presents: the Mindblowers!</p>
+            <p>Harva tietää, että maailman kaikki esiintyjät maksavat aina leijonanosan palkkioistaan enigmaattiselle <b>Ruotsin mafia</b>lle. Viihdemafian lopullisen ylivallan sinetöi nyt uusin sensaatio, koko maailman pop-idoli, Antero Alanko eli <b>Antares A</b>.</p>
 
-<p>A small band of illusionists, the Mindblowers, is in a sticky situation: The Swedish Mafia, who control the entertainment industry with an iron fist, intend to collect their last pennies and earthly possessions. Will they succeed in the heist of the century and escape from the dreary and dangerous North for good? Or will the Swedes ruin our youth with their pop music? </p>
+<p>Suomalainen illusionistiryhmä <b>The Mindblowers</b> valmistautuu vuosisadan keikkaan. Tällä kertaa panoksena on kuitenkin paljon enemmän kuin yleisön taputukset. He aikovat taistella epäreilua viihdetyranniaa vastaan Robin Hoodin opein, viemällä rikkailta ja antamalla köyhille, eli itselleen.</p>
 
-<p>An English show of Mindblowers by Fyysikkospeksi is coming in 3rd of December at 19.00. Stay tuned, like Fyysikkospeksi on Facebook: https://www.facebook.com/Fyysikkospeksi</p>
-
-<p>Fyysikospeksi is produced by The Guild of Physics. The production involves a broad range of polytechnicians. Fyysikkospeksi is known for a vibrant atmosphere, overachieving and self-reflective irony. Fyysikkospeksi allows anyone to be anything. We are certain that together we can create an unforgettable show.</p>
-
-<p>Fyysikkospeksi is currently the best, first and only bilingual spex! In addition to the Finnish showings the production is also presented in English. Stockholm is toured as well.</p>
-
-<h4>What is spex?</h4>
-
-<p>Spex is musical theatre that relies strongly on improvisation, deep knowledge of theatre technique, and powerful drama. Still, spex is best characterized by a sense of uproarious humor and good spirit. Spectators can participate in the events on stage by shouting 'Omstart'. The scene is then reperformed with a new improvised twist. You can even add additional requests to the 'Omstart'-shout, such as 'Omstart, in German!'.</p>
-
+<p>Mitä Ruotsin mafia aikoo? Onnistuuko uhkarohkea ryöstösuunnitelma? Onko nuoriso lopullisesti pilalla? Voiko musiikki todella muuttaa maailmaa? Näihin ja aivan kaikkeen muuhunkin antaa vastaukset Fyysikkospeksi. Se puhaltaa mielenne, se vangitsee ajatuksenne, Antares A:n sanoin: <b>“se bouncaa, flexaa ja krebaa teidän äässit off!”</b>
+</p>
 
             
           </div>
         </div>
+        
+       
+        
     </dia>
     
     
@@ -96,7 +103,7 @@
     <div id="liput" >
         <div class="row"  >
           <div class="large-12 columns">
-            <h2 data-magellan-destination="liput">Tickets</h2> <div class="titlebar"></div><a name="liput"></a>
+            <h2 data-magellan-destination="liput">Liput</h2> <div class="titlebar"></div><a name="liput"></a>
           </div>
         </div>
           
@@ -106,15 +113,24 @@
                     <div class="lippu-tiedot">
                         
                         <div class="lippu-item">
-                            <span class="lippu-cat">EVERYONE</span>
-                            <span class="lippu-price">8&nbsp;&euro;</span>
+                            <span class="lippu-cat">OPISKELIJA</span>
+                            <span class="lippu-price">12/14&nbsp;&euro;</span>
                         </div>
                         
+                        <div class="lippu-item">
+                            <span class="lippu-cat">AIKUINEN</span>
+                            <span class="lippu-price">18&nbsp;&euro;</span>
+                        </div>
+                        
+                        <div class="lippu-item">
+                            <span class="lippu-cat">KANNATUS</span>
+                            <span class="lippu-price">35&nbsp;&euro;</span>
+                        </div>
                     </div>
                 </div>
             </div>
             
-            <div class="large-12 columns text-center"> <a href="https://holvi.com/shop/fyysikkospeksi/" target="_blank" ><button class="button"><i class="fa fa-ticket"></i>&nbsp;&nbsp;&nbsp;BUY TICCKETS!&nbsp;&nbsp;&nbsp;<i class="fa fa-ticket"></i> </button> </a>
+            <div class="large-12 columns text-center"> <a href="https://holvi.com/shop/fyysikkospeksi/" target="_blank" ><button class="button"><i class="fa fa-ticket"></i>&nbsp;&nbsp;&nbsp;OSTA LIPUT!&nbsp;&nbsp;&nbsp;<i class="fa fa-ticket"></i> </button> </a>
             </div>
         </div>
 
@@ -126,7 +142,7 @@
         
          <div class="row"  >
           <div class="large-12 columns">
-            <h2 data-magellan-destination="hahmot">Character gallery</h2> <div class="titlebar"></div><a name="hahmot"></a>
+            <h2 data-magellan-destination="hahmot">Hahmogalleria</h2> <div class="titlebar"></div><a name="hahmot"></a>
           </div>
         </div>
         
@@ -136,7 +152,7 @@
                 <div class="row">
                     <div class="medium-8 columns ">
                         <h4>Anastaasia Pölli</h4>
-                        <p>Anastaasia Pölli, a master of magic, can surely blow everyone’s mind. She’s always stealing the show, and in a sudden strike of poverty she may also steal your money. Anastaasia does everything in style, just like The Mindblowers tend to do.</p>
+                        <p>Magian mestari Anastaasia Pölli on todellinen mielen&shy;puhaltaja! Hän kääntää pääsi, silmäsi ja taloudellisen ahdingon koittaessa ehkä myös rahasi. Anastaasia tekee kaiken aina showmieselkein, kuten illusionisti&shy;ryhmä The Mindblowersin tyyliin kuuluu.</p>
                     </div>
                     <div class="medium-4 columns"><img src="img/anastaasia.jpg" alt="Anastaasia Pölli"></div>
                 </div>    
@@ -145,7 +161,7 @@
                     <div class="medium-4 columns"><img class="right" src="img/visa.jpg" alt="Visa Spiraali"></div>
                     <div class="medium-8 columns">
                     <h4>Visa Spiraali</h4>
-                    <p>Visa Spiraali, a hypertalented hypnotist, mesmerizes the audience with his intensive gaze and sedative voice. Despite his eccentricity, Visa is a person to turn to even during hard times. In a way, he is the voice of reason in The Mindblowers, preventing Anastaasia’s most impulsive whims from coming into reality.</p>
+                    <p>Hypnoosin herttua Visa Spiraali vangitsee The Mindblowersin esityksissä yleisön mielet intensiivisellä katseellaan ja rauhoittavalla äänellään. Eksen&shy;tri&shy;syydestään huolimatta Visaan voi aina luottaa vaikeassakin tilanteessa. Hän myös toimii toisinaan eräänlaisena järjen äänenä hilliten Anastaasian kaikkein impulsiivisimpia päähänpistoja.</p>
                     </div>
                 </div>  
                 
@@ -153,7 +169,7 @@
                     <div class="medium-8 columns ">
                     <h4>Satu Turtana</h4>
                     
-                    <p>Satu Turtana is a fabulous fakir and the roughest and toughest of The Mindblowers. She has one remarkable advantage in her work with sharp spikes and hot coal – she can’t feel pain at all. Satu often boasts how nothing has ever hurt her, not even the piece of Lego which she stepped on as kid.</p>
+                    <p>The Mindblowersin femme fatale, fakiiri Satu Turtana on illusionistiryhmän kovanaama. Hänellä on yksi merkittävä etu työssään tulisten hiilien ja terävien piikkien parissa: Satu ei nimittäin tunne lainkaan kipua. Hän ylpeileekin usein sillä, että häntä ei ole koskaan sattunut &ndash; ei edes silloin lapsena, kun hän astui Lego-palikan päälle.</p>
                     </div>
                     <div class="medium-4 columns"><img src="img/satu.jpg" alt="Satu Turtana"></div>
                 </div>    
@@ -162,14 +178,16 @@
                     <div class="medium-4 columns"><img class="right" src="img/seppo.jpg" alt="Seppo Lukko"></div>
                     <div class="medium-8 columns">
                     <h4>Seppo “Lukko-Seppo” Lukko</h4>
-                    <p>Seppo Lukko, being a talented escape artist, is able to find his way out of any cramped box or chest in no time. Being also claustrophobic, he will too. The charming gentleman has also found his way through Satu’s hard surface, and the little office affair of these two has developed into a lifelong love story.
+                    <p>
+                        Neljäs ässä The Mindblowersin hihassa on klaustrofobinen kahlekuningas Seppo “Lukko-Seppo” Lukko, jolle yksikään loukku ei säily pitkään ahtaana. Sepon huolettoman charmin valloittavuudesta hyvä osoitus on, että hän on onnistunut pehmentämään jopa Sadun kovan ulkokuoren. Työpaikka&shy;romanssi on edennyt vakavaksi, elämän&shy;mittaiseksi sielun&shy;kumppanuudeksi.
                     </p>
                     </div>
                 </div>  
                 <div class="row">
                     <div class="medium-8 columns ">
                     <h4>Aukusti Magnif-Ikonen</h4>
-                    <p>Aukusti Magnif-Ikonen is the late founder of The Mindblowers. He used to be the mentor for the remaining group, and his spirit is still strongly visible in their philosophy and performances. Sometimes you can almost feel as if he were still around, overseeing the work of his apprentices.
+                    <p>
+                        Aukusti Magnif-Ikonen on The Mindblowersin jo edesmennyt perustaja ja oppi-isä, jonka henki näkyy yhä vahvana illusionistiryhmän filosofiassa ja esityksissä. Toisinaan jopa tuntuu, että Aukusti on vieläkin läsnä ikään kuin tarkkailemassa oppipoikiaan ja -tyttöjään, perintönsä jatkajia.
                     </p>
                     </div>
                     <div class="medium-4 columns">
@@ -181,14 +199,16 @@
                     <div class="medium-4 columns"><img class="right" src="img/mauriz.jpg" alt="Mauriz Kårleone"></div>
                     <div class="medium-8 columns">
                     <h4>Mauritz Kårleon</h4>
-                    <p>The Swedish Mafia, holding a tight grip on all entertainment industry, is led by Mauritz Kårleon. He has understood that entertainment is really nothing more than cold calculations and competition over people’s money. Artistic inspirations and creativity don’t concern him – optimization for maximal income does.
+                    <p>
+                        Koko viihdemaailmaa rautaisessa otteessaan pitävän salaperäisen Ruotsin mafian päämies Mauritz Kårleon ymmärtää, että nykypäivänä viihde on ennen kaikkea laskelmoitua taistelua kuluttajamassojen rahoista. Miksi jättää mitään luovuuden ja inspiraation varaan, kun jokaisen yksityiskohdan voi optimoida tuottamaan maksimaalisen määrän voittoa?
                     </p>
                     </div>
                 </div>  
                 <div class="row">
                     <div class="medium-8 columns ">
                     <h4>Hennes Alkapån</h4>
-                    <p>Hennes Alkapån works for the Swedish mafia serving as the head of its Finland office. He has risen to the position with his unshakeable determination which will shake whenever Mauritz commands so. Thanks to Hennes, the mafia has found Antares A from Finland and recruited him to become the leading pop star in the world.
+                    <p>
+                        Ruotsin mafian Suomen-osastoa johtaa Hennes Alkapån. Hän on päässyt asemaansa järkähtämät&shy;tömällä määrä&shy;tietoi&shy;suudellaan, joka tosin järkähtää heti, jos Mauritz niin käskee. Juuri Henneksen ansiota on uuden maailmantähden, suomalaisen Antares A:n, rekrytointi mafian artistiarsenaalin pop-johtotähdeksi.
                     </p>
                     </div>
                     <div class="medium-4 columns"><img src="img/hennes.jpg" alt="Hennes Alkapån"></div>
@@ -198,14 +218,16 @@
                     <div class="medium-4 columns"><img class="right" src="img/antares.jpg" alt="Antero Alanko"></div>
                     <div class="medium-8 columns">
                     <h4>Antero Alanko</h4>
-                    <p>Antero Alanko, known by his stage name Antares A, has quickly risen to be the shiniest star in the sky of pop music &ndash; ever. To back his success, the Swedish mafia has employed a multitude of producers, stylists and film crews. The star himself can concentrate on living the dream, like every day.
+                    <p>
+                        Antero Alanko &ndash; taiteilijanimeltään Antares A &ndash; on noussut lyhyessä ajassa koko maailmanhistorian suosituimmaksi artistiksi. Antareksen menestyksen taustalla on vahva ruotsalainen koneisto, johon on palkattu armeijoittain tuottajia, stylistejä ja kuvaus&shy;ryhmiä, niin että Antero itse voi keskittyä elämään unelmaansa “niinku every day”!
                     </p>
                     </div>
                 </div>  
                 <div class="row">
                     <div class="medium-8 columns ">
                     <h4>Lauri Yö</h4>
-                    <p>Everybody knows this talk show host. He is possibly the seventeenth sexiest man in Finland, he is the final solution to the TV presenter question, and he is a national institution. He is Lauri Yö, and you are watching Late Night Show.
+                    <p>
+                        Tämä talkshow-isäntä on kaikille tuttu. Hän on Suomen kenties seitsemänneksitoista komein mies, hän on lopullinen ratkaisu TV-juontajakysymykseen, hän on kansallinen instituutio. Hän on Lauri Yö, ja jokaisen suomalaisen illan kruunaa Late Night Show!
                     </p>
                     </div>
                     <div class="medium-4 columns"><img src="img/late.jpg" alt="Lauri Yö"></div>
@@ -215,8 +237,8 @@
                     <div class="medium-4 columns"><img src="img/teinit.jpg" alt="Henniina, Max, Petra-Alina ja Janissa"></div>
                     <div class="medium-8 columns">
                     <h4>Henniina, Max, Petra-Alina ja Janissa</h4>
-                    <p>“The fanatic crowd adoring and worshipping Antares A is a force to be taken seriously. According to researchers, these teenagers communicating with their mobile devices form a collective organism, a kind of hive mind, where the whole is greater than the sum of its parts” &ndash; Helsingin Sanomat, August the 16th
-
+                    <p>
+                        “Antares A:ta fanaattisella hurmoksella palvova fanijoukko on voima, joka kannattaa ottaa vakavasti. Tutkijoiden mukaan nämä enimmäkseen älypuhelimien avulla toisilleen viestivät teinit muodostavat eräänlaisen hivemind-älyn, kollektiivisesti käyttäytyvän organismin, jossa kokonaisuus on enemmän kuin osiensa summa.” &ndash; HS 16. elokuuta.
                     </p>
                     </div>
                 </div>  
@@ -227,7 +249,7 @@
   <div id="paikka">
         <div class="row">
           <div class="large-12 columns">
-            <h2 data-magellan-destination="sijainti">Location</h2> <div class="titlebar"></div> <a name="sijainti"></a>
+            <h2 data-magellan-destination="sijainti">Sijainti</h2> <div class="titlebar"></div> <a name="sijainti"></a>
             <p></p>
 
           </div>
@@ -236,8 +258,13 @@
 
         <div class="row">  
           <div class="large-6 columns" >
-              <h3 class="text-center">Servin Mökki</h3>
-              <p class="text-center"><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 95%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1983.5349687437!2d24.834187751623823!3d60.18842914879695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x468df5edfc00ce31%3A0x8ca52a4ac7a2ccf8!2zU2VydmluIG3DtmtraSwgSsOkbWVyw6RudGFpdmFsIDQsIDAyMTUwIEVzcG9v!5e0!3m2!1sfi!2sfi!4v1446791671176" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></div></p>
+              <h3 class="text-center">Louhisali</h3>
+              <p class="text-center"><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 95%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1984.1619202135762!2d24.804618400000017!3d60.1780521!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x468df597ea23bc7f%3A0x2a5bbd916f2f38ee!2sEspoon+Kulttuurikeskus!5e0!3m2!1sfi!2sfi!4v1438422447586' width='400' height='300' frameborder='0' style='border:0' allowfullscreen></iframe></div></p>
+          </div>
+
+          <div class="large-6 columns" >
+              <h3 class="text-center">Gloria</h3>
+              <p class="text-center"><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 95%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1985.0100730652382!2d24.9452826!3d60.16401210000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46920bc9982dc67d%3A0xc0016fe0a6a17583!2sGloria!5e0!3m2!1sfi!2sfi!4v1438422517698' width='400' height='300' frameborder='0' style='border:0' allowfullscreen></iframe></div></p>
           </div>
         </div>
     </div>
@@ -246,18 +273,18 @@
 <div id="yhteys">
     <div class="row ">
       <div class="large-12 columns">
-        <h2 data-magellan-destination="yhteys">Contacts</h2> <div class="titlebar"></div> <a name="yhteys"></a>
+        <h2 data-magellan-destination="yhteys">Yhteys&shy;tiedot</h2> <div class="titlebar"></div> <a name="yhteys"></a>
       </div>
     </div>
     
     <div class="row text-center">
         <div class="medium-4 columns">
-            <h4>Producers</h4>
+            <h4>Tuottajat</h4>
             <p><b>Joonas kivi</b> <br> joonas.kivi<i class="fa fa-at"></i>aalto.fi <br> 040 559 2130</p>
             <p><b>Riina Kärnä</b> <br> riina.karna<i class="fa fa-at"></i>aalto.fi<br> 050 591 5392</p>
         </div>
         <div class="medium-4 columns">
-            <h4>???</h4>
+            <h4>Yrityssuhteet</h4>
             <p><b>Tapio Hautamäki</b> <br> tapio.hautamaki<i class="fa fa-at"></i>aalto.fi <br> 0400 586 283</p>
         </div>
         <div class="medium-4 columns">
@@ -270,7 +297,7 @@
 <div id="spons">
     <div class="row">
       <div class="medium-8 medium-offset-2 columns">
-        <h2 class="text-center">Main partner</h2> <div class="titlebar"></div>
+        <h2 class="text-center">Pääyhteistyö&shy;kumppani</h2> <div class="titlebar"></div>
         <p>
             <a href="http://www.cybershop.fi/" target="_blank"><img src="img/cybershop_logo.png" alt="Cybershop"></a>
         </p>
@@ -290,7 +317,7 @@
 <div id="tekijat"> 
     <div class="row high400">
       <div class="large-12 columns">
-        <h2 data-magellan-destination="team">The Team</h2> <div class="titlebar"></div> <a name="team"></a>
+        <h2 data-magellan-destination="team">Tätä speksiä ovat tekemässä</h2> <div class="titlebar"></div> <a name="team"></a>
       </div>
     </div>  
     <div class="row" >  
