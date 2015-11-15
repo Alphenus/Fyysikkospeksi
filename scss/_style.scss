@@ -137,20 +137,10 @@ h3 {
     
     display: inline-block;
     background-color: #D100A2;
-    width: 150px;
-    height: 150px;
+    width: 170px;
+    height: 170px;
     border-radius: 50%;
     margin: 20px;
-    
-    @media #{$medium-only} {
-        width: 120px;
-        height: 120px;
-    }
-
-    @media #{$small-only} {
-        width: 100px;
-        height: 100px;
-    }
     
     text-align: center;
     color: white;
@@ -174,7 +164,7 @@ h3 {
 
     .date-day {
         display: block;
-        margin-top: 13px;
+        margin-top: 25px;
         font-size: 1.3rem;
         line-height: 2rem;
         font-weight: 600;

@@ -235,7 +235,7 @@
 
 
         <div class="row">  
-          <div class="large-6 columns" >
+          <div class="large-6 columns large-offset-3" >
               <h3 class="text-center">Servin Mökki</h3>
               <p class="text-center"><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 95%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1983.5349687437!2d24.834187751623823!3d60.18842914879695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x468df5edfc00ce31%3A0x8ca52a4ac7a2ccf8!2zU2VydmluIG3DtmtraSwgSsOkbWVyw6RudGFpdmFsIDQsIDAyMTUwIEVzcG9v!5e0!3m2!1sfi!2sfi!4v1446791671176" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></div></p>
           </div>
@@ -257,7 +257,7 @@
             <p><b>Riina Kärnä</b> <br> riina.karna<i class="fa fa-at"></i>aalto.fi<br> 050 591 5392</p>
         </div>
         <div class="medium-4 columns">
-            <h4>???</h4>
+            <h4>Corporate relations</h4>
             <p><b>Tapio Hautamäki</b> <br> tapio.hautamaki<i class="fa fa-at"></i>aalto.fi <br> 0400 586 283</p>
         </div>
         <div class="medium-4 columns">
