@@ -60,7 +60,7 @@
             <div class="large-10 large-offset-1 medium-12 columns">
                 <div class="lippupallot">
                     <a href="https://holvi.com/shop/fyysikkospeksi/section/louhisali-i-la-1010-klo-18/"  target="_blank" class="date-ball">
-                        <span class="date-day">3.12.</span><span class="date-pvm">18:00</span> 
+                        <span class="date-day">3.12.</span><span class="date-pvm">19:00</span> 
                         <span class="date-loc">Servin Mökki</span> <span class="date-tic"> </span>
                     </a>
                 </div>
@@ -114,7 +114,7 @@
                 </div>
             </div>
             
-            <div class="large-12 columns text-center"> <a href="https://holvi.com/shop/fyysikkospeksi/" target="_blank" ><button class="button"><i class="fa fa-ticket"></i>&nbsp;&nbsp;&nbsp;BUY TICCKETS!&nbsp;&nbsp;&nbsp;<i class="fa fa-ticket"></i> </button> </a>
+            <div class="large-12 columns text-center"> <a href="https://holvi.com/shop/fyysikkospeksi/" target="_blank" ><button class="button"><i class="fa fa-ticket"></i>&nbsp;&nbsp;&nbsp;BUY TICKETS!&nbsp;&nbsp;&nbsp;<i class="fa fa-ticket"></i> </button> </a>
             </div>
         </div>
 
@@ -198,7 +198,7 @@
                     <div class="small-4 columns"><img class="right" src="img/antares.jpg" alt="Antero Alanko"></div>
                     <div class="small-8 columns">
                     <h4>Antero Alanko</h4>
-                    <p>Antero Alanko, known by his stage name Antares A, has quickly risen to be the shiniest star in the sky of pop music &ndash; ever. To back his success, the Swedish mafia has employed a multitude of producers, stylists and film crews. The star himself can concentrate on living the dream, like every day.
+                    <p>Antero Alanko, known by his stage name Antares A, has quickly risen to be the shiniest star in the sky of pop music&mdash;ever. To back his success, the Swedish mafia has employed a multitude of producers, stylists and film crews. The star himself can concentrate on living the dream, like every day.
                     </p>
                     </div>
                 </div>  
@@ -215,7 +215,7 @@
                     <div class="small-4 columns"><img src="img/teinit.jpg" alt="Henniina, Max, Petra-Alina ja Janissa"></div>
                     <div class="small-8 columns">
                     <h4>Henniina, Max, Petra-Alina ja Janissa</h4>
-                    <p>“The fanatic crowd adoring and worshipping Antares A is a force to be taken seriously. According to researchers, these teenagers communicating with their mobile devices form a collective organism, a kind of hive mind, where the whole is greater than the sum of its parts” &ndash; Helsingin Sanomat, August the 16th
+                    <p>“The fanatic crowd adoring and worshipping Antares A is a force to be taken seriously. According to researchers, these teenagers communicating with their mobile devices form a collective organism, a kind of hive mind, where the whole is greater than the sum of its parts”&mdash;Helsingin Sanomat, August the 16th
 
                     </p>
                     </div>
@@ -298,73 +298,73 @@
           <div class="medium-4 medium-offset-1 columns">
             <ul class="no-bullet tekijalista " >
                 <li class="lititle"></li>
-                <li>Joonas Kivi <span class="liinfo">&ndash; Tuottaja</span></li>
-                <li>Riina Kärnä <span class="liinfo">&ndash; Tuottaja</span></li>
+                <li>Joonas Kivi <span class="liinfo">&ndash; Producer</span></li>
+                <li>Riina Kärnä <span class="liinfo">&ndash; Producer</span></li>
                 <li class="libreak"></li>
-                <li>Koos Zevenhoven <span class="liinfo">&ndash; Taiteellinen johtaja</span></li>
+                <li>Koos Zevenhoven <span class="liinfo">&ndash; Artistic director</span></li>
                 <li class="libreak"></li>
-                <li>Koos Zevenhoven <span class="liinfo">&ndash; Ohjaaja</span></li>
-                <li>Tuukka Hiltunen <span class="liinfo">&ndash; Ohjaaja</span></li>
-                <li>Lilli Konttinen <span class="liinfo">&ndash; Koordinoiva apuohjaaja</span></li>
+                <li>Koos Zevenhoven <span class="liinfo">&ndash; Director</span></li>
+                <li>Tuukka Hiltunen <span class="liinfo">&ndash; Director</span></li>
+                <li>Lilli Konttinen <span class="liinfo">&ndash; Coordinating assistant director</span></li>
                 
-                <li class="lititle">Näyttelijät ja laulusolistit</li>
-                <li>Ossi Lehtonen <span class="liinfo">&ndash; Laulusolisti</span></li>
+                <li class="lititle">Cast</li>
+                <li>Ossi Lehtonen <span class="liinfo">&ndash; Vocalist</span></li>
                 <li>Lauri Seppäläinen</li>
                 <li>Antti Ukkonen </li>
-                <li>Leevi Kähkönen <span class="liinfo">&ndash; Laulusolisti</span></li>
+                <li>Leevi Kähkönen <span class="liinfo">&ndash; Vocalist</span></li>
                 <li>Noora Vänttinen</li>
                 <li>Ismo Heikkinen</li>
-                <li>Riina Jokiranta <span class="liinfo">&ndash; Laulusolisti</span></li>
-                <li>Roope Vesterinen <span class="liinfo">&ndash; Laulusolisti</span></li>
-                <li class="libreak">sekä</li>
+                <li>Riina Jokiranta <span class="liinfo">&ndash; Vocalist</span></li>
+                <li>Roope Vesterinen <span class="liinfo">&ndash; Vocalist</span></li>
+                <li class="libreak">and</li>
                 <li>Antti Mäkinen</li>
                 <li>Saila Nojonen</li>
                 <li>Kati Harjula</li>
                 <li>Pauliina Mäkkeli</li>
-                <li>Koos Zevenhoven <span class="liinfo">&ndash; Laulusolisti</span></li>
+                <li>Koos Zevenhoven <span class="liinfo">&ndash; Vocalist</span></li>
 
-                <li class="lititle">Bändi ja sovitus</li>
-                <li>Markus Mattila <span class="liinfo">&ndash; Maestro, kitara, huuliharppu, sävellys, sovitus</span></li>
-                <li>Toni Mäkelä <span class="liinfo">&ndash; Maestro, kitara, sävellys, sovitus</span></li>
-                <li>Helinä Hakala <span class="liinfo">&ndash; Taustalaulu, huilu</span></li>
-                <li>Eeva-Sofia Haukipuro <span class="liinfo">&ndash; Pasuuna, huilu</span></li>
-                <li>Minea Jokivuolle <span class="liinfo">&ndash; Saksofoni</span></li>
-                <li>Joona Kontula <span class="liinfo">&ndash; Sovitus</span></li>
-                <li>Patrik Laiho <span class="liinfo">&ndash; Sovitus</span></li>
-                <li>Eero Lehtonen <span class="liinfo">&ndash; Sovitus</span></li>
-                <li>Elsa Mannila <span class="liinfo">&ndash; Sovitus</span></li>
-                <li>Mikko Murhu <span class="liinfo">&ndash; Koskettimet</span></li>
-                <li>Juhani Mutikainen <span class="liinfo">&ndash; Taustalaulu</span></li>
-                <li>Hilla Paananen <span class="liinfo">&ndash; Basso</span></li>
-                <li>Sannamari Pilpola <span class="liinfo">&ndash; Sello</span></li>
-                <li>Anna Pohto <span class="liinfo">&ndash; Trumpetti, sovitus</span></li>
-                <li>Outi Pönni <span class="liinfo">&ndash; Sovitus</span></li>
-                <li>Aaro Väkeväinen <span class="liinfo">&ndash; Rummut</span></li>
-                <li>Koos Zevenhoven <span class="liinfo">&ndash; Sovitus</span></li>
-                <li class="libreak">sekä</li>
-                <li>Olli Hasu <span class="liinfo">&ndash; Basso</span> </li>
+                <li class="lititle">Band and arrangements</li>
+                <li>Markus Mattila <span class="liinfo">&ndash; Maestro, guitar, harmonica, compositions, arrangements</span></li>
+                <li>Toni Mäkelä <span class="liinfo">&ndash; Maestro, guitar, compositions, arrangements</span></li>
+                <li>Helinä Hakala <span class="liinfo">&ndash; Backing vocals, flute</span></li>
+                <li>Eeva-Sofia Haukipuro <span class="liinfo">&ndash; Trombone, flute</span></li>
+                <li>Minea Jokivuolle <span class="liinfo">&ndash; Saxophone</span></li>
+                <li>Joona Kontula <span class="liinfo">&ndash; Arrangements</span></li>
+                <li>Patrik Laiho <span class="liinfo">&ndash; Arrangements</span></li>
+                <li>Eero Lehtonen <span class="liinfo">&ndash; Arrangements</span></li>
+                <li>Elsa Mannila <span class="liinfo">&ndash; Arrangements</span></li>
+                <li>Mikko Murhu <span class="liinfo">&ndash; Keyboard</span></li>
+                <li>Juhani Mutikainen <span class="liinfo">&ndash; Backing vocals</span></li>
+                <li>Hilla Paananen <span class="liinfo">&ndash; Bass</span></li>
+                <li>Sannamari Pilpola <span class="liinfo">&ndash; Cello</span></li>
+                <li>Anna Pohto <span class="liinfo">&ndash; Trumpet, arrangements</span></li>
+                <li>Outi Pönni <span class="liinfo">&ndash; Arrangements</span></li>
+                <li>Aaro Väkeväinen <span class="liinfo">&ndash; Drums</span></li>
+                <li>Koos Zevenhoven <span class="liinfo">&ndash; Arrangements</span></li>
+                <li class="libreak">and</li>
+                <li>Olli Hasu <span class="liinfo">&ndash; Bass</span> </li>
 
-                <li class="lititle">Tanssijat ja koreografit </li>
-                <li>Saila Nojonen <span class="liinfo">&ndash; Vastaava</span></li>
-                <li>Aleksi Lahti <span class="liinfo">&ndash; Tanssija</span></li>
-                <li>Alina Saaranto <span class="liinfo">&ndash; Tanssija</span></li>
-                <li>Anna Valaja <span class="liinfo">&ndash; Tanssija</span></li>
-                <li>Antti Mäkinen <span class="liinfo">&ndash; Tanssija ja koreografi</span></li>
-                <li>Joona Kontula <span class="liinfo">&ndash; Tanssija ja koreografi</span></li>
-                <li>Juho Timonen <span class="liinfo">&ndash; Tanssija ja koreografi</span></li>
-                <li>Karita Kajanto <span class="liinfo">&ndash; Koreografi</span></li>
-                <li>Kati Harjula <span class="liinfo">&ndash; Tanssija ja koreografi</span></li>
-                <li>Kati Reinikainen <span class="liinfo">&ndash; Tanssija ja koreografi</span></li>
-                <li>Lari Koponen <span class="liinfo">&ndash; Tanssija ja koreografi</span></li>
-                <li>Leevi Kähkönen <span class="liinfo">&ndash; Koreografi</span></li>
-                <li>Marianne Honkasaari <span class="liinfo">&ndash; Tanssija</span></li>
-                <li>Matleena Kukkonen <span class="liinfo">&ndash; Tanssija ja koreografi</span></li>
-                <li>Mikko Karjalainen <span class="liinfo">&ndash; Tanssija</span></li>
-                <li>Olli Niskanen <span class="liinfo">&ndash; Tanssija</span></li>
-                <li>Pauliina Mäkkeli <span class="liinfo">&ndash; Tanssija ja koreografi</span></li>
+                <li class="lititle">Dancers and choreographers </li>
+                <li>Saila Nojonen <span class="liinfo">&ndash; In charge</span></li>
+                <li>Aleksi Lahti <span class="liinfo">&ndash; Dancer</span></li>
+                <li>Alina Saaranto <span class="liinfo">&ndash; Dancer</span></li>
+                <li>Anna Valaja <span class="liinfo">&ndash; Dancer</span></li>
+                <li>Antti Mäkinen <span class="liinfo">&ndash; Dancer and choreographer</span></li>
+                <li>Joona Kontula <span class="liinfo">&ndash; Dancer and choreographer</span></li>
+                <li>Juho Timonen <span class="liinfo">&ndash; Dancer and choreographer</span></li>
+                <li>Karita Kajanto <span class="liinfo">&ndash; Choreographer</span></li>
+                <li>Kati Harjula <span class="liinfo">&ndash; Dancer and choreographer</span></li>
+                <li>Kati Reinikainen <span class="liinfo">&ndash; Dancer and choreographer</span></li>
+                <li>Lari Koponen <span class="liinfo">&ndash; Dancer and choreographer</span></li>
+                <li>Leevi Kähkönen <span class="liinfo">&ndash; Choreographer</span></li>
+                <li>Marianne Honkasaari <span class="liinfo">&ndash; Dancer</span></li>
+                <li>Matleena Kukkonen <span class="liinfo">&ndash; Dancer and choreographer</span></li>
+                <li>Mikko Karjalainen <span class="liinfo">&ndash; Dancer</span></li>
+                <li>Olli Niskanen <span class="liinfo">&ndash; Dancer</span></li>
+                <li>Pauliina Mäkkeli <span class="liinfo">&ndash; Dancer and choreographer</span></li>
 
-                <li class="lititle">Maskeeraus</li>
-                <li>Pauliina Hirvi <span class="liinfo">&ndash; Vastaava</span></li>
+                <li class="lititle">Makeup</li>
+                <li>Pauliina Hirvi <span class="liinfo">&ndash; In charge</span></li>
                 <li>Antti Mäkinen</li>
                 <li>Helinä Hakala</li>
                 <li>Kati Harjula</li>
@@ -382,18 +382,18 @@
           <div class="medium-4 columns">
             <ul class="no-bullet tekijalista">
 
-                <li class="lititle">Puvustus</li>
-                <li>Konsta Kantola <span class="liinfo">&ndash; Vastaava</span></li>
+                <li class="lititle">Costumes</li>
+                <li>Konsta Kantola <span class="liinfo">&ndash; In charge </span></li>
                 <li>Armi Tiihonen</li>
                 <li>Joonas Kivi</li>
                 <li>Katri Ailus</li>
                 <li>Kati Harjula</li>
                 <li>Pauliina Hirvi</li>
                 <li>Saila Rappumäki</li>
-                <li class="libreak">sekä</li>
+                <li class="libreak">and</li>
                 <li>Lari Koponen</li>
                 
-                <li class="lititle">Käsikirjoitus</li>
+                <li class="lititle">Script</li>
                 <li>Aino Laine</li>
                 <li>Aleksi Lahti</li>
                 <li>Antti Rantala</li>
@@ -412,8 +412,8 @@
                 <li>Saila Nojonen</li>
                 <li>Viivi Halla-aho</li>
                 
-                <li class="lititle">Sanoitus</li>
-                <li>Olli Heikkinen <span class="liinfo">&ndash; Vastaava</span></li>
+                <li class="lititle">Lyrics</li>
+                <li>Olli Heikkinen <span class="liinfo">&ndash; In charge</span></li>
                 <li>Markus Aapro</li>
                 <li>Viivi Halla-aho</li>
                 <li>Olli Halminen</li>
@@ -424,12 +424,12 @@
                 <li>Anna-Maija Valtavirta</li>
                 <li>Ville Valtavirta</li>
                 <li>Ari Viitala</li>
-                <li class="libreak">sekä</li>
+                <li class="libreak">and</li>
                 <li>Tuukka Hiltunen</li>
                 <li>Koos Zevenhoven</li>
                 
-                <li class="lititle">Käännös</li>
-                <li>Konsta Kantola <span class="liinfo">&ndash; Vastaava</span></li>
+                <li class="lititle">English translation</li>
+                <li>Konsta Kantola <span class="liinfo">&ndash; In charge</span></li>
                 <li>Petteri Heliste</li>
                 <li>Arne Kiaupa</li>
                 <li>Antti Rantala</li>
@@ -437,9 +437,9 @@
                 <li>Heikki Nurmi</li>
 
                 <li class="lititle">PR</li>
-                <li>Eetu Ahonen <span class="liinfo">&ndash; Vastaava</span></li>
-                <li>Helinä Hakala <span class="liinfo">&ndash; Grafiikka</span></li>
-                <li>Alpi Rimppi <span class="liinfo">&ndash; Nettisivut</span></li>
+                <li>Eetu Ahonen <span class="liinfo">&ndash; In charge</span></li>
+                <li>Helinä Hakala <span class="liinfo">&ndash; Graphics</span></li>
+                <li>Alpi Rimppi <span class="liinfo">&ndash; Web pages</span></li>
                 <li>Tuukka Hiltunen</li>
                 <li>Tiina Kangasniemi</li>
                 <li>Joonas Kivi</li>
@@ -450,8 +450,8 @@
                 <li>Juho Timonen</li>
                 <li>Koos Zevenhoven</li>
                 <li>Olli Heikkinen</li>
-                <li>Toni Mäkelä <span class="liinfo">&ndash; Valokuvat</span></li>
-                <li>Tommi Kantala <span class="liinfo">&ndash; Valokuvat</span></li>
+                <li>Toni Mäkelä <span class="liinfo">&ndash; Photography</span></li>
+                <li>Tommi Kantala <span class="liinfo">&ndash; Photography</span></li>
                 
                 
 
@@ -463,34 +463,34 @@
           <div class="medium-3 columns">
                 <ul class="no-bullet tekijalista">
                 
-                <li class="lititle">Yrityssuhteet</li>
-                <li>Tapio Hautamäki <span class="liinfo">&ndash; Vastaava</span></li>
+                <li class="lititle">Corporate relations</li>
+                <li>Tapio Hautamäki <span class="liinfo">&ndash; In charge</span></li>
                 <li>Markus Aapro</li>
                 <li>Elias Axelsson</li>
                 <li>Mariia Keitaanniemi</li>
                 
-                <li class="lititle">Tekniikka</li>
-                <li>Elias Axelsson <span class="liinfo">&ndash; Valaistusvastaava, projisoinnit</span></li>
-                <li>Alpi Rimppi <span class="liinfo">&ndash; Projisointivastaava, valaistus, videointi</span></li>
-                <li>Marci Gunyhó <span class="liinfo">&ndash; Ääniefektivastaava</span></li>
-                <li>Ossi Miikkulainen <span class="liinfo">&ndash; Miksaus</span></li>
-                <li>Tero Mäkinen <span class="liinfo">&ndash; Ääniefektit</span></li>
-                <li>Koos Zevenhoven <span class="liinfo">&ndash; Ääniefektit</span></li>
-                <li>Santeri Wiik <span class="liinfo">&ndash; Valaistus</span></li>
-                <li>Miika Leinonen <span class="liinfo">&ndash; Valaistus</span></li>
-                <li>Miio Taarna <span class="liinfo">&ndash; Projisoinnit</span></li>
+                <li class="lititle">Light and sound</li>
+                <li>Elias Axelsson <span class="liinfo">&ndash; Projections, in charge of lighting</span></li>
+                <li>Alpi Rimppi <span class="liinfo">&ndash; Lighting, recording, in charge of projections</span></li>
+                <li>Marci Gunyhó <span class="liinfo">&ndash; In charge of sound effects</span></li>
+                <li>Ossi Miikkulainen <span class="liinfo">&ndash; Sound mixing</span></li>
+                <li>Tero Mäkinen <span class="liinfo">&ndash; Sound effects</span></li>
+                <li>Koos Zevenhoven <span class="liinfo">&ndash; Sound effects</span></li>
+                <li>Santeri Wiik <span class="liinfo">&ndash; Stage lighting</span></li>
+                <li>Miika Leinonen <span class="liinfo">&ndash; Stage lighting</span></li>
+                <li>Miio Taarna <span class="liinfo">&ndash; Projections</span></li>
                 
-                <li class="lititle">Näyttämö</li>
-                <li>Lilli Konttinen <span class="liinfo">&ndash; Vastaava</span></li>
+                <li class="lititle">Stage</li>
+                <li>Lilli Konttinen <span class="liinfo">&ndash; In charge</span></li>
                 <li>Ari Viitala</li>
                 <li>Elsa Mannila</li>
                 <li>Heikki Nurmi</li>
                 <li>Markus Aapro</li>
                 <li>Sami Joutjärvi</li>
                 
-                <li class="lititle">Rekvisiitta ja lavastus</li>
-                <li>Koos Zevenhoven <span class="liinfo">&ndash; Vastaava</span></li>
-                <li>Viivi Halla-aho <span class="liinfo">&ndash; Vastaava</span></li>
+                <li class="lititle">Props and backdrops</li>
+                <li>Koos Zevenhoven <span class="liinfo">&ndash; In charge</span></li>
+                <li>Viivi Halla-aho <span class="liinfo">&ndash; In charge</span></li>
                 <li>Aapo Hanski</li>
                 <li>Aleksi Lahti</li>
                 <li>Eetu Ahonen</li>
@@ -509,7 +509,7 @@
                 <li>Sami Jouttijärvi</li>
                 <li>Tiina Kangasniemi</li>
                 <li>Topi Kuutela</li>
-                <li class="libreak">sekä</li>
+                <li class="libreak">and</li>
                 <li>Antti Mäkinen</li>
                 <li>Antti Rantala</li>
                 <li>Lari Koponen</li>
@@ -537,6 +537,9 @@
       </div>
     </div>
 </div>
+
+
+
 
 <div class="footer"> 
     <div class="row">
