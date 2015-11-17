@@ -60,7 +60,7 @@
             <div class="large-10 large-offset-1 medium-12 columns">
                 <div class="lippupallot">
                     <a href="https://holvi.com/shop/fyysikkospeksi/section/louhisali-i-la-1010-klo-18/"  target="_blank" class="date-ball">
-                        <span class="date-day">3.12.</span><span class="date-pvm">19:00</span> 
+                        <span class="date-day">3.12.</span><span class="date-pvm">18:00</span> 
                         <span class="date-loc">Servin Mökki</span> <span class="date-tic"> </span>
                     </a>
                 </div>
@@ -75,7 +75,7 @@
 
 <p>A small band of illusionists, the Mindblowers, is in a sticky situation: The Swedish Mafia, who control the entertainment industry with an iron fist, intend to collect their last pennies and earthly possessions. Will they succeed in the heist of the century and escape from the dreary and dangerous North for good? Or will the Swedes ruin our youth with their pop music? </p>
 
-<p>An English show of Mindblowers by Fyysikkospeksi is coming in 3rd of December at 19.00. Stay tuned, like Fyysikkospeksi on <a href="https://www.facebook.com/Fyysikkospeksi">Facebook</a>. </p>
+<p>An English show of Mindblowers by Fyysikkospeksi is coming in 3rd of December at 18.00. Stay tuned, like Fyysikkospeksi on <a href="https://www.facebook.com/Fyysikkospeksi">Facebook</a>. </p>
 
 <p>Fyysikospeksi is produced by The Guild of Physics. The production involves a broad range of polytechnicians. Fyysikkospeksi is known for a vibrant atmosphere, overachieving and self-reflective irony. Fyysikkospeksi allows anyone to be anything. We are certain that together we can create an unforgettable show.</p>
 
@@ -84,9 +84,7 @@
 <h4>What is spex?</h4>
 
 <p>Spex is musical theatre that relies strongly on improvisation, deep knowledge of theatre technique, and powerful drama. Still, spex is best characterized by a sense of uproarious humor and good spirit. Spectators can participate in the events on stage by shouting 'Omstart'. The scene is then reperformed with a new improvised twist. You can even add additional requests to the 'Omstart'-shout, such as 'Omstart, in German!'.</p>
-
-
-            
+          
           </div>
         </div>
     </dia>
